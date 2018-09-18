@@ -1,0 +1,35 @@
+.logo {
+  display: block;
+  position: relative;
+  width: 320px;
+  margin: 0 auto 2rem auto;
+  padding: 12px 0.5rem;
+  font-size: 60px;
+  line-height: 1;
+  font-family: $font-family-serif;
+  border-top: 18px solid $color-black;
+  border-bottom: 18px solid $color-black;
+  text-align: center;
+  text-decoration: none;
+  color: inherit;
+  transition: $transition;
+
+  &:before,
+  &:after {
+    display: block;
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: $color-black;
+  }
+  &:before {top: 0;}
+  &:after {bottom: 0;}
+
+  &:hover,
+  &:active,
+  &:focus {
+    border-color: transparent;
+  }
+}

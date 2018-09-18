@@ -1,6 +1,6 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Akadémia divadeľných tvorcov"
+perex1: "Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať."
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Kaldi?

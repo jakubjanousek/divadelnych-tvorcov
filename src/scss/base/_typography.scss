@@ -1,0 +1,22 @@
+html {
+  font-family: $font-family-serif;
+  font-size: 125%;
+  line-height: 1.5;
+  color: $color-black;
+}
+
+strong {
+  font-size: 0.66666rem;
+  font-family: $font-family-accent;
+  text-transform: uppercase;
+}
+
+a {
+  color: inherit;
+
+  &:focus,
+  &:hover,
+  &:active {
+    text-decoration: none;
+  }
+}

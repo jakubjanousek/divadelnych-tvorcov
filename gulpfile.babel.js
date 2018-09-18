@@ -1,16 +1,12 @@
 import gulp from "gulp";
 import cp from "child_process";
 import gutil from "gulp-util";
-import postcss from "gulp-postcss";
-import cssImport from "postcss-import";
-import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
-import svgstore from "gulp-svgstore";
-import svgmin from "gulp-svgmin";
-import inject from "gulp-inject";
-import cssnano from "cssnano";
+const autoprefixer = require('gulp-autoprefixer');
+const cleanCSS = require('gulp-clean-css');
+const sass = require('gulp-sass');
 
 const browserSync = BrowserSync.create();
 const hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
@@ -25,13 +21,14 @@ gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture
 gulp.task("build", ["css", "js", "hugo"]);
 gulp.task("build-preview", ["css", "js", "hugo-preview"]);
 
-gulp.task("css", () => (
-  gulp.src("./src/css/*.css")
-    .pipe(postcss([
-      cssImport({from: "./src/css/main.css"}),
-      cssnext(),
-      cssnano(),
-    ]))
+gulp.task("scss", () => (
+  gulp.src("./src/scss/style.scss")
+    .pipe(sass().on('error', sass.logError))
+    .pipe(autoprefixer({
+      browsers: ['last 2 versions'],
+      cascade: false
+    }))
+    .pipe(cleanCSS({}))
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
@@ -50,31 +47,14 @@ gulp.task("js", (cb) => {
   });
 });
 
-gulp.task("svg", () => {
-  const svgs = gulp
-    .src("site/static/img/icons-*.svg")
-    .pipe(svgmin())
-    .pipe(svgstore({inlineSvg: true}));
-
-  function fileContents(filePath, file) {
-    return file.contents.toString();
-  }
-
-  return gulp
-    .src("site/layouts/partials/svg.html")
-    .pipe(inject(svgs, {transform: fileContents}))
-    .pipe(gulp.dest("site/layouts/partials/"));
-});
-
-gulp.task("server", ["hugo", "css", "js", "svg"], () => {
+gulp.task("server", ["hugo", "scss", "js"], () => {
   browserSync.init({
     server: {
       baseDir: "./dist"
     }
   });
   gulp.watch("./src/js/**/*.js", ["js"]);
-  gulp.watch("./src/css/**/*.css", ["css"]);
-  gulp.watch("./site/static/img/icons-*.svg", ["svg"]);
+  gulp.watch("./src/scss/**/*.scss", ["scss"]);
   gulp.watch("./site/**/*", ["hugo"]);
 });
 

@@ -1,13 +1,25 @@
 {{ define "main" }}
+<div class="container-fluid">
 
-{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+    <div class="motto">
+        <div class="motto__title">Motto:</div>
+        <div class="motto__text">
+            Častokrát sa vídame,<br/>
+            no málo vieme o svojich názoroch.
+        </div>
+        <div class="motto__title">V. J.</div>
+    </div>
 
-{{ partial "short-text" .Params.blurb}}
+    <div class="row">
+       <div class="col-md-6">
+           {{ .perex1 }}
+       </div>
+        <div class="col-md-6">
+            <div class="spacer"></div>
+            <p><strong>Akadémia divadelných tvorcov</strong> má v úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať.</p>
+            <p>Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej <strong>Ceny za divadelné dielo sezóny</strong>, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v danej sezóne a následne tieto inšpiratívne inscenácie predstavila <strong>organizovaním viacmesačnej prehliadky v Bratislave</strong>.</p>
+        </div>
+    </div>
 
-{{ partial "2-up" .Params }}
-
-{{ partial "text-and-image" (dict "heading" .Params.values.heading "text" .Params.values.text "buttonText" "Read more" "buttonLink" "/values") }}
-
-{{ partial "blog" . }}
-
+</div>
 {{ end }}
