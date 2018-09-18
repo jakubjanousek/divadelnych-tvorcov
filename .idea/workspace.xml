@@ -2,139 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b693c277-8f2d-4edc-b3b9-d72fd27e1fdc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.babel.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.babel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/site/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/site/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/contact/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/post/brewing-chemex.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/post/jamaica-blue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/post/making-sense.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/products/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/content/values/_index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/_default/baseof.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/_default/baseof.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/_default/li.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/_default/list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/_default/single.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/layouts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/2-up.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/4-up.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/blockquote.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/blog.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/contact-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/image-grid.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/jumbotron.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/media-block-reverse.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/media-block.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/newsletter-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/pagination.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/short-text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/social-icon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/svg.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/table-column.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/table.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/partials/text-and-image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/products.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/layouts/section/values.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-direct-sourcing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-reinvest-profits.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-shade-grown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-single-origin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/about-sustainable-farming.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-chemex.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-flavor_wheel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/blog-index.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/home-about-section.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/home-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/icon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/icons-facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/icons-instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/icons-twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/icons-vimeo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee-gear.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-coffee.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-meeting-space.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/illustrations-tutorials.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/mstile-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/mstile-310x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/mstile-310x310.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/mstile-70x70.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/og-image.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-full-width.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-grid3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/products-jumbotron.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/static/img/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_background-position.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_background-size.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_border-colors.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_border-radius.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_border-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_border-widths.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_borders.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_box-sizing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_buttons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_clears.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_cms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_code.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_colors.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_coordinates.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_debug-children.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_debug-grid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_debug.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_display.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_flexbox.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_floats.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_font-style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_font-weight.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_forms.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_heights.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_images.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_line-height.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_links.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_lists.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_max-widths.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_media-queries.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_opacity.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_outlines.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_overflow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_position.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_reset.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_spacing.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_states.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_svg.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_tables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_text-align.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_text-decoration.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_text-transform.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_type-scale.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_typography.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_utilities.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_variables.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_vertical-align.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_visibility.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_white-space.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_widths.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_word-break.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/imports/_z-index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/site/static/admin/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_variables.scss" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -148,13 +17,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/content/_index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="765" selection-start-line="2" selection-start-column="765" selection-end-line="2" selection-end-column="765" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
             </state>
           </provider>
         </entry>
@@ -184,7 +50,6 @@
         <option value="$PROJECT_DIR$/src/scss/style.scss" />
         <option value="$PROJECT_DIR$/src/scss/components/_spacer.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_typography.scss" />
-        <option value="$PROJECT_DIR$/src/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/site/layouts/_default/baseof.html" />
         <option value="$PROJECT_DIR$/src/scss/objects/_container.scss" />
         <option value="$PROJECT_DIR$/src/scss/base/_page.scss" />
@@ -193,6 +58,7 @@
         <option value="$PROJECT_DIR$/site/content/_index.md" />
         <option value="$PROJECT_DIR$/site/layouts/index.html" />
         <option value="$PROJECT_DIR$/src/scss/components/_menu.scss" />
+        <option value="$PROJECT_DIR$/src/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/site/static/admin/config.yml" />
       </list>
     </option>
@@ -229,6 +95,24 @@
               <item name="divadelnych-tvorcov" type="462c0819:PsiDirectoryNode" />
               <item name="site" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="divadelnych-tvorcov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="divadelnych-tvorcov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="divadelnych-tvorcov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="divadelnych-tvorcov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="divadelnych-tvorcov" type="b2602c69:ProjectViewProjectNode" />
+              <item name="divadelnych-tvorcov" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,15 +160,16 @@
       <updated>1536328195565</updated>
       <workItem from="1536328198092" duration="7419000" />
       <workItem from="1536774672701" duration="602000" />
-      <workItem from="1537207856134" duration="3064000" />
+      <workItem from="1537207856134" duration="3473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11085000" />
+    <option name="totallyTimeSpent" value="11494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16011904" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -311,13 +196,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../letnaky/components/Cinema.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webpack.conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-307">
@@ -448,20 +326,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/base/_typography.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/base/_page.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -497,13 +361,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/netlify.toml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/layouts/post/single.html">
       <provider selected="true" editor-type-id="text-editor" />
@@ -552,13 +409,6 @@
     <entry file="file://$PROJECT_DIR$/site/static/admin/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/site/content/_index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -566,6 +416,41 @@
             <caret line="2" column="765" selection-start-line="2" selection-start-column="765" selection-end-line="2" selection-end-column="765" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/orchestrator/lib/runTask.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/base/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
