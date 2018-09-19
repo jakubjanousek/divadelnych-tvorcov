@@ -18,8 +18,8 @@ if (process.env.DEBUG) {
 
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
-gulp.task("build", ["css", "js", "hugo"]);
-gulp.task("build-preview", ["css", "js", "hugo-preview"]);
+gulp.task("build", ["scss", "js", "hugo"]);
+gulp.task("build-preview", ["scss", "js", "hugo-preview"]);
 
 gulp.task("scss", () => (
   gulp.src("./src/scss/style.scss")
