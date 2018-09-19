@@ -1,5 +1,5 @@
-<div class="row mb-4">
-    {{ range where .Data.Pages "Type" "post" }}
+<div class="row mb-4 justify-content-center">
+    {{ range first 2 (where .Data.Pages "Type" "post") }}
     <div class="col-md-6 col-lg-4">
         <div class="post">
             <div class="post__date">
@@ -12,7 +12,6 @@
                 {{ .Params.intro }}
             </div>
             <a href="/post">Čítať viac</a>
-
         </div>
     </div>
     {{ end }}

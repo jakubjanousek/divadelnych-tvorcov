@@ -17,6 +17,20 @@ a {
   &:focus,
   &:hover,
   &:active {
+    position: relative;
     text-decoration: none;
+
+    &:after {
+      content: '';
+      display: block;
+      position: absolute;
+      height: 18px;
+      background-color: transparent;
+      transition: $transition;
+    }
+
+    &:after {
+      background-color: $color-black;
+    }
   }
 }
