@@ -3,7 +3,11 @@
   {{ partial "head" . }}
   <body class="sans-serif">
     {{ partial "header" . }}
-    {{ block "main" . }}{{ end }} 
-    {{ partial "footer" . }} 
+
+    <div class="container-fluid">
+        {{ block "main" . }}{{ end }}
+    </div>
+
+    {{ partial "footer" . }}
   </body>
 </html>
