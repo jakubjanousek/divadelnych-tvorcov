@@ -22,7 +22,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: "Perex", name: perex, widget: object, fields: [
+          - {label: Perex, name: perex, widget: object, fields: [
               {label: "Column 1", name: "column1", widget: "markdown"},
               {label: "Column 2", name: "column2", widget: "markdown"}
           ]}

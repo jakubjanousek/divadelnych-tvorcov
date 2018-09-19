@@ -1,5 +1,5 @@
 ---
-title: Akadémia divadeľných tvorcov
+title: Akadémia divadelných tvorcov2
 perex:
   column1: >-
     Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v
@@ -15,4 +15,3 @@ perex:
     iniciovať.
   column2: "**Akadémia divadelných tvorcov** má v\_úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať.\n\n\nTento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny za divadelné dielo sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v\_danej sezóne a\_následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v\_Bratislave**."
 ---
-
