@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="row">
+    {{ range first 2 (where .Data.Pages "Type" "oznamy") }}
+    <div class="col-md-6 col-lg-4">
+        <div class="post">
+            <div class="post__date">
+                {{ .Date.Format "02.01.2006" }}
+            </div>
+            <div class="post__title">
+                {{ .Title }}
+            </div>
+            <div class="post__intro">
+                {{ .Params.intro }}
+            </div>
+            <a href="/post">Čítať viac</a>
+        </div>
+    </div>
+    {{ end }}
+</div>
+</div>
+{{ end }}
+
