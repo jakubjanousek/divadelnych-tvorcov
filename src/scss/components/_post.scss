@@ -1,0 +1,10 @@
+.post {
+  &__title {
+    font-family: $font-family-accent;
+    text-transform: uppercase;
+  }
+
+  &__intro {
+    font-style: italic;
+  }
+}

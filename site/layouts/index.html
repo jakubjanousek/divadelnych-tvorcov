@@ -1,24 +1,9 @@
 {{ define "main" }}
 <div class="container-fluid">
 
-    <div class="motto">
-        <div class="motto__title">Motto:</div>
-        <div class="motto__text">
-            Častokrát sa vídame,<br/>
-            no málo vieme o svojich názoroch.
-        </div>
-        <div class="motto__title">V. J.</div>
-    </div>
+    {{ partial "perex" .Params.perex }}
 
-    <div class="row">
-       <div class="col-md-6">
-           {{ .Params.perex.column1 | markdownify }}
-       </div>
-        <div class="col-md-6">
-            <div class="spacer"></div>
-            {{ .Params.perex.column2 | markdownify }}
-        </div>
-    </div>
+    {{ partial "news" . }}
 
 </div>
 {{ end }}
