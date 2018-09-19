@@ -5,7 +5,7 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+  - name: "oznamy" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Post" # Used in the UI, ie.: "New Post"
     folder: "site/content/post" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/_index.md"
+       - file: "site/content/_index.md"
         label: "Home Page"
         name: "home"
         fields:
@@ -26,3 +26,9 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Column 1", name: "column1", widget: "markdown"},
               {label: "Column 2", name: "column2", widget: "markdown"}
           ]}
+      - file: "site/content/_kontakt.md"
+        label: "Kontakt"
+        name: "kontakt"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
