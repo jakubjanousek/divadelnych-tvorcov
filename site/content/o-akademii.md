@@ -27,7 +27,7 @@ _Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštá
 
 Vedúcim orgánom Akadémie bude Prezídium v prvých dvoch rokov volené zo zakladajúcich členov a následne volené každé 2 roky Valným zhromaždením.
 
-## II./ 	Hlavnou náplňou Akadémie je konštituovať a každoročne organizovať Cenu za divadelné dielo sezóny (ďalej Cena).
+## II./ Hlavnou náplňou Akadémie je konštituovať a každoročne organizovať Cenu za divadelné dielo sezóny (ďalej Cena).
 
 V prvých dvoch rokoch pôjde o činoherné inscenácie /inscenácie blízke činohre a v nasledujúcich sezónach sa postupne pridajú i ďalšie kategórie, ktoré určí Akadémia v priebehu prvého súťažného roka..
 
@@ -47,7 +47,7 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 
 **1. variant**
 
-* Prvé kolo bude prebiehať už v sezóne 2018/19, jeho vyhodnotenie máj/ jún 2019.
+* Prvé kolo bude prebiehať už v sezóne 2018\/19, jeho vyhodnotenie máj/jún 2019.
 * Máj /jún začiatok organizovania prehliadky v BA z nominovaných inscenácií prvého kola.
 * Prehliadka bude prebiehať nasledujúcu sezónu 2019/20 v septembri až decembri v divadelných priestoroch vhodných pre konkrétnu inscenáciu.
 * Druhé kolo výberu víťaza Ceny bude rovnako prebiehať od septembra do decembra 2020.
