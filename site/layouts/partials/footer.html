@@ -1,6 +1,6 @@
 <footer class="footer">
     <div class="container-fluid">
-        &copy; 2018 Akadémia divadeľných tvorcov
+        {{ with .Site.GetPage "/"}}{{ .Params.footer }}{{ end }}
     </div>
 </footer>
 
