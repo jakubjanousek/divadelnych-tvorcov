@@ -5,9 +5,9 @@ title: O akadémií
 
 _Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať._
 
-_**Akadémia divadelných tvorcov **má v úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať. _
+**Akadémia divadelných tvorcov** _má v úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať._
 
-_Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny za divadelné dielo sezóny, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v danej sezó**ne a následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v Bratislave**._
+_Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny za divadelné dielo sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v danej sezóne a následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v Bratislave**._
 
 **Cieľom Akadémie teda je:**
 
@@ -67,8 +67,6 @@ _Autorský tím, resp. Prípravný výbor Akadémie divadelných tvorcov verí, 
 
 _Autorský tím a Prípravný výbor Akadémie divadelných tvorcov verí, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
 
-**Autorka projektu a autorský tím Akadémie divadelných tvorcov, zároveň Prípravný výbor:**
-
-MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. 
+**Autorka projektu a autorský tím Akadémie divadelných tvorcov, zároveň Prípravný výbor:** MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. 
 
 **Spolupráca:** Mgr. Katarína Mádelová
