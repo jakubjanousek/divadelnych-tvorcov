@@ -43,7 +43,7 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 
  v hlavnom meste Bratislava prebiehajúcu v následnej sezóne po prvom kole. Na určenom predstavení (koncom decembra) zároveň odovzdá Akadémia udelenú cenu.
 
-**Časový rámec výberu inscenácií a prehliadky: **
+**Časový rámec výberu inscenácií a prehliadky:**
 
 **1. variant**
 
