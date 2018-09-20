@@ -60,7 +60,7 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 * Máj /jún začiatok organizovania prehliadky z nominovaných inscenácií prvého kola.
 * Prehliadka v BA bude prebiehať nasledujúcu sezónu 2020/21 v septembri až decembri  v divadelných priestoroch vhodných pre konkrétnu inscenáciu.
 * Druhé kolo výberu víťaza Ceny bude rovnako prebiehať od septembra do decembra 2021.
-* Vyhlásenie víťaznej inscenácie v rámci prehliadky v decembri  2021. 
+* Vyhlásenie víťaznej inscenácie v rámci prehliadky v decembri 2021. 
 * Zároveň od septembra 2020 sa začína ďalší výberový ročník sezóny 2020/21.
 
 _Autorský tím, resp. Prípravný výbor Akadémie divadelných tvorcov verí, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané tri Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania a kritérií divadelníctva predovšetkým prostredníctvom reflexie tvorby v danej sezóne (Cena) a prostredníctvom priblíženia jej celoslovenského obrazu v podobe Celoročnej prehliadky v Bratislave._
