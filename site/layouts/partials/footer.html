@@ -1,6 +1,6 @@
 <footer class="footer">
     <div class="container-fluid">
-        {{ with .Site.GetPage "/"}}{{ .Params.footer }}{{ end }}
+        {{ with .Site.GetPage "/"}}{{ .Params.footer | markdownify }}{{ end }}
     </div>
 </footer>
 
