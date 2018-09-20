@@ -74,5 +74,5 @@ V Bratislave dňa
 1. Do 31. novembra – nahlási divadlo záujem zúčastniť sa súťaže (čl. 2, ods. 3)
 2. 3 týždne po premiére dodá divadlo záväznú prihlášku a zabezpečí najmenej 3 reprízy, na ktorej sa môžu členovia Nominačnej komisie zúčastniť, a to najneskôr do 30. júna (čl. 2, ods. 2). V prípade, že premiéra bude v júni, musí divadlo túto situáciu dopredu konzultovať s Akadémiou.
 3. Nominačná komisia musí rozhodnúť o inscenáciách postupujúcich do 2. kola najneskôr do 5. júna (čl. 3, ods.6)
-4. V prípade, že inscenácia postúpi do 2. kola, je divadlo povinné zabezpečiť od 1. septembra do 30. novembra ďalšej sezóny minimálne 3 reprízy.
+V prípade, že inscenácia postúpi do 2. kola, je divadlo povinné zabezpečiť od 1. septembra do 30. novembra ďalšej sezóny minimálne 3 reprízy.
 Komisia rozhodne po dohovore s Akadémiou tak, aby Cena mohla byť odovzdaná do 20. decembra ďalšej sezóny.
