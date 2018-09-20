@@ -34,3 +34,11 @@ a {
     }
   }
 }
+
+h3 {
+  font-family: $font-family-accent;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 900;
+  margin-bottom: 1rem;
+}

@@ -1,5 +1,4 @@
 ---
-title: Akadémia divadelných tvorcov2
 perex:
   column1: >-
     Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v

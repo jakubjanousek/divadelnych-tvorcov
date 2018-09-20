@@ -2,5 +2,10 @@
   &__title {
     font-family: $font-family-accent;
     text-transform: uppercase;
+    margin-bottom: 1rem;
+  }
+
+  &__intro {
+    font-style: italic;
   }
 }

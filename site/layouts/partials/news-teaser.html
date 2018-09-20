@@ -1,0 +1,12 @@
+<div class="post">
+    <div class="post__date">
+        {{ .Date.Format "02.01.2006" }}
+    </div>
+    <div class="post__title">
+        {{ .Title }}
+    </div>
+    <div class="post__intro">
+        {{ .Params.intro }}
+    </div>
+    {{ if .Content }}<a href="{{ .Permalink }}">Čítať viac</a>{{ end }}
+</div>
