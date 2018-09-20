@@ -1,8 +1,8 @@
 ---
 title: Štatút Ceny Akadémie divadelných tvorcov
 ---
-**Článok 1 **
-### Všeobecné ustanovenia
+### Článok 1 
+## Všeobecné ustanovenia
 
 1. Vyhlasovateľom a organizátorom „Ceny za divadelnú inscenáciu sezóny“ je Občianske združenie Akadémia divadelných tvorcov (ďalej len „Akadémia“) v spolupráci s Literárnym fondom.
 2. Výklad Štatútu, zmeny či úpravy Štatútu schvaľuje Štatutárna komisia, ktorá je zložená z členov Prezídia Akadémie (viď Stanovy združenia čl. 13 ods. 4).
