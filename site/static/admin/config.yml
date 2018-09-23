@@ -33,15 +33,15 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/statut.md"
-        label: "Štatút"
-        name: "statut"
+      - file: "site/content/stanovy.md"
+        label: "Stanovy Akadémie"
+        name: "stanovy"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/ceny.md"
-        label: "Ceny"
-        name: "ceny"
+      - file: "site/content/statut-ceny.md"
+        label: "Štatút Ceny"
+        name: "statut-ceny"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
