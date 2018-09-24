@@ -1,8 +1,16 @@
 ---
-title: Ustanovujúca schôdza prebehla
-date: 2018-09-19T06:18:50.481Z
+title: Prvé stretnutie členov Akadémie divadelných tvorcov.
+date: 2018-09-24T06:18:50.481Z
 intro: >-
-  Intro ipsum dolor sit amet Intro ipsum dolor sit amet Intro ipsum dolor sit
-  amet
+  Prvé stretnutie členov Akadémie divadelných tvorcov, ktoré bude zároveň jej
+  Ustanovujúcim valným zhromaždením sa bude konať 25. 9. 2018 o 14:30 hod. na
+  Školskej 14 v Bratislave (Divadlo TICHO a spol.).
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque rhoncus mi ac nunc porta, quis posuere augue accumsan. Vivamus pellentesque mauris a nulla suscipit, in laoreet neque volutpat. Duis sollicitudin gravida metus id commodo. Vestibulum non justo ut ex volutpat facilisis vitae et lacus. Curabitur tempor ultricies erat, et fringilla lectus posuere ut. Nullam rutrum nec justo vel suscipit. Mauris et justo nec velit suscipit fringilla. Donec accumsan ac nulla sed pulvinar. Fusce in ligula aliquam, volutpat massa non, porttitor erat.
+Stretnutie organizuje prípravný výbor v zložení: \
+MgA. Viktória Janoušková, \
+PhDr. Elena Knopová, PhD., \
+Mgr. art. Viera Dubačová, \
+prof. Ida Hledíková PhD., \
+Mgr. art. Iva Jurčová, \
+Mgr. art. Michal Ditte, \
+prof. Mgr.art. Roman Polák.
