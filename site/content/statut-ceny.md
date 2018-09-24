@@ -1,7 +1,7 @@
 ---
 title: Štatút Ceny Akadémie divadelných tvorcov
 ---
-### Článok 1 
+### Článok 1
 ## Všeobecné ustanovenia
 
 1. Vyhlasovateľom a organizátorom „Ceny za divadelnú inscenáciu sezóny“ je Občianske združenie Akadémia divadelných tvorcov (ďalej len „Akadémia“) v spolupráci s Literárnym fondom.
@@ -14,14 +14,14 @@ title: Štatút Ceny Akadémie divadelných tvorcov
 7. Ocenená inscenácia má právo na označenie „Inscenácia ocenená Akadémiou divadelných tvorcov“.
 
 ### Článok 2
-##  Podmienky účasti / Kritéria prihlasovaných inscenácií
+## Podmienky účasti / Kritéria prihlasovaných inscenácií
 
 1. Na ocenenie „Cena za divadelnú inscenáciu sezóny“ môžu byť prihlásené divadelné inscenácie vytvorené profesionálnym divadlom (zriaďovaným i nezriaďovaným) so sídlom na Slovensku. Inscenáciu nespĺňajúcu dané kritériá môže zaradiť do výberu jedine Štatutárna komisia na návrh aspoň 2 členov príslušnej nominačnej komisie Akadémie.
 2. Na ocenenie „Cena za divadelnú inscenáciu sezóny“ môžu byť prihlásené len inscenácie, ktorých premiéra sa uskutočnila v čase medzi 1. septembrom a 30. júnom hodnotenej sezóny, počas tohto obdobia sa uskutočnia minimálne 3 verejné predstavenia za odplatu, na ktorých divadlo umožní nominačnej komisii vzhliadnuť predstavenie, a to najneskôr do 30. 6. danej sezóny. V prípade, že premiéra a reprízy neprebehnú do daného termínu, môže byť inscenácia vyradená/preložená Štatutárnou komisiou do ďalšieho ročníka Ceny.
 3. Na ocenenie môžu byť zaradené inscenácie, pri ktorých ich zriaďovateľ/štatutár / tvorca písomne vyjadrí záujem o zaradenie najneskôr do 30. novembra danej sezóny, zašle Akadémii dátum/dátumy pripravovanej/ných premiéry /premiér s kompletným realizačným tímom a obsadením. Následne najneskôr mesiac po premiére inscenáciu prihlási riadnou prihláškou (viď...) a zašle 3 termíny, kedy ich komisia môže vzhliadnuť. Inscenácie, ktorých premiéry sú plánované na máj/jún danej sezóny a zriaďovateľ/tvorca ich zamýšľa prihlásiť a ohlási to, budú konzultované Štatutárnou komisiou osobitne. 
 4. Podmienkou pre prihlásenie a nominovanie inscenácii je tiež celková minutáž, ktorá musí byť vyššia ako 45 minút. 
 
-### Článok 3 
+### Článok 3
 ## Prihlasovanie, nominácie a výber ocenenej inscenácie
 
 1. Na ocenenie môžu byť jednotlivé inscenácie prihlásené štatutárnym zástupcom príslušného profesionálneho divadla alebo ktorýmkoľvek z tvorcov. Každé profesionálne divadlo (zriaďované i nezriaďované) má právo navrhnúť jednu inscenáciu, ktorá má premiéru v danej sezóne, divadlá so 4 a viac premiérami realizovanými za danú sezónu, môžu navrhnúť maximálne 2 inscenácie, a to tak, že 1 navrhuje divadlo a 2. môže navrhnúť ktorýkoľvek tvorca inscenácie daného divadla. V prípade viacerých ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akadémie divadlo a tvorcov na dialóg,
@@ -39,7 +39,7 @@ title: Štatút Ceny Akadémie divadelných tvorcov
 13. Okrem Ceny za divadelnú inscenáciu sezóny môže Prezídium, Nominačné komisie a Vrcholová komisia navrhnúť Ocenenie (aj individuálne) v rámci témy, ktorej považujú za potrebné venovať pozornosť. Návrhy vyhodnotí a Ocenenie udelí Prezídium.
 14. S notársky overenými výsledkami druhého kola hlasovania oboznámi Prezídium ostatných členov Akadémie a verejnosť až na slávnostnom udeľovaní ceny, ktorého záväzný termín určí Prezídium. 
 
-### Článok 4 
+### Článok 4
 ## Hlasovanie a systém hodnotenia
 
 1. V prvom kole hlasovania zhodnotí každý člen príslušnej Nominačnej komisie každú prihlásenú inscenáciu  písomne a následne  na spoločnom stretnutí označí každý člen tri najlepšie inscenácie (6, 3, 1 bodov), pričom po sčítaní hlasov sa vytvorí poradie, z ktorého prvé dve (resp. tri, viď čl. 3. ods. 6.) s najvyšším počtom hlasov postúpia ako nominované do druhého kola hlasovania.
@@ -48,19 +48,19 @@ title: Štatút Ceny Akadémie divadelných tvorcov
 4. Členovia Akadémie, ktorí sú spolutvorcami inscenácie v danom roku prihlásenej alebo nominovanej na ocenenie, alebo sú členmi súborov, resp. zamestnancami divadla  inscenácie v danom roku prihlásenej alebo nominovanej na ocenenie, nemôžu hlasovať v komisii dotknutého Okruhu, resp. vo vrcholovej komisii. Právo týchto členov Akadémie hlasovať v nominačnej komisii iného Okruhu však ostáva zachované.
 
 ### Článok 5
-##  Kompetencie a povinnosti Štatutárnej komisie Akadémie 
+## Kompetencie a povinnosti Štatutárnej komisie Akadémie
 
 1. Prezídium Akadémie zabezpečí pre členov hodnotiacich komisií možnosť vzhliadnuť všetky prihlásené inscenácie v príslušnom Okruhu v prvom kole, resp. v druhom kole všetky postupujúce nominované inscenácie.
 2. Štatutárna komisia Akadémie zabezpečí všetky činnosti a úkony súvisiace s prípravou a s priebehom oboch kôl hlasovania, zabezpečí aj vypracovanie a distribúciu hlasovacích lístkov a sčítanie a vyhodnotenie hlasov ako aj notárske overenie konečných výsledkov. Štatutárna komisia Akadémie ako hlavný rozhodovací orgán rieši všetky prípadné spory, námietky a protesty, aké sa vyskytnú pred, počas alebo po hlasovaní a svojím odborným a starostlivým prístupom vytvorí dôstojný rámec Cene udeľovanej Akadémiou divadelných tvorcov.
 
-### Článok 6 
+### Článok 6
 ## Organizačné  a finančné zabezpečenie udeľovania cien
 
 1. Cena Akadémie divadelných tvorcov sa udeľuje v rámci ceremoniálu raz ročne v divadle / priestore určenom Prezídiom.
 2. Akadémia uzatvorí s divadlom / priestorom zmluvu, v ktorej sa každoročne upravia finančné a časové podmienky spolupráce na udeľovaní Ceny.
 3. Finančné náklady spojené s organizáciou prihlasovania, s činnosťami hodnotiacich komisií a s udeľovaním Ceny sú zabezpečované z vlastných prostriedkov vyhlasovateľa, z prostriedkov oslovených spoluorganizátorov či iných partnerov, ministerstiev a ich grantových programov, nadácií, fondov a súkromných sponzorov.
 
-### Článok 7 
+### Článok 7
 ## Záverečné ustanovenia
 
 1. Tento Štatút je vyhotovený v 5 exemplároch a nadobúda platnosť dňom podpisu štatutára Akadémie divadelných tvorcov
