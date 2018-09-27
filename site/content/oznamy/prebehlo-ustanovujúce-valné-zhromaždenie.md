@@ -10,10 +10,10 @@ Zakladajúcimi členmi sa stali všetci, ktorí poslali prihlášku alebo boli p
 Zakladajúci členovia: \
 Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., Mgr. art. Miklós Forgács, MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.
 
-Valné zhromaždenie schválilo stanovy o.z., štatút ceny a zvolilo si členov Prezídia a Revíznej komisie. Prezídium si spomedzi seba následne schválilo Prezidenta a dvoch Viceprezidentov.
+Valné zhromaždenie schválilo Stanovy o.z., Štatút ceny a zvolilo si členov Prezídia a Revíznej komisie. Prezídium si spomedzi seba následne schválilo Prezidenta a dvoch Viceprezidentov.
 
 **Prezídium:** \
-Prezident: MgA. Viki Janoušková \
+Prezidentka: MgA. Viki Janoušková \
 Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD. \
 Členovia: prof. PhDr. Vladimír Štefko, CSc., prof. Roman Polák, Mgr. Tatiana Masníková, Mgr. art. Monika Kováčová, a Mgr. art. Ľubomír Bukový, ArtD.
 
