@@ -20,5 +20,5 @@ Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD. \
 Mgr. art. Michal Ditte, prof. Ida Hledíková, PhD. a Ing. Matúš Petričko
 
 _Akadémia rada privíta ďalších členov spomedzi divadelníkov._\
-_Prihlášku môžete nájsť v sekcii _[_kontakt_](https://www.adt-theatre.sk/kontakt/)_._\
+Prihlášku môžete nájsť v sekcii [kontakt](https://www.adt-theatre.sk/kontakt/).\
 _Tešíme sa na Vás!_
