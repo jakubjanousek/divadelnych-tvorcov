@@ -1,5 +1,5 @@
 ---
-title: O akadémií
+title: O akadémii
 ---
 **Motto: Častokrát sa vídame, no málo vieme o svojich názoroch. V. J.**
 
