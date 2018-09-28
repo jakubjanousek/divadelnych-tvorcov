@@ -7,9 +7,9 @@ intro: >-
   všetkým, ktorí našli mentálnu silu na diskomfort...
 ---
 Zakladajúci členovia: \
-Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., Mgr. art. Miklós Forgács, MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.
+Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.
 
-Valné zhromaždenie schválilo Stanovy o.z., Štatút ceny a zvolilo si členov Prezídia a Revíznej komisie. Prezídium si spomedzi seba následne schválilo Prezidenta a dvoch Viceprezidentov.
+_Valné zhromaždenie schválilo Stanovy o.z., Štatút ceny a zvolilo si členov Prezídia a Revíznej komisie. Prezídium si spomedzi seba následne schválilo Prezidenta a dvoch Viceprezidentov._
 
 **Prezídium:** \
 Prezidentka: MgA. Viki Janoušková \
@@ -19,7 +19,7 @@ Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD. \
 **Revízna komisia:** \
 Mgr. art. Michal Ditte, prof. Ida Hledíková, PhD. a Ing. Matúš Petričko
 
-Akadémia rada privíta ďalších členov spomedzi divadelníkov. \
-Prihlášku môžete nájsť v sekcii [kontakt](https://www.adt-theatre.sk/kontakt/). 
+_Akadémia rada privíta ďalších členov spomedzi divadelníkov. _\
+_Prihlášku môžete nájsť v sekcii _[_kontakt_](https://www.adt-theatre.sk/kontakt/)_. _
 
-Tešíme sa na Vás!
+_Tešíme sa na Vás!_
