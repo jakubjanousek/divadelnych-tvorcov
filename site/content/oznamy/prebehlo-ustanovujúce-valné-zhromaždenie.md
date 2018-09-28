@@ -3,7 +3,9 @@ title: Prebehlo ustanovujúce valné zhromaždenie
 date: 2018-09-27T09:44:59.558Z
 intro: >-
   V utorok 25. septembra o 14:30 v priestoroch divadla Ticho & spol. prebehlo
-  Ustanovujúce valné zhromaždenie o.z. Akadémia divadelných tvorcov.
+  Ustanovujúce valné zhromaždenie o.z. Akadémia divadelných
+  tvorcov.Zakladajúcimi členmi sa stali všetci, ktorí poslali prihlášku alebo
+  boli prítomní na zhromaždení. Ďakujeme všetkým, ktorí mali mentálnu silu na
 ---
 Zakladajúcimi členmi sa stali všetci, ktorí poslali prihlášku alebo boli prítomní na zhromaždení.
 
