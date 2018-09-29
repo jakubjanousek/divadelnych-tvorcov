@@ -3,10 +3,12 @@ title: Kontakt
 ---
 **Akadémia divadelných tvorcov** \
 Školská 14, 811 07 Bratislava \
-IČO: 51718197
+\
+IČO: 51718197\
+č. ú.: SK48 0900 0000 0051 4673 0578
 
 **Kontaktná osoba:** \
 MgA. Viki Janoušková \
-[akademia@adt-theatre.sk](mailto:akademia@adt-theatre.sk)
+<mailto:akademia@adt-theatre.sk>
 
-Prihláška do Akadémie divadelných tvorcov na stiahnutie - [formát PDF](/prihlaska.pdf).
+_Prihláška do Akadémie divadelných tvorcov na stiahnutie_ - [formát PDF](/prihlaska.pdf).
