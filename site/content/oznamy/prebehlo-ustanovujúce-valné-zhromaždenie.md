@@ -8,7 +8,8 @@ intro: >-
 ---
 Zakladajúci členovia: \
 Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.\
-Čestná členka: Mgr. art. Viera Dubačová. 
+Čestná členka: \
+Mgr. art. Viera Dubačová. 
 
 _Valné zhromaždenie schválilo Stanovy o.z., Štatút ceny a zvolilo si členov Prezídia a Revíznej komisie. Prezídium si spomedzi seba následne schválilo Prezidenta a dvoch Viceprezidentov._
 
