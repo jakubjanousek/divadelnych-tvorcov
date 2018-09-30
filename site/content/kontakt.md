@@ -12,3 +12,5 @@ MgA. Viki Janoušková \
 <mailto:akademia@adt-theatre.sk>
 
 _Prihláška do Akadémie divadelných tvorcov na stiahnutie_ - [formát PDF](/prihlaska.pdf).
+
+Prípravný výbor pracoval v zložení: Mgr. art. Iva Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. art. Viera Dubačová, prof. Ida Hledíková, MgA. Viki Janoušková, PhD., PhDr. Elena Knopová, PhD. - Bez nich by Akadémia nebola.
