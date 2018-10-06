@@ -1,6 +1,10 @@
 .menu {
-  margin-bottom: 6rem;
+  margin-bottom: 3rem;
   text-align: center;
+
+  @media (min-width: $breakpoint-sm) {
+    margin-bottom: 6rem;
+  }
 
   &__item {
     display: inline-block;

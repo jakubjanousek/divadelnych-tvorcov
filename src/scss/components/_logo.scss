@@ -1,18 +1,25 @@
 .logo {
   display: block;
   position: relative;
-  width: 320px;
   margin: 0 auto 2rem auto;
   padding: 12px 0.5rem;
-  font-size: 60px;
+  width: 260px;
+  font-size: 50px;
   line-height: 1;
   font-family: $font-family-serif;
-  border-top: 18px solid $color-black;
-  border-bottom: 18px solid $color-black;
+  border-top: 14px solid $color-black;
+  border-bottom: 14px solid $color-black;
   text-align: center;
   text-decoration: none;
   color: inherit;
   transition: $transition;
+
+  @media (min-width: $breakpoint-sm) {
+    width: 320px;
+    font-size: 60px;
+    border-top: 18px solid $color-black;
+    border-bottom: 18px solid $color-black;
+  }
 
   &:before,
   &:after {
