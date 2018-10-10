@@ -247,4 +247,4 @@ b) právoplatným rozhodnutím príslušného orgánu o jej rozpustení.
 
 \
 \
-Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 25. 9. 2018 a overené Prezídiom Akadémie 9.10.2018. 
+Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 25. 9. 2018 a overené Prezídiom Akadémie 9.10.2018.
