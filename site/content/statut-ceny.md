@@ -24,7 +24,7 @@ Presný termín ich udeľovania určí Prezídium Akadémie (ďalej len „Prez�
 ### Článok 3
 ## Prihlasovanie, nominácie a výber ocenenej inscenácie
 
-1. Na ocenenie môžu byť jednotlivé inscenácie prihlásené štatutárnym zástupcom príslušného profesionálneho divadla alebo ktorýmkoľvek z tvorcov. Každé profesionálne divadlo (zriaďované i nezriaďované) má právo navrhnúť jednu inscenáciu, ktorá má premiéru v danej sezóne, divadlá so 4 a viac premiérami realizovanými za danú sezónu, môžu navrhnúť maximálne 2 inscenácie, a to tak, že 1 navrhuje divadlo a 2. môže navrhnúť ktorýkoľvek tvorca inscenácie daného divadla. 
+1. Na ocenenie môžu byť jednotlivé inscenácie prihlásené štatutárnym zástupcom príslušného profesionálneho divadla alebo ktorýmkoľvek z tvorcov. Každé profesionálne divadlo (zriaďované i nezriaďované) má právo navrhnúť jednu inscenáciu, ktorá má premiéru v danej sezóne, divadlá so 4 a viac premiérami realizovanými za danú sezónu, môžu navrhnúť maximálne 2 inscenácie, a to tak, že 1 navrhuje divadlo a 2. môže navrhnúť ktorýkoľvek tvorca inscenácie daného divadla.\
 V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akadémie divadlo a tvorcov na dialóg.
 2. K prihláseniu inscenácie musí dôjsť kompletným vyplnením prihlasovacieho formulára, uverejneného na webovom sídle Akadémie, a následným doručením vyplneného a podpísaného formulára vo vytlačenej forme prostredníctvom pošty alebo kuriérskej služby na korešpondenčnú adresu sídla Akadémie najneskôr do určeného dátumu. Pre určenie dátumu doručenia je rozhodujúca poštová pečiatka na obálke alebo písomné potvrdenie kuriéra.
 3. Z celkového počtu prihlásených inscenácií Štatutárna komisia Akadémie vylúči tie, ktoré nezodpovedajú základným podmienkam účasti podľa tohto Štatútu. Takúto prihlášku vyradí a následne o tom upovedomí subjekt, od ktorého prihlášku dostala. V prípade, že sa subjekt v lehote do 15 dní proti takémuto postupu písomne odvolá a vo svojej žiadosti uvedie závažné dôvody, kvôli ktorým má byť príslušná inscenácia vrátená do súťaže, Prezídium Akadémie celú vec ešte raz dôkladne preskúma. O svojom konečnom rozhodnutí Prezídium Akadémie potom predmetný subjekt opäť vyrozumie. Proti tomuto rozhodnutiu sa už nie je možné odvolať. Následne Štatutárna komisia Akadémie vypracuje zoznam prihlásených inscenácií.
@@ -39,7 +39,7 @@ V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akad
 12. Nominované inscenácie postupujúce do druhého kola zhliadne vrcholová komisia a určí víťaza Ceny. Presný termín ukončenia hlasovania v druhom kole určí Štatutárna komisia Akadémie a schváli Prezídium Akadémie.
 13. Okrem Ceny za divadelnú inscenáciu sezóny môže Prezídium Akadémie, nominačné komisie a vrcholová komisia navrhnúť ocenenie (aj individuálne) v rámci témy, ktorej považujú za potrebné venovať pozornosť. Návrhy vyhodnotí a ocenenie udelí Prezídium Akadémie.
 14. S notársky overenými výsledkami druhého kola hlasovania oboznámi Prezídium Akadémie ostatných členov Akadémie a verejnosť až na slávnostnom udeľovaní ceny, ktorého záväzný termín určí Prezídium akadémie.
-
+
 ### Článok 4
 ## Hlasovanie a systém hodnotenia
 
@@ -48,7 +48,7 @@ V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akad
 3. Držiteľom ocenenia „Cena“ sa stáva nominovaná inscenácia s najvyšším počtom prvých miest, v prípade rovnosti počtu prvých miest následne rozhoduje väčší počet získaných druhých miest a v prípade rovnosti počtu druhých miest následne rozhoduje väčší počet získaných tretích miest. Pokiaľ ani tak nebude o držiteľovi ocenenia „Cena“ rozhodnuté, bude ocenenie udelené ex aequo.
 4. Členovia Akadémie, ktorí sú spolutvorcami inscenácie v danom roku prihlásenej alebo nominovanej na ocenenie, alebo sú členmi súborov, resp. zamestnancami divadla inscenácie v danom roku prihlásenej alebo nominovanej na ocenenie, nemôžu hlasovať v komisii dotknutého okruhu, resp. vo vrcholovej komisii. Právo týchto členov Akadémie hlasovať v nominačnej komisii iného okruhu však ostáva zachované.
 
-### Článok 5 
+### Článok 5
 ## Kompetencie a povinnosti Štatutárnej komisie Akadémie
 
 1. Prezídium Akadémie zabezpečí pre členov hodnotiacich komisií možnosť zhliadnuť všetky prihlásené inscenácie v príslušnom okruhu v prvom kole, resp. v druhom kole všetky postupujúce nominované inscenácie.
@@ -79,4 +79,3 @@ V Bratislave dňa 9.10.2018
 3. V prípade, že premiéra inscenácie bude v júni, musí divadlo túto situáciu dopredu konzultovať s Akadémiou.
 4. Nominačná komisia musí rozhodnúť o inscenáciách postupujúcich do 2. kola najneskôr do 5. júna (čl. 3, ods.6).
 5. Vrcholová komisia rozhodne po dohovore s Akadémiou tak, aby Cena mohla byť odovzdaná do 20. decembra ďalšej sezóny.
-
