@@ -13,4 +13,7 @@ MgA. Viki Janoušková \
 
 _Prihláška do Akadémie divadelných tvorcov na stiahnutie_ - [formát PDF](/prihlaska.pdf).
 
-Prípravný výbor pracoval v zložení: Mgr. art. Iva Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. art. Viera Dubačová, prof. Ida Hledíková, MgA. Viki Janoušková, PhD., PhDr. Elena Knopová, PhD. - Bez nich by Akadémia nebola.
+**Prezídium:** \
+Prezidentka: MgA. Viki Janoušková \
+Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD. \
+Členovia: prof. PhDr. Vladimír Štefko, CSc., prof. Roman Polák, Mgr. Tatiana Masníková, Mgr. art. Monika Kováčová, a Mgr. art. Ľubomír Bukový, ArtD.
