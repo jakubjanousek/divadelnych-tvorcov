@@ -69,6 +69,6 @@ _Autorský tím a Prípravný výbor Akadémie divadelných tvorcov verí, že 
 
 **Autorka projektu a autorský tím Akadémie divadelných tvorcov, zároveň Prípravný výbor:** MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. 
 
-**Spolupráca:** Mgr. Katarína Mádelová 
-
-_15. 5. 2018 _
+**Spolupráca:** Mgr. Katarína Mádelová\
+\
+15. 5. 2018
