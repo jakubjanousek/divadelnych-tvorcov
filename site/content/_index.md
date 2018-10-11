@@ -12,7 +12,7 @@ perex:
     tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje
     významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla
     iniciovať.
-  column2: "**Akadémia divadelných tvorcov** má v\_úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať.\n\n\nTento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny za divadelné dielo sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v\_danej sezóne a\_následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v\_Bratislave**."
+  column2: "**Akadémia divadelných tvorcov** má v\_úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať.\n\nTento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny Akadémie za divadelnú inscenáciu sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v\_danej sezóne a\_následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v\_Bratislave**."
 footer: |-
   © 2018 Akadémia divadelných tvorcov
 
