@@ -74,4 +74,5 @@ Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. M
 
 **Autorka projektu a autorský tím Akadémie divadelných tvorcov:** _MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák._
 
-_**Spolupráca:** Mgr. Katarína Mádelová_
+_**Spolupráca:** Mgr. Katarína Mádelová_ 
+
