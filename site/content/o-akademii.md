@@ -67,10 +67,11 @@ _Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie 
 
 _Členovia Akadémie divadelných tvorcov veria, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
 
-** Zakladajúci členovia Akadémie:**
+** Zakladajúci členovia Akadémie**
 
-Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.\
-**Čestná členka:** Mgr. art. Viera Dubačová. 
+Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.
+\
+**Čestná členka ** Mgr. art. Viera Dubačová. 
 
 _**Autorka projektu a autorský tím Akadémie divadelných tvorcov:** MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. _
 
