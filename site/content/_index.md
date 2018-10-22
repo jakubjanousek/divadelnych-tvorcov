@@ -1,13 +1,13 @@
 ---
 perex:
   column1: >-
-    _Vážení kolegovia a kolegyne, _
+    _Vážení kolegovia a kolegyne,_
 
 
     _dovoľte nám obrátiť sa na Vás s pozvaním participovať na tomto projekte.
     Akadémia s radosťou privíta ďalších členov z radov divadelníkov, ktorí
     rovnako cítia potrebu definovaných aktivít Akadémie a spĺňajú podmienky
-    členstva. _
+    členstva._
 
 
     Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v
