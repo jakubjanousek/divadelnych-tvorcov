@@ -63,12 +63,15 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 * Vyhlásenie víťaznej inscenácie v rámci prehliadky v decembri 2021. 
 * Zároveň od septembra 2020 sa začína ďalší výberový ročník sezóny 2020/21.
 
-_Autorský tím, resp. Prípravný výbor Akadémie divadelných tvorcov verí, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané tri Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania a kritérií divadelníctva predovšetkým prostredníctvom reflexie tvorby v danej sezóne (Cena) a prostredníctvom priblíženia jej celoslovenského obrazu v podobe Celoročnej prehliadky v Bratislave._
+_Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané tri Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania a kritérií divadelníctva predovšetkým prostredníctvom reflexie tvorby v danej sezóne (Cena) a prostredníctvom priblíženia jej celoslovenského obrazu v podobe Celoročnej prehliadky v Bratislave._
 
-_Autorský tím a Prípravný výbor Akadémie divadelných tvorcov verí, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
+_Členovia Akadémie divadelných tvorcov veria, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
 
-**Autorka projektu a autorský tím Akadémie divadelných tvorcov, zároveň Prípravný výbor:** MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. 
+** Zakladajúci členovia Akadémie:**
 
-**Spolupráca:** Mgr. Katarína Mádelová\
-\
-15. 5. 2018
+Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.\
+**Čestná členka:** Mgr. art. Viera Dubačová. 
+
+_**Autorka projektu a autorský tím Akadémie divadelných tvorcov:** MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák. _
+
+_**Spolupráca:** Mgr. Katarína Mádelová_
