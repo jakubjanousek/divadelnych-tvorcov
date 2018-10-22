@@ -11,7 +11,13 @@ IČO: 51718197\
 MgA. Viki Janoušková\
 <mailto:akademia@adt-theatre.sk>
 
-_Prihláška do Akadémie divadelných tvorcov na stiahnutie_ - [formát PDF](/files/prihlaska.pdf).
+_Prihláška do Akadémie divadelných tvorcov na stiahnutie:_\
+riadne členstvo:
+[.doc](https://www.adt-theatre.sk/files/prihlaska.doc), 
+[.pdf](https://www.adt-theatre.sk/files/prihlaska.pdf)\
+čestné členstvo
+[.doc](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.doc), 
+[.pdf](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.pdf)
 
 **Prezídium:**\
 Prezidentka: MgA. Viki Janoušková\
