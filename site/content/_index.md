@@ -5,9 +5,9 @@ perex:
 
 
     _dovoľte nám obrátiť sa na Vás s pozvaním participovať na tomto projekte.
-    Akadémia s radosťou privíta ďalších členov z radov divadelníkov, ktorí cítia
-    rovnako potrebu definovaných aktivít Akadémie a spĺňajú podmienky členstva.
-    _
+    Akadémia s radosťou privíta ďalších členov z radov divadelníkov, ktorí
+    rovnako cítia potrebu definovaných aktivít Akadémie a spĺňajú podmienky
+    členstva. _
 
 
     Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v
