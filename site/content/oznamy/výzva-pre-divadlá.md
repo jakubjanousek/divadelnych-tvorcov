@@ -18,8 +18,8 @@ https://www.adt-theatre.sk/statut-ceny/.
 Bližšie informácie o Akadémii divadelných tvorcov na:\
 https://www.adt-theatre.sk
 
-Vyplnenú prihlášku spolu s dramaturgickým plánom práve prebiehajúcej sezóny pošlite, prosím, najneskôr do 30. novembra 2018 na mailovú adresu: 
+[Vyplnenú prihlášku](https://www.adt-theatre.sk/files/predbezna-prihlaska-divadla.doc) spolu s dramaturgickým plánom práve prebiehajúcej sezóny pošlite, prosím, najneskôr do 30. novembra 2018 na mailovú adresu: 
 
-akademia@adt-theatre.sk
+<mailto:akademia@adt-theatre.sk>
 
 Ďakujeme a tešíme sa na spoluprácu.
