@@ -22,4 +22,7 @@ riadne členstvo:
 **Prezídium:**\
 Prezidentka: MgA. Viki Janoušková\
 Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD.\
-Členovia: prof. PhDr. Vladimír Štefko, CSc., prof. Roman Polák, Mgr. Tatiana Masníková, Mgr. art. Monika Kováčová, a Mgr. art. Ľubomír Bukový, ArtD.
+Členovia: prof. PhDr. Vladimír Štefko, CSc.; prof. Roman Polák; Mgr. Tatiana Masníková; Mgr. art. Monika Kováčová a Mgr. art. Ľubomír Bukový, ArtD.
+
+**Členovia Akadémie:**\
+prof. PhDr. Zuzana Bakošová Hlavenková, PhD.; doc. Mgr. Miroslav Ballay, PhD; Mgr. art. Juraj Benčík; Mgr. art. Ľubomír Bukový, ArtD.; Mgr. art. Iveta Ditte Jurčová; Mgr. art. Michal Ditte; Mgr. art. Viera Dubačová; Mgr. Dária Fojtíková Fehérová, PhD.; MgA. Marek Godovič, prof. Ida Hledíková, PhD.; MgA. Viki Janoušková; PhDr. Elena Knopová, PhD.; Mgr. art. Anton Korenči, ArtD.; Dana Košická; Mgr. art. Monika Kováčová; doc. Zuzana Kronerová; Mgr. art. Veronika Malgot; Mgr. Tatiana Masníková; Mgr. art. Lucia Mihálová; Mgr. Michaela Mojžišová, PhD.; Ing. Matúš Petričko, PhD.; prof. Roman Polák; PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko CSc.
