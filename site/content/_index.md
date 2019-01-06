@@ -1,27 +1,7 @@
 ---
 perex:
-  column1: >-
-    _Vážení kolegovia a kolegyne,_\
-
-    _dovoľte nám s radosťou Vám oznámiť, že záujem zúčastniť sa Ceny deklarovalo
-    27 divadiel a mriežka členov komisií je tiež vyplnená! Veríme, že ešte nám
-    vyjde financovanie projektu a že v januári zahájime projekt Ceny Akadémie za
-    divadelnú inscenáciu sezóny. - V prípade, že by náhodou nie, práce v Kluboch
-    je vážne veľa :)_
-
-
-    Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v
-    súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z
-    ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde
-    sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej
-    divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky
-    a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca
-    okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a
-    odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných
-    tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje
-    významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla
-    iniciovať.
-  column2: "Tento svoj úmysel chce Akadémia začať odvíjať od založenia každoročnej celoštátnej **Ceny Akadémie za divadelnú inscenáciu sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v\_danej sezóne a\_následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v\_Bratislave**."
+  column1: "**Motto: Častokrát sa vídame, no málo vieme o\_svojich názoroch. **\\\n_**(V. J.)**_\n\nHodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.\\\nTento svoj úmysel chce Akadémia začať odvíjať od založenia každoročnej celoštátnej **Ceny Akadémie za divadelnú inscenáciu sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v\_danej sezóne a\_následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky**."
+  column2: ''
 footer: |-
   © 2018 Akadémia divadelných tvorcov
 
