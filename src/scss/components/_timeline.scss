@@ -1,0 +1,24 @@
+$top-offset: 6px;
+
+.timeline {
+    border-left: 18px solid $color-black;
+
+    > * {
+        position: relative;
+        top: -$top-offset;
+        padding-left: 2rem;
+
+        &:before {
+            content: "";;
+            display: block;
+            position: absolute;
+            top: $top-offset;
+            left: 0;
+            height: 18px;
+            width: 1rem;
+            background: $color-black;
+
+        }
+
+    }
+}

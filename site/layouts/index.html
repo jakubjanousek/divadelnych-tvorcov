@@ -1,7 +1,19 @@
 {{ define "main" }}
 
-    {{ partial "perex" .Params.perex }}
-
-    {{ partial "news" . }}
+<div class="row mb-6">
+    <div class="col-md-6 mb-2">
+        {{ partial "perex" .Params.perex }}
+    </div>
+    <div class="col-md-6">
+        <div class="spacer"></div>
+        <div class="timeline">
+            {{ range first 3 (where .Data.Pages "Type" "oznamy") }}
+                <div class="mb-2">
+                    {{ partial "news-teaser" . }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
 
 {{ end }}
