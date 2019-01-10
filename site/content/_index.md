@@ -4,8 +4,7 @@ perex:
   column2: >-
 
 
-    ČLENOVIA AKADÉMIE:
-
+    ČLENOVIA AKADÉMIE:\
 
     _prof. PhDr. Zuzana Bakošová Hlavenková, PhD.; doc. Mgr. Miroslav Ballay;
     Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Peter Čižmár; Mgr. art. Iveta
