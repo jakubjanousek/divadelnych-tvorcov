@@ -1,2 +1,3 @@
 baseurl = "/"
 title = "Akadémia divadelných tvorcov"
+removePathAccents = true
