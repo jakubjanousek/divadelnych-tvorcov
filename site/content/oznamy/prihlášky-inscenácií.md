@@ -7,6 +7,6 @@ intro: >-
   Inscenácie, ktoré premiéru ešte nemali sa prihlasujú najneskôr mesiac po
   premiére.
 ---
-Z vyššie uvedeného vyplýva, že Vás žiadame o vytipovanie inscenácie, ktorú by ste chceli prihlásiť, ako iste chápete, nemáme totiž možnosť počkať na poslednú premiéru a až následne poslať komisie do terénu :). Ďakujeme za pochopenie.
+Z vyššie uvedeného vyplýva, že Vás žiadame o vytipovanie inscenácie, ktorú by ste chceli prihlásiť, ako iste chápete, nemáme totiž možnosť počkať na poslednú premiéru a až následne poslať komisie do terénu. Ale to ste určite vyčítali aj z Štatútu Ceny Akadémie :).
 
 Prihláška inscenácie TU.
