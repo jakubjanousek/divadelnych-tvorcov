@@ -2,9 +2,12 @@
 title: Valné zhromaždenie Akadémie divadelných tvorcov
 date: 2019-01-24T19:58:36.879Z
 intro: >-
-  Vážení členovia Akadémie, dovoľte pozvať Vás na Valné zhromaždenie Akadémie
-  divadelných tvorcov, ktoré sa uskutoční 15. februára o 13:00 hod., tento krát
-  nás prichýli Malá scéna STU na Dostojevského rade.
+  Vážení členovia Akadémie, 
+
+
+  dovoľte pozvať Vás na Valné zhromaždenie Akadémie divadelných tvorcov, ktoré
+  sa uskutoční 15. februára o 13:00 hod., tento krát nás prichýli Malá scéna STU
+  na Dostojevského rade.
 ---
 [(http://www.malascena.sk/kontakty.html)](http://www.malascena.sk/kontakty.html)
 
