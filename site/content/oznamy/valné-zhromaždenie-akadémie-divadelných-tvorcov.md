@@ -26,8 +26,6 @@ Hlavnou témou Valného zhromaždenia, okrem informácií a noviniek, budú **Kl
 4. Návrh vzniku Klubu vzdelávania.\
    TÉMA: Existuje potreba spolupráce konzervatórií? Ak áno, návrhy spôsobov spolupráce.
 
-Budeme sa snažiť, aby každú z tém v skratke prezentoval niekto, kto sa jej venuje, resp. je mu blízka. Bude nasledovať krátka diskusia a mali by sme sa rozísť do Klubov, každý, ktorý si zvolí.
-
-Radi by sme Vás teda touto cestou vyzvali, aby ste i Vy prišli návrhmi Klubov, resp. s témami jednotlivých Klubov, ktoré máte chuť riešiť. Bude možnosť vystúpiť a prezentovať ju v rámci diskusie. 
+Radi by sme Vás touto cestou vyzvali, aby ste i Vy prišli s návrhmi Klubov, resp. s témami.
 
 **Tešíme sa na stretnutie!**
