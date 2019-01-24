@@ -11,7 +11,7 @@ intro: >-
 ---
 [(http://www.malascena.sk/kontakty.html)](http://www.malascena.sk/kontakty.html)
 
-*(Poznámka pre členov komisií: Stretnutie členov komisií na Cenu je v ten istý deň, ale od 10,00 hod.)*
+*(Poznámka pre členov komisií: Stretnutie členov komisií na Cenu je v ten istý deň, ale od 10,00 hod.)*
 
 Hlavnou témou Valného zhromaždenia, okrem informácií a noviniek, budú **Kluby, ich konštituovanie a vytýčenie prvých krokov.** Načrtneme niekoľko návrhov Klubov a ich najpálčivejších tém:
 
@@ -40,5 +40,5 @@ Budeme sa snažiť, aby každú z tém v skratke prezentoval niekto, kto sa jej 
 
 Radi by sme Vás teda touto cestou vyzvali, aby ste i Vy prišli návrhmi Klubov, resp. s témami jednotlivých Klubov, ktoré máte chuť riešiť. Bude možnosť vystúpiť a prezentovať ju ešte na spoločnom stretnutí v rámci diskusie (poprosíme zmestiť sa do max. 8 minút). 
 
-**Tešíme sa na stretnutie**\
+**Tešíme sa na stretnutie**\
 **Viki Janoušková**
