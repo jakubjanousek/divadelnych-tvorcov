@@ -14,7 +14,8 @@ Hlavnou témou Valného zhromaždenia, okrem informácií a noviniek, budú **Kl
 1. Návrh vzniku Klubu pre zriaďované divadlá.\
    TÉMA: Najpálčivejšou témou sa zdajú byť výberové konania na riaditeľov divadiel, ich periodicita a zloženie komisií rozhodujúcich o výbere.
 2. Návrh vzniku Klubu pre nezriaďované - nezávislé divadlá.\
-   TÉMY: a) Štatút profesionálneho umelca a jeho význam\
+   TÉMY: \
+   a) Štatút profesionálneho umelca a jeho význam\
    b) pripomienky k nastaveniu Fondu na podporu umenia v rámci podpory divadiel,\
    c) štruktúra nezávislého divadelníctva:\
    - časové hľadisko: dĺžka a kontinuita pôsobenia skupín,\
