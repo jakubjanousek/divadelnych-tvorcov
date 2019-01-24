@@ -27,6 +27,6 @@ Hlavnou témou Valného zhromaždenia, okrem informácií a noviniek, budú **Kl
 
 Budeme sa snažiť, aby každú z tém v skratke prezentoval niekto, kto sa jej venuje, resp. je mu blízka. Bude nasledovať krátka diskusia a mali by sme sa rozísť do Klubov, každý, ktorý si zvolí.
 
-Radi by sme Vás teda touto cestou vyzvali, aby ste i Vy prišli návrhmi Klubov, resp. s témami jednotlivých Klubov, ktoré máte chuť riešiť. Bude možnosť vystúpiť a prezentovať ju ešte na spoločnom stretnutí v rámci diskusie (poprosíme zmestiť sa do max. 8 minút). 
+Radi by sme Vás teda touto cestou vyzvali, aby ste i Vy prišli návrhmi Klubov, resp. s témami jednotlivých Klubov, ktoré máte chuť riešiť. Bude možnosť vystúpiť a prezentovať ju v rámci diskusie. 
 
 **Tešíme sa na stretnutie!**
