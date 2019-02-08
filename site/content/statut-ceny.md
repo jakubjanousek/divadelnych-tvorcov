@@ -8,10 +8,10 @@ title: Štatút Ceny Akadémie za divadelnú inscenáciu sezóny
 2. Výklad Štatútu, zmeny či úpravy Štatútu schvaľuje Prezídium, resp. Štatutárna komisia, ktorá je zložená z členov Prezídia Akadémie (viď Stanovy združenia čl. 13 ods. 4).
 3. Cena Akadémie za divadelnú inscenáciu sezóny *(ďalej len „Cena“)* sa udeľuje raz ročne (v decembri) a to inscenácii, ktorá vznikla a bola uvedená v predchádzajúcej divadelnej sezóne, na základe hlasovania členov nezávislej jury. \
 Presný termín ich udeľovania určí Prezídium Akadémie *(ďalej len „Prezídium“)*.
-3. V prvých dvoch ročníkoch sa bude Cena udeľovať **v kategórii činoherné inscenácie/inscenácie blízke činohre** a v nasledujúcich sezónach aj v ďalších kategóriách, tak ako určí Akadémia.
-4. Cenu predstavuje diplom/plaketa s uvedením názvu inscenácie.
-5. Ceny nie sú sprevádzané finančnou odmenou.
-6. Ocenená inscenácia má právo na označenie „Inscenácia ocenená Akadémiou divadelných tvorcov“.
+4. V prvých dvoch ročníkoch sa bude Cena udeľovať **v kategórii činoherné inscenácie/inscenácie blízke činohre** a v nasledujúcich sezónach aj v ďalších kategóriách, tak ako určí Akadémia.
+5. Cenu predstavuje diplom/plaketa s uvedením názvu inscenácie.
+6. Ceny nie sú sprevádzané finančnou odmenou.
+7. Ocenená inscenácia má právo na označenie „Inscenácia ocenená Akadémiou divadelných tvorcov“.
 
 ### Článok 2
 ## Podmienky účasti/Kritéria prihlasovaných inscenácií
@@ -67,7 +67,7 @@ V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akad
 1. Tento Štatút je vyhotovený v 5 exemplároch a nadobúda platnosť dňom podpisu štatutára Akadémie divadelných tvorcov.
 2. Každú zmenu tohto Štatútu musí odsúhlasiť Prezídium Akadémie.
 
-*Štatút Ceny schválený Ustanovujúcim valným zhromaždením dňa 25. 9. 2018 a overený Prezídiom dňa 9. 10. 2018.*
+*Štatút Ceny schválený Ustanovujúcim valným zhromaždením dňa 25. 9. 2018 a overený Prezídiom dňa 9. 10. 2018.*
 
 ### Príloha č. 1: Všeobecne záväzné termíny
 
@@ -78,8 +78,8 @@ V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akad
 5. V Vrcholová komisia rozhodne po dohovore s Akadémiou tak, aby Cena mohla byť odovzdaná do 20. decembra ďalšej sezóny.
 
 ## Etický kódex
-**člena Akadémie divadelných tvorcov** \
-**a člena v nominačnej a vrcholovej komisie Ceny Akadémie za divadelnú inscenáciu sezóny**
+**člena Akadémie divadelných tvorcov** \
+**a člena v nominačnej a vrcholovej komisie Ceny Akadémie za divadelnú inscenáciu sezóny**
 
 Tento etický kódex ustanovuje súhrn zásad, ktoré predstavujú základné hodnoty a princípy fungovania občianskeho združenia Akadémia divadelných tvorcov. Konanie členov v rámci pôsobenia v združení, ako aj v osobnom živote, sú v súlade s hodnotami združenia. \
 Dodržiavanie etického kódexu je podmienkou členstva v združení a akékoľvek konanie v rozpore s ním môže viesť k vylúčeniu zo združenia.
