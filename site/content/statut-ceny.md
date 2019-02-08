@@ -79,7 +79,7 @@ V prípade viac ako 2 návrhov z daného divadla vyzve Štatutárna komisia Akad
 
 ## Etický kódex
 **člena Akadémie divadelných tvorcov** \
-**a člena v nominačnej a vrcholovej komisie Ceny Akadémie za divadelnú inscenáciu sezóny**
+**a člena v nominačnej a vrcholovej komisie Ceny Akadémie za divadelnú inscenáciu sezóny**
 
 Tento etický kódex ustanovuje súhrn zásad, ktoré predstavujú základné hodnoty a princípy fungovania občianskeho združenia Akadémia divadelných tvorcov. Konanie členov v rámci pôsobenia v združení, ako aj v osobnom živote, sú v súlade s hodnotami združenia. \
 Dodržiavanie etického kódexu je podmienkou členstva v združení a akékoľvek konanie v rozpore s ním môže viesť k vylúčeniu zo združenia.
