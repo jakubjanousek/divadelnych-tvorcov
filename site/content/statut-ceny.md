@@ -6,8 +6,7 @@ title: Štatút Ceny Akadémie za divadelnú inscenáciu sezóny
 
 1. Vyhlasovateľom a organizátorom „Ceny Akadémie za divadelnú inscenáciu sezóny“ je Občianske združenie Akadémia divadelných tvorcov *(ďalej len „Akadémia“)* v spolupráci s Literárnym fondom, ktorý sa podieľa na odmenách tuzemských hodnotiteľov prvého aj druhého kola Ceny Akadémie.
 2. Výklad Štatútu, zmeny či úpravy Štatútu schvaľuje Prezídium, resp. Štatutárna komisia, ktorá je zložená z členov Prezídia Akadémie (viď Stanovy združenia čl. 13 ods. 4).
-3. Cena Akadémie za divadelnú inscenáciu sezóny *(ďalej len „Cena“)* sa udeľuje raz ročne (v decembri) a to inscenácii, ktorá vznikla a bola uvedená v predchádzajúcej divadelnej sezóne, na základe hlasovania členov nezávislej jury. \
-Presný termín ich udeľovania určí Prezídium Akadémie *(ďalej len „Prezídium“)*.
+3. Cena Akadémie za divadelnú inscenáciu sezóny *(ďalej len „Cena“)* sa udeľuje raz ročne (v decembri) a to inscenácii, ktorá vznikla a bola uvedená v predchádzajúcej divadelnej sezóne, na základe hlasovania členov nezávislej jury. Presný termín ich udeľovania určí Prezídium Akadémie *(ďalej len „Prezídium“)*.
 4. V prvých dvoch ročníkoch sa bude Cena udeľovať **v kategórii činoherné inscenácie/inscenácie blízke činohre** a v nasledujúcich sezónach aj v ďalších kategóriách, tak ako určí Akadémia.
 5. Cenu predstavuje diplom/plaketa s uvedením názvu inscenácie.
 6. Ceny nie sú sprevádzané finančnou odmenou.
