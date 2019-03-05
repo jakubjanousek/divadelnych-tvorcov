@@ -17,7 +17,7 @@ Okrem toho sa na nás môžete obrátiť aj s inými podnetmi na témy, ktoré b
 _Tajomníčka klubu Mgr.art. Lucia Mihálová_\
 _luc.mihalova@gmail.com_
 
-**KLUB KONZERVATÓRIÍ 
+**KLUB KONZERVATÓRIÍ
 **\
 _Členovia prítomní: _Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň. _Neprítomný:_ Anton Korenči 
 
