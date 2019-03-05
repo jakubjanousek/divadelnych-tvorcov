@@ -17,25 +17,27 @@ Okrem toho sa na nás môžete obrátiť aj s inými podnetmi na témy, ktoré b
 _Tajomníčka klubu Mgr.art. Lucia Mihálová_\
 _luc.mihalova@gmail.com_
 
-**KLUB KONZERVATÓRIÍ **\
-Členovia:\
-_Prítomní:_ Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň\
+**KLUB KONZERVATÓRIÍ 
+**\
+Členovia:
+_Prítomní:_ Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň
 _Neprítomný:_ Anton Korenči 
 
-1. Členovia si jednohlasne zvolili Predsedu a podpredsedu Klubu. \
-Za predsedu bol zvolený Michal Legíň. Podpredsedom sa stal Anton Korenči. 
-
-2. 	Diskusia sa niesla v duchu myšlienky -  akým spôsobom primäť k vzájomnej spolupráci jednotlivé Konzervatóriá na Slovensku v rámci hudobno-dramatických oddelení.  Členovia dospeli k názoru zorganizovania a uskutočnenia festivalovej prehliadky v roku 2020 za účasti renomovaných umelcov zo Slovenska i zo zahraničia. Na festivale by boli prezentované jednotlivé konzervatóriá so svojimi študentskými inscenáciami, na základe nominovania tej danej školy (poslucháči HDU). 
+1. Členovia si jednohlasne zvolili Predsedu a podpredsedu Klubu.\
+Za predsedu bol zvolený Michal Legíň. Podpredsedom sa stal Anton Korenči.\
+\
+2. Diskusia sa niesla v duchu myšlienky -  akým spôsobom primäť k vzájomnej spolupráci jednotlivé Konzervatóriá na Slovensku v rámci hudobno-dramatických oddelení.  Členovia dospeli k názoru zorganizovania a uskutočnenia festivalovej prehliadky v roku 2020 za účasti renomovaných umelcov zo Slovenska i zo zahraničia. Na festivale by boli prezentované jednotlivé konzervatóriá so svojimi študentskými inscenáciami, na základe nominovania tej danej školy (poslucháči HDU). 
 
 Festival zastreší Akadémia divadelných tvorcov. Zúčastnia sa ho aj inscenácie stredných umeleckých škôl z krajín V4 a Ukrajiny. Zámerom prehliadky je získavanie kontaktov, výmena skúseností, pohľad na tvorbu škôl,  ako aj možnosť prizvať zástupcov z profesionálnych divadiel, ktorí by mohli  vzhliadnuť budúcich absolventov. 
 
-Off program festivalu:\
--  workshopy  (pohybové, scénografické, filmové...)
+Off program festivalu:
+workshopy  (pohybové, scénografické, filmové...)
 
-Návrh názvu festivalu: KONZERVA FEST\
+Návrh názvu festivalu: KONZERVA FEST
 O mieste konania festivalu sa nerozhodlo; bude predmetom ďalších stretnutí.
 
-3. Následné stretnutie komisie zvolá predseda Klubu. \
+3. Následné stretnutie komisie zvolá predseda Klubu. 
 Periodicita stretnutí: mesačne/dvojmesačne
 
-_Spracovala: Tatiana Masníková_
+_Spracovala: Tatiana Masníková
+_
