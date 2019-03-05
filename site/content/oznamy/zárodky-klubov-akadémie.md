@@ -12,17 +12,15 @@ Prvou témou, ktorou sa Klub mieni zaoberať, je systém výberového konania na
 
 Podľa Vami zaslaných reakcií môže Akadémia divadelných tvorcov zorganizovať stretnutie so ZMOSom, poprípade so županmi jednotlivých VÚC a pokúsiť sa vytvoriť všeobecne akceptovaný model, ktorý bude následne odporučený pre výberové konania riaditeľov všetkých zriaďovaných divadiel. Veríme totiž, že kompetentní riaditelia vedia vytvoriť priestor pre zmysluplnú tvorbu. 
 
-Okrem toho sa na nás môžete obrátiť aj s inými podnetmi na témy, ktoré by mala akadémia spolu s Vami riešiť. Budeme veľmi radi, ak spoločne vytvoríme celoplošnú pevnú sieť, ktorá bude mať u našich zriaďovateľov rešpekt, porozumenie, úctu i váhu.  
+Okrem toho sa na nás môžete obrátiť aj s inými podnetmi na témy, ktoré by mala akadémia spolu s Vami riešiť. Budeme veľmi radi, ak spoločne vytvoríme celoplošnú pevnú sieť, ktorá bude mať u našich zriaďovateľov rešpekt, porozumenie, úctu i váhu.
 
 _Tajomníčka klubu Mgr.art. Lucia Mihálová_\
 _luc.mihalova@gmail.com_
 
 **KLUB KONZERVATÓRIÍ **\
-(Správa zo stretnutia)
-
 Členovia:\
-Prítomní: Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň\
-Neprítomný: Anton Korenči 
+_Prítomní:_ Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň\
+_Neprítomný:_ Anton Korenči 
 
 1. Členovia si jednohlasne zvolili Predsedu a podpredsedu Klubu. \
 Za predsedu bol zvolený Michal Legíň. Podpredsedom sa stal Anton Korenči. 
