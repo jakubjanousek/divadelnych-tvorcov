@@ -19,9 +19,7 @@ _luc.mihalova@gmail.com_
 
 **KLUB KONZERVATÓRIÍ 
 **\
-Členovia:
-_Prítomní:_ Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň
-_Neprítomný:_ Anton Korenči 
+_Členovia prítomní: _Ľubomíra Krkošková, Tatiana Masníková, Jana Strnisková-Mikulášová, Juraj Benčík, Michal Legíň. _Neprítomný:_ Anton Korenči 
 
 1. Členovia si jednohlasne zvolili Predsedu a podpredsedu Klubu.\
 Za predsedu bol zvolený Michal Legíň. Podpredsedom sa stal Anton Korenči.\
