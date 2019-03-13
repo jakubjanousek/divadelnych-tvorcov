@@ -3,8 +3,9 @@ title: Zárodky Klubov Akadémie
 date: 2019-03-05T19:39:59.238Z
 intro: >-
   15. februára prebehlo druhé Valné zhromaždenie Akadémie divadelných tvorcov,
-  vystúpil hosť Predseda SKKD akad. maliar Pavol Kráľ s témou Štatút umelca,
-  konštituovali sa jednotlivé Kluby a určili si svoje prvé témy a kroky.
+  vystúpil hosť Predseda SVÚ a SKKD akad. maliar Pavol Kráľ s témou Štatút
+  profesionálneho umelca, konštituovali sa jednotlivé Kluby, ktoré si určili
+  svoje prvé témy a kroky.
 ---
 **KLUB ZRIAĎOVANÝCH DIVADIEL**\
 Pod Akadémiou divadelných tvorcov sa vyprofiloval Klub pre zriaďované divadlá, ktorý vedie prof. Roman Polák. Zámerom Klubu  je zmapovať problémy zriaďovaných divadiel a pokúšať sa ich riešiť so štátnou správou. Ide o problémy, ktoré limitujú umeleckú činnosť divadiel. 
