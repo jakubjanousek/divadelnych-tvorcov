@@ -2,7 +2,7 @@
 title: Zárodky Klubov Akadémie
 date: 2019-03-05T19:39:59.238Z
 intro: >-
-  15. februára prebehlo druhé Valné zhromaždenie Akadémie divadelných tvorcov,
+  15. februára prebehlo II. Valné zhromaždenie Akadémie divadelných tvorcov,
   vystúpil hosť Predseda SVÚ a SKKD akad. maliar Pavol Kráľ s témou Štatút
   profesionálneho umelca, konštituovali sa jednotlivé Kluby, ktoré si určili
   svoje prvé témy a kroky.
