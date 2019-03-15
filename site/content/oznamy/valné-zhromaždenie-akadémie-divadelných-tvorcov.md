@@ -1,13 +1,13 @@
 ---
-title: Valné zhromaždenie Akadémie
+title: II. Valné zhromaždenie Akadémie
 date: 2019-01-24T19:58:36.879Z
 intro: >-
   Vážení členovia Akadémie, 
 
 
-  dovoľte pozvať Vás na Valné zhromaždenie Akadémie divadelných tvorcov, ktoré
-  sa uskutoční 15. februára o 13:00 hod., tento krát nás prichýli Malá scéna STU
-  na Dostojevského rade.
+  dovoľte pozvať Vás na II. Valné zhromaždenie Akadémie divadelných tvorcov,
+  ktoré sa uskutoční 15. februára o 13:00 hod., tento krát nás prichýli Malá
+  scéna STU na Dostojevského rade.
 ---
 Hlavnou témou Valného zhromaždenia, okrem informácií a noviniek, budú **Kluby, ich konštituovanie a vytýčenie prvých krokov.** Načrtneme niekoľko návrhov Klubov a ich najpálčivejších tém:
 
