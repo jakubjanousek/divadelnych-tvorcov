@@ -52,3 +52,7 @@ Diskusia pripomenula, že absolútne absentujú širšie koncipované state zaob
 Prvé zasadnutie klubu prinieslo širokú paletu námetov aj pre budúcnosť.
 
 _Zapísal: V.Štefko_
+
+**KLUB SAMOZRIAĎOVANÝCH DIVADIEL **\
+_Prítomní:_ Marek Godovič, Viki Janoušková, Róbert Kobezda, Monika Kováčová, Veronika Malgot.
+_Hosť:_ Ingrid Timčíková, doktorandka SAV.
