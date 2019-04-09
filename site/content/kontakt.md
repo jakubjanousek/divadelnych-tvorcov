@@ -19,6 +19,9 @@ riadne členstvo:
 [.doc](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.doc), 
 [.pdf](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.pdf)
 
+_Formulár prihlášky inscenácie do Ceny - pre divadlá - na stiahnutie:_\
+[.doc](https://www.adt-theatre.sk/files/prihlaska-inscenacie.doc)
+
 **Prezídium:**\
 Prezidentka: MgA. Viki Janoušková\
 Viceprezidenti: MgA. Marek Godovič, PhD. a PhDr. Elena Knopová, PhD.\
