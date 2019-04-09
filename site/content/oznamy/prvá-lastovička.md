@@ -6,6 +6,6 @@ intro: >-
   kruhov je rozhovor Alexandra Balogha s prezidentkou Akadémie Viki Janouškovou
   v Denníku N.
 ---
-Rozhovor si môžete prečítať TU:
+Rozhovor si môžete prečítať [TU](https://dennikn.sk/1423137/nevidim-dovod-hovorit-o-konkurencii-medzi-cenou-akademie-a-doskami/)
 
-https://dennikn.sk/1423137/nevidim-dovod-hovorit-o-konkurencii-medzi-cenou-akademie-a-doskami/?ref=list
+
