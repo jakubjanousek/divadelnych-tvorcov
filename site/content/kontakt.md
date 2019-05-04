@@ -7,7 +7,7 @@ title: Kontakt
 IČO: 51718197\
 č. ú.: SK48 0900 0000 0051 4673 0578
 
-**Kontaktná osoba:**
+**Kontaktná osoba:**\
 MgA. Viki Janoušková  / Prezidentka Akadémie\
 akademia@adt-theatre.sk
 
