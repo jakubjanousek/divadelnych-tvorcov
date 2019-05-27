@@ -5,7 +5,8 @@ intro: >-
   Milí kolegovia, ako na Stretnutí komisií naznačila Monika Michnová, tak nám v
   týchto dňoch potvrdila a pozýva členov Akadémie na Dotyky a spojenia, kde nám
   zároveň dáva k dispozícii priestor Študovne v utorok 18. 6. 2019 od 9,00 do
-  12,00 na pracovné stretnutie Akadémie a ponúka možnosť akreditácie.
+  12,00 na pracovné stretnutie Akadémie a ponúka možnosť akreditácie. - Dovoľte
+  mi jej týmto poďakovať.
 ---
 Viac k možnostiam nášho programu:
 
