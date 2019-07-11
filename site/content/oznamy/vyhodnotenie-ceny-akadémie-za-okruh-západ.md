@@ -37,22 +37,14 @@ Sklamaním bola inscenácia Protokol (réžia Juraj Bielik), ktorú do súťaže
 
 Inscenácia Jókaiho divadla v Komárne Úplní cudzinci (Perfetti sconosciutti) (réžia Iván Hargitai), podľa úspešného autorského filmu režiséra Paola Genoveseho (zarobil cca 16 milónov eur) vznikla ako koprodukčná inscenácia JD v Komárne s Vörösmartyho divadlom v Székesfehérvári.  Hra o odhaľovaní medziľudských vzťahov a osobných tajomstiev prostredníctvom mobilných telefónov je zjavne  úspešným prevádzkovým dramaturgickým ťahom, čoho dôkazom bolo aj preplnené hľadisko Jókaiho divadla v Komárne. Viacerí hodnotitelia však konštatujú, že inscenácii chýbala hlbšia psychológia postáv. Ocenili však, napriek počiatočnej popisnosti, scénu, predovšetkým jej „záverečnú metaforu „o utopení vzťahov“ či o očistu(?), keď stôl, na ktorom „piknikujú“ zaleje voda.“  Taktiež si všimli dobrú prácu so svetlom a zvukom. Inscenáciu členovia hodnotiteľskej komisie zároveň považujú za veľmi dobrú prevádzkovú komédiu s presvedčivými hereckými výkonmi.  Napriek uznaniu v kontexte vkusu, remeselnej úrovne a niekoľkých metafor, v konkurencii náročnejších inscenácií komisia nenavrhla postup do druhého kola v súťaži ADT.     
 
-\    
-
  Poznámka: Úvodzovkami sú označené citáty z recenzií.
-
-
 
 Vypracovala: Ida Hledíková
 
 7. júla 2019
 
-
-
  **Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Západ nominovala 3 inscenácie bez udania poradia**:
 
-Inscenácia Divadla Jána Palárika Kopanec (réžia Viktor Kollár)
-
-Inscenácia Divadla Andreja Bagara Mechanický pomaranč  (réžia Juraj Augustín)
-
+Inscenácia Divadla Jána Palárika Kopanec (réžia Viktor Kollár)\
+Inscenácia Divadla Andreja Bagara Mechanický pomaranč  (réžia Juraj Augustín)\
 Inscenácia Divadla Pôtoň Pastierska symfónia (réžia Iveta Ditte-Jurčová)
