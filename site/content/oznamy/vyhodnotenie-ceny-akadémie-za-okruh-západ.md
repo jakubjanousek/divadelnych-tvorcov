@@ -41,7 +41,7 @@ Inscenácia Jókaiho divadla v Komárne Úplní cudzinci (Perfetti sconosciutti)
 
 Vypracovala: Ida Hledíková
 
-7. júla 2019
+
 
  **Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Západ nominovala 3 inscenácie bez udania poradia**:
 
