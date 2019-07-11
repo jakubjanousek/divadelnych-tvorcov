@@ -4,10 +4,10 @@ date: 2019-07-11T08:35:44.272Z
 intro: >-
   Komisia Akadémie divadelných tvorcov Západ v zložení Juraj Benčík, Ida
   Hledíková, Ondrej Kaprálik, Michaela Mojžišová a Roman Polák hodnotili osem
-  inscenácií, ktoré prihlásili do súťaže o Cenu ADT tieto divadlá: Divadlo
-  Andreja Bagara v Nitre, Divadlo Jána Palárika v Trnave, Divadlo Pôtoň Bátovce,
-  Jókaiho divadlo v Komárne, Nové divadlo v Nitre a Staré divadlo Karola Spišáka
-  v Nitre (bábkové divadlo).
+  inscenácií, ktoré prihlásili do Ceny Akadémie tieto divadlá: Divadlo Andreja
+  Bagara v Nitre, Divadlo Jána Palárika v Trnave, Divadlo Pôtoň Bátovce, Jókaiho
+  divadlo v Komárne, Nové divadlo v Nitre a Staré divadlo Karola Spišáka v Nitre
+  (bábkové divadlo).
 ---
 DAB v Nitre a Divadlo Jána Palárika v Trnave využilo možnosť prihlásiť do súťaže dve inscenácie. DAB prihlásilo inscenácie Mechanický pomaranč a Hlava XXII., Divadlo Jána Palárika prihlásilo inscenáciu Kopanec a Protokol. Dramaturgickú ponuku týchto divadiel dopĺňa inscenácia Pastierska symfónia autorského Divadla Pôtoň z Bátoviec, adaptácia na motívy románu F. Kafku Proces z dielne ďalšieho nezávislého divadla – Nového divadla v Nitre, hra D. Greiga Prízraky inscenovaná v Starom divadle Karola Spišáka v Nitre, a napokon adaptácia filmového diela Úplní cudzinci v Jókaiho divadle v Komárne. V platforme Západ sme teda zaregistrovali dve nezávislé a tri zriaďované divadlá VÚC Nitra a VÚC Trnava. Nezávislé divadlá boli zriaďovaným divadlám rovnocennou konkurenciou, ba možno povedať, že sú to práve oni, ktoré hľadajú nový divadelný jazyk prostredníctvom neopozeraných výrazových prostriedkov a smerujú viac k nekonvenčným prostriedkom. Z dvoch inscenácií nezávislých divadiel – Pastierska symfónia a Proces, vybrala porota do druhého kola súťaže ADT Pastiersku symfóniu. Viaceré divadlá sa spoľahli na dramaturgickú istotu. Priniesli jednak overené divadelné tituly (napr. Prízraky, Protokol) resp. sa tituly overili (aj) vo filmových realizáciách (napr. Mechanický pomaranč, Hlava XXII., Úplní cudzinci, Proces, ale i dokumentárna dráma Kopanec, ktorá vznikla ako filmová adaptácia dokumentárnej divadelnej hry. Táto skutočnosť však automaticky neznamená, že by inscenácie neboli inšpiratívne, každá z nich mala svoj rukopis vychádzajúci jednak z estetiky ich tvorcov, ale aj z aktuálnej prevádzkovej potreby divadla. V kontexte dramaturgie možno skonštatovať, že sa potvrdila línia kultovosti témy násilia, ktoré bolo kľúčovou témou vo viacerých prihlásených inscenáciách – Mechanický pomaranč, Kopanec, Hlava XII. resp. jeho ďalších foriem, akým je manipulácia – v inscenáciách Protokol, Proces. Téma osobných a medziľudských vzťahov, téma odcudzenia sa objavila napríklad v inscenáciách Prízraky a Úplní cudzinci.   
 
