@@ -40,10 +40,7 @@ Komisia okruhu BA 1 : Zuzana Bakošová-Hlavenková, Elena Knopová, Anton Koren
 
 Z čiastkových reflexií vypracovala Elena Knopová.
 
+**Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava 1 nominovala 2 inscenácie bez udania poradia:**
 
-
-**Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava 1 nominovala 2 inscenácie bez udania poradia:**
-
-Inscenácia Divadla Aréna _Biblia_ (réžia Rastislav Ballek)
-
+Inscenácia Divadla Aréna _Biblia_ (réžia Rastislav Ballek)\
 Inscenácia Mestského Divadla P.O.H. _Ujo Váňa_ (réžia Marián Pecko)
