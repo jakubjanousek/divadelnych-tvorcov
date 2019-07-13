@@ -43,9 +43,7 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 
  v hlavnom meste Bratislava prebiehajúcu v následnej sezóne po prvom kole. Na určenom predstavení (koncom decembra) zároveň odovzdá Akadémia udelenú cenu.
 
-**Časový rámec výberu inscenácií a prehliadky:**
-
-**1. variant**
+**Časový rámec výberu inscenácií:**
 
 * Prvé kolo bude prebiehať už v sezóne 2018/19, jeho vyhodnotenie máj/jún 2019.
 * Máj /jún začiatok organizovania prehliadky v BA z nominovaných inscenácií prvého kola.
@@ -53,15 +51,6 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 * Druhé kolo výberu víťaza Ceny bude rovnako prebiehať od septembra do decembra 2020.
 * Vyhlásenie víťaznej inscenácie bude v rámci prehliadky v decembri 2020.
 * Zároveň od septembra 2019 sa začína nový výberový ročník sezóny 2019/20.
-
-**2. variant**
-
-* Prvé kolo bude prebiehať v sezóne 2019/20, jeho vyhodnotenie máj/ jún 2020.
-* Máj /jún začiatok organizovania prehliadky z nominovaných inscenácií prvého kola.
-* Prehliadka v BA bude prebiehať nasledujúcu sezónu 2020/21 v septembri až decembri  v divadelných priestoroch vhodných pre konkrétnu inscenáciu.
-* Druhé kolo výberu víťaza Ceny bude rovnako prebiehať od septembra do decembra 2021.
-* Vyhlásenie víťaznej inscenácie v rámci prehliadky v decembri 2021. 
-* Zároveň od septembra 2020 sa začína ďalší výberový ročník sezóny 2020/21.
 
 _Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané tri Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania a kritérií divadelníctva predovšetkým prostredníctvom reflexie tvorby v danej sezóne (Cena) a prostredníctvom priblíženia jej celoslovenského obrazu v podobe Celoročnej prehliadky v Bratislave._
 
@@ -74,5 +63,4 @@ Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. M
 
 **Autorka projektu a autorský tím Akadémie divadelných tvorcov:** _MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák._
 
-_**Spolupráca:** Mgr. Katarína Mádelová_ 
-
+_**Spolupráca:** Mgr. Katarína Mádelová_
