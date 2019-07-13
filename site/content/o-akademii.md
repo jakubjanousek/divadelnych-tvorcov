@@ -39,20 +39,14 @@ Podľa počtu divadiel v jednotlivých krajoch SR sa rozdelia divadlá na jedno
 
 Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného držiteľa Ceny.
 
-## III./ Na propagáciu víťazov krajov/Okruhov bude Akadémia organizovať viacmesačnú prehliadku
-
- v hlavnom meste Bratislava prebiehajúcu v následnej sezóne po prvom kole. Na určenom predstavení (koncom decembra) zároveň odovzdá Akadémia udelenú cenu.
-
 **Časový rámec výberu inscenácií:**
 
 * Prvé kolo bude prebiehať už v sezóne 2018/19, jeho vyhodnotenie máj/jún 2019.
-* Máj /jún začiatok organizovania prehliadky v BA z nominovaných inscenácií prvého kola.
-* Prehliadka bude prebiehať nasledujúcu sezónu 2019/20 v septembri až decembri v divadelných priestoroch vhodných pre konkrétnu inscenáciu.
-* Druhé kolo výberu víťaza Ceny bude rovnako prebiehať od septembra do decembra 2020.
-* Vyhlásenie víťaznej inscenácie bude v rámci prehliadky v decembri 2020.
+* Druhé kolo výberu víťaza Ceny bude prebiehať od septembra do decembra 2020.
+* Vyhlásenie víťaznej inscenácie bude v decembri 2019.
 * Zároveň od septembra 2019 sa začína nový výberový ročník sezóny 2019/20.
 
-_Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané tri Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania a kritérií divadelníctva predovšetkým prostredníctvom reflexie tvorby v danej sezóne (Cena) a prostredníctvom priblíženia jej celoslovenského obrazu v podobe Celoročnej prehliadky v Bratislave._
+_Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané dva Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania i kritérií divadelníctva, predovšetkým prostredníctvom reflexie tvorby v danej sezóne - Cena Akadémie._
 
 _Členovia Akadémie divadelných tvorcov veria, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
 
