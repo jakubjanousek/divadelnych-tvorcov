@@ -30,10 +30,11 @@ Debris Company pripravili scénickú meditáciu o hľadaní šťastia _Jób_. Au
 
 Inscenácie Činohry SND _Projekt 1918_, _Ruské denníky_ a Antiteatra _Masa a moc_ postúpili do ďalšieho kola z niekoľkých dôvodov. Jedným z najpodstatnejších, bolo naplnené, charakterovo presné a sýte herecké stvárnenie a v neposlednom ráde téma, jej aktuálnosť i kompaktná súhra viacerých zložiek tej-ktorej inscenácie.
 
-_Za komisiu vypracoval Martin Timko._ \
-_12. 7. 2019_
+*Za komisiu vypracoval Martin Timko.*
 
-__Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava II. nominovala 3 inscenácie bez udania poradia:__
+*12. 7. 2019*
+
+**Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava II. nominovala 3 inscenácie bez udania poradia:**
 
 Inscenácia Činohry SND _Projekt 1918_ (réžia Michal Vajdička)
 
