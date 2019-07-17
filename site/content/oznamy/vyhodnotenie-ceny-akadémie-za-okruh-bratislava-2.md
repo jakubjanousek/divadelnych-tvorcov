@@ -33,10 +33,9 @@ Inscenácie Činohry SND _Projekt 1918_, _Ruské denníky_ a Antiteatra _Masa a 
 _Za komisiu vypracoval Martin Timko._ \
 _12. 7. 2019_
 
-__Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava II. nominovala 3 inscenácie bez udania poradia:__
+**Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Bratislava II.
+ nominovala 3 inscenácie bez udania poradia:**
 
-Inscenácia Činohry SND _Projekt 1918_ (réžia Michal Vajdička)
-
-Inscenácia Činohry SND _Ruské denníky_ (réžia Roman Polák)
-
+Inscenácia Činohry SND _Projekt 1918_ (réžia Michal Vajdička)\
+Inscenácia Činohry SND _Ruské denníky_ (réžia Roman Polák)\
 Inscenácia divadla AntiTeatro _Masa a moc_ (réžia Anton Korenči ml.)
