@@ -29,10 +29,8 @@ _Poznámka: V úvodzovkách sú citácie z hodnotení členov Komisie Východ._
 _Vypracoval Géza Hizsnyan._ \
 _15. 7. 2019_
 
-__Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Východ nominovala 3 inscenácie bez udania poradia:__
+**Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Východ nominovala 3 inscenácie bez udania poradia:**
 
-Inscenácia Činohry štátneho divadla, Košice _Adamove jablká_ (réžia Ján Luterán)
-
-Inscenácia Divadlo Alexandra Duchnoviča, Prešov _Pieskovisko_ (réžia Braňo Mazúch)
-
-Inscenácia Divadla Thália, Košice _Teror_ (réžia Jozef Czajlik)
+Inscenácia Činohry štátneho divadla, Košice _Adamove jablká_ (réžia Ján Luterán)\
+Inscenácia Divadlo Alexandra Duchnoviča, Prešov _Pieskovisko_ (réžia Braňo Mazúch)\
+Inscenácia Divadla Thália, Košice _Teror_ (réžia József Czajlik)
