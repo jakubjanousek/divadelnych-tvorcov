@@ -4,36 +4,39 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-126377123-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+        function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
 
         gtag('config', 'UA-126377123-1');
     </script>
 
-	<title>{{if .Params.Title }}{{ .Params.title }} | {{ end }}{{ .Site.Title }}</title>
-	<link rel="stylesheet" href="/css/style.css" />
+    <title>{{if .Params.Title }}{{ .Params.title }} | {{ end }}{{ .Site.Title }}</title>
+    <link rel="stylesheet" href="/css/style.css" />
 
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="description" content="Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="description"
+        content="Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<script>
-        (function(d) {
+    <script>
+        (function (d) {
             var config = {
-                    kitId: 'ene6mlv',
-                    scriptTimeout: 3000,
-                    async: true
-                },
-                h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+                kitId: 'ene6mlv',
+                scriptTimeout: 3000,
+                async: true
+            },
+                h = d.documentElement, t = setTimeout(function () { h.className = h.className.replace(/\bwf-loading\b/g, "") + " wf-inactive"; }, config.scriptTimeout), tk = d.createElement("script"), f = false, s = d.getElementsByTagName("script")[0], a; h.className += " wf-loading"; tk.src = 'https://use.typekit.net/' + config.kitId + '.js'; tk.async = true; tk.onload = tk.onreadystatechange = function () { a = this.readyState; if (f || a && a != "complete" && a != "loaded") return; f = true; clearTimeout(t); try { Typekit.load(config) } catch (e) { } }; s.parentNode.insertBefore(tk, s)
         })(document);
-	</script>
+    </script>
 
-	<!-- Open Graph -->
-	<meta property="og:type" content="business.business">
-	<meta property="og:title" content="{{ .Site.Title }}">
-	<meta property="og:url" content="/">
-    <meta property="og:description" content="Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.">
+    <!-- deploy test -->
+    <!-- Open Graph -->
+    <meta property="og:type" content="business.business">
+    <meta property="og:title" content="{{ .Site.Title }}">
+    <meta property="og:url" content="/">
+    <meta property="og:description"
+        content="Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.">
 
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
