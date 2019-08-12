@@ -1,3 +1,19 @@
 body {
+  color: $color-white;
+}
+
+header {
+  background: white;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 99;
+  color: $color-black;
+  height: 56px;
+}
+
+main {
   padding: 4rem 0 3rem 0;
+  background: $color-green;
 }

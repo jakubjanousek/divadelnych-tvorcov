@@ -1,4 +1,7 @@
 .single {
+  max-width: 710px;
+  margin: 0 auto;
+
   &__title {
     font-family: $font-family-accent;
     text-transform: uppercase;

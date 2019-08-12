@@ -1,6 +1,6 @@
 html {
   font-family: $font-family-serif;
-  font-size: 125%;
+  font-size: 112.5%;
   line-height: 1.5;
   color: $color-black;
 }
@@ -16,7 +16,7 @@ a {
   color: inherit;
 
   &:after {
-    content: '';
+    content: "";
     display: block;
     position: absolute;
     height: 18px;
@@ -46,9 +46,15 @@ h3 {
   font-weight: 900;
 }
 
-h1 { font-size: 2rem; }
-h2 { font-size: 1.414rem; }
-h3 { font-size: 1rem; }
+h1 {
+  font-size: 2rem;
+}
+h2 {
+  font-size: 1.414rem;
+}
+h3 {
+  font-size: 1rem;
+}
 
 h2 + h3 {
   margin-top: -1rem;

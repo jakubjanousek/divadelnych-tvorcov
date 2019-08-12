@@ -1,13 +1,12 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="sk">
   {{ partial "head" . }}
   <body class="sans-serif">
     {{ partial "header" . }}
 
-    <div class="container-fluid">
-        {{ block "main" . }}{{ end }}
-    </div>
-
-    {{ partial "footer" . }}
+    <main>
+      <div class="container-fluid">{{ block "main" . }}{{ end }}</div>
+      {{ partial "footer" . }}
+    </main>
   </body>
 </html>

@@ -1,25 +1,28 @@
 .logo {
   display: block;
-  position: relative;
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
   margin: 0 auto 2rem auto;
-  padding: 12px 0.5rem;
-  width: 260px;
-  font-size: 50px;
+  padding: 5px 0.5rem;
+  width: 130px;
+  font-size: 22px;
   line-height: 1;
   font-family: $font-family-serif;
-  border-top: 14px solid $color-black;
-  border-bottom: 14px solid $color-black;
+  border-top: 7px solid $color-black;
+  border-bottom: 7px solid $color-black;
   text-align: center;
   text-decoration: none;
   color: inherit;
   transition: $transition;
 
-  @media (min-width: $breakpoint-sm) {
+  /*@media (min-width: $breakpoint-sm) {
     width: 320px;
     font-size: 60px;
     border-top: 18px solid $color-black;
     border-bottom: 18px solid $color-black;
-  }
+  }*/
 
   &:before,
   &:after {
@@ -31,8 +34,12 @@
     height: 2px;
     background: $color-black;
   }
-  &:before {top: 0;}
-  &:after {bottom: 0;}
+  &:before {
+    top: 0;
+  }
+  &:after {
+    bottom: 0;
+  }
 
   &:hover,
   &:active,
