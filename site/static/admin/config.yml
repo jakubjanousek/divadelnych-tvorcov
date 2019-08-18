@@ -16,6 +16,16 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
+  - name: "clanky" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Article" # Used in the UI, ie.: "New Post"
+    folder: "site/content/clanky" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Intro", name: "intro", widget: "text" }
+      - { label: "Featured Image", name: "featured_img", widget: "image" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
     label: "Pages"
     files:
@@ -37,6 +47,18 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/o-akademii.md"
         label: "O akadémii"
         name: "o-akademii"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - file: "site/content/kluby.md"
+        label: "Kluby"
+        name: "kluby"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - file: "site/content/dokumenty.md"
+        label: "Dokumenty"
+        name: "dokumenty"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
