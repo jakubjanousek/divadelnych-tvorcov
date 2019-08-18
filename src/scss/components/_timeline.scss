@@ -1,7 +1,7 @@
 $top-offset: 6px;
 
 .timeline {
-  border-left: 18px solid $color-white;
+  border-left: 9px solid $color-white;
 
   > * {
     position: relative;
@@ -14,7 +14,7 @@ $top-offset: 6px;
       position: absolute;
       top: $top-offset;
       left: 0;
-      height: 18px;
+      height: 9px;
       width: 1rem;
       background: $color-white;
     }

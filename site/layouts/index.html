@@ -2,18 +2,29 @@
 
 <div class="row mb-6">
     <div class="col-md-6 mb-2">
-        {{ .Params.perex | markdownify }}
+        {{ partial "perex" .Params.perex }}
         <a href="/o-akademii">Čítať viac</a>
     </div>
-    <div class="col-md-6">
-        <div class="spacer"></div>
+    <div class="col-md-4 col-xl-6 mb-2">
+        <div class="article-teasers">
+            <div class="spacer"></div>
+            {{ range first 5 (where .Data.Pages "Type" "clanky") }}
+                <div class="mb-2">
+                    {{ partial "article-teaser" . }}
+                </div>
+            {{ end }}
+        </div>
+    </div>
+    <div class="col-md-4 col-xl-3">
+        <div class="spacer spacer--large"></div>
         <div class="timeline">
-            {{ range first 3 (where .Data.Pages "Type" "oznamy") }}
+            {{ range first 4 (where .Data.Pages "Type" "oznamy") }}
                 <div class="mb-2">
                     {{ partial "news-teaser" . }}
                 </div>
             {{ end }}
         </div>
+        <a href="/oznamy">...viac</a>
     </div>
 </div>
 

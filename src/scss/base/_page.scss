@@ -1,5 +1,8 @@
+$body-padding: 3rem;
+
 body {
   color: $color-white;
+  padding: $body-padding 0;
 }
 
 header {
@@ -14,6 +17,22 @@ header {
 }
 
 main {
-  padding: 4rem 0 3rem 0;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  min-height: calc(100vh - #{$body-padding} * 2);
+  padding: 4rem 0 0 0;
   background: $color-green;
+
+  > * {
+    flex: 1;
+  }
+}
+
+.main-container {
+  flex-grow: 1;
+}
+
+footer {
+  flex-grow: 0;
 }

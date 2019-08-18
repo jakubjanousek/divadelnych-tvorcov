@@ -1,7 +1,15 @@
 .spacer {
   margin-bottom: 2rem;
 
+  &--large {
+    margin-bottom: 4rem;
+  }
+
   @media (min-width: $breakpoint-md) {
     margin-bottom: 6rem;
+
+    &--large {
+      margin-bottom: 12rem;
+    }
   }
 }
