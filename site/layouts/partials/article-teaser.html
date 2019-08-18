@@ -1,5 +1,5 @@
 <a href="{{ .Permalink }}" class="article-teaser article-teaser--{{ index (seq 4 | shuffle) 0 }}">
-    <img class="article-teaser__image" src="{{ index (slice "/test-image.jpg" "/test-image2.jpg" "/test-image3.jpg" "/test-image4.jpg" "/test-image5.jpg" | shuffle) 0 }}">
+    <img class="article-teaser__image" src="{{ index (slice "/test-image.jpg" "/test-image2.jpg" "/test-image3.jpg" "/test-image4.jpg" "/test-image5.jpg?nf_resize=fit&w=300&h=400" | shuffle) 0 }}">
     <div class="article-teaser__title">
         {{ .Title }}
     </div>
