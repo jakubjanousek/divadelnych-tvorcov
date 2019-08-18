@@ -1,5 +1,6 @@
 .article-teasers {
   columns: 2 280px;
+  break-inside: avoid;
 }
 
 .article-teaser {
@@ -9,6 +10,13 @@
 
   > * {
     transition: all 0.3s;
+  }
+
+  &__image--placeholder {
+    background: black;
+    height: 0;
+    width: 100%;
+    padding-bottom: 60%;
   }
 
   &__title {

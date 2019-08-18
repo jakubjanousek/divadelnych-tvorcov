@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="single article">
+            {{ with .Params.featured_img }}
+                <img class="article__featured-img" src="{{ . }}?nf_resize=fit&w=920&h=500">
+            {{ end }}
+            <div class="article__content">
+                {{ .Date.Format "02.01.2006" }}
+                <div class="article__title">{{ .Title }}</div>
+                <p class="single__intro">{{ .Params.intro }}</p>
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}
+
