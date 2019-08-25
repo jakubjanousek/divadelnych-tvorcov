@@ -8,7 +8,7 @@ publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "oznamy" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+    label: "Novinka" # Used in the UI, ie.: "New Post"
     folder: "site/content/oznamy" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -17,7 +17,7 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "clanky" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Article" # Used in the UI, ie.: "New Post"
+    label: "Článok" # Used in the UI, ie.: "New Post"
     folder: "site/content/clanky" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
