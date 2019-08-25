@@ -9,7 +9,10 @@
 
   &__content {
     position: relative;
-    z-index: 1;
+
+    img {
+      left: 50%;
+    }
   }
 
   &__title {

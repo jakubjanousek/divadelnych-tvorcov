@@ -54,6 +54,12 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }
+      - file: "site/content/clenovia.md"
+        label: "Členovia"
+        name: "clenovia"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
       - file: "site/content/dokumenty.md"
         label: "Dokumenty"
         name: "dokumenty"
@@ -69,6 +75,12 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/statut-ceny.md"
         label: "Štatút Ceny"
         name: "statut-ceny"
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Body, name: body, widget: markdown }
+      - file: "site/content/eticky-kodex.md"
+        label: "Etický kódex"
+        name: "eticky-kodex"
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Body, name: body, widget: markdown }

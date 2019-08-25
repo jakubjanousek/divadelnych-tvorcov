@@ -38,7 +38,8 @@ a {
 
 h1,
 h2,
-h3 {
+h3,
+h4 {
   margin-bottom: 1rem;
   font-family: $font-family-accent;
   text-transform: uppercase;
@@ -54,6 +55,9 @@ h2 {
 }
 h3 {
   font-size: 1rem;
+}
+h4 {
+  font-size: 0.66666rem;
 }
 
 h2 + h3 {
