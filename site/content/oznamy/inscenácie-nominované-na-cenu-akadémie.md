@@ -1,5 +1,5 @@
 ---
-title: Inscenácie nominované na cenu Akadémie
+title: Inscenácie nominované na Cenu Akadémie
 date: 2019-08-30T15:46:21.892Z
 intro: >-
   Ďakujeme všetkým za účasť v 1. ročníku Ceny Akadémie, gratulujeme postupujúcim
