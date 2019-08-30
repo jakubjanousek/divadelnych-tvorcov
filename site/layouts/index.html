@@ -2,7 +2,8 @@
 
 <div class="row mb-6">
     <div class="col-md-6 mb-2">
-        {{ partial "perex" .Params.perex }}
+        {{ .Params.perex | markdownify }}
+        <a href="/o-akademii">Čítať viac</a>
     </div>
     <div class="col-md-6">
         <div class="spacer"></div>

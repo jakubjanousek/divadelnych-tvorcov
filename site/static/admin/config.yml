@@ -40,16 +40,7 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         name: "home"
         fields:
-          - {
-              label: Perex,
-              name: perex,
-              widget: object,
-              fields:
-                [
-                  { label: "Column 1", name: "column1", widget: "markdown" },
-                  { label: "Column 2", name: "column2", widget: "markdown" },
-                ],
-            }
+          - { label: Perex, name: perex, widget: markdown }
           - { label: Footer, name: footer, widget: markdown }
       - file: "site/content/o-akademii.md"
         label: "O akadémii"
