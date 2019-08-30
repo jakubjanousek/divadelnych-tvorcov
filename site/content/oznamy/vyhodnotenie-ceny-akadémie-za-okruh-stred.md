@@ -47,8 +47,6 @@ _9. júla 2019_
 
 **Do druhého kola Ceny Akadémie za sezónu 2018/19 komisia Stred nominovala 3 inscenácie bez udania poradia:**
 
-Inscenácia Slovenského komorného divadla _Zem Pamätá_ (réžia Jiří Havelka)
-
-Inscenácia Slovenského komorného divadla _Komédia česká o boháčovi a Lazarovi_  (réžia Lukáš Brutovský)
-
+Inscenácia Slovenského komorného divadla _Zem Pamätá_ (réžia Jiří Havelka)\
+Inscenácia Slovenského komorného divadla _Komédia česká o boháčovi a Lazarovi_  (réžia Lukáš Brutovský)\
 Inscenácia Divadla z Pasáže _Posolstvo z inej planéty_ (réžia Šimon Spišák)
