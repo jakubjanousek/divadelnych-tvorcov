@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: "relation",
           collection: "kluby",
           searchFields: ["title"],
-          valueField: ["title"],
+          valueField: "slug",
         }
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
