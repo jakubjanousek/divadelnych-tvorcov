@@ -24,29 +24,28 @@ main {
   padding: 4rem 0 0 0;
 
   background: $color-green; // fallback color
-  .randomize--1 & {
-    background: $color-green;
-  }
-  .randomize--2 & {
-    background: $color-orange;
-  }
-  .randomize--3 & {
-    background: $color-blue;
-  }
-  .randomize--4 & {
-    background: $color-dark-green;
-  }
-  .randomize--5 & {
-    background: $color-maroon;
-  }
-  .randomize--6 & {
-    background: $color-purple;
-  }
 
   > * {
     flex: 1;
   }
 }
+
+@mixin create-background($number, $color) {
+  .randomize--#{$number} {
+    main {
+      background: $color;
+    }
+    .img-holder:after {
+      background: transparentize(darken($color, 8), 0.5);
+    }
+  }
+}
+@include create-background(1, $color-green);
+@include create-background(2, $color-orange);
+@include create-background(3, $color-blue);
+@include create-background(4, $color-dark-green);
+@include create-background(5, $color-maroon);
+@include create-background(6, $color-purple);
 
 .main-container {
   flex-grow: 1;
