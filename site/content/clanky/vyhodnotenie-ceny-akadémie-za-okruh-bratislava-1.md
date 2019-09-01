@@ -1,7 +1,7 @@
 ---
 title: Vyhodnotenie Ceny Akadémie za okruh Bratislava 1
 date: 2019-07-12T15:40:23.508Z
-featured_img: "/img/5ca0dd335bf54612515226b34a55ebdb1ecb9dd44c4eeb6b3fb341dd2e3c860b.png"
+featured_img: "/img/11.jpg"
 intro: >-
   Na divadelné ocenenie „Ceny Akadémie za divadelnú inscenáciu sezóny“ sa do
   okruhu Bratislava 1 v sezóne 2018/2019 prihlásilo sedem rôznych divadiel s

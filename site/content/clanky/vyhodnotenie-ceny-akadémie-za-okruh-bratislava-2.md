@@ -1,7 +1,7 @@
 ---
 title: VYHODNOTENIE CENY AKADÉMIE ZA OKRUH BRATISLAVA 2
 date: 2019-07-16T20:55:46.151Z
-featured_img: "/img/1frm95k.jpg"
+featured_img: "/img/richard_stanke_chojnicky_jan_kolenik_esterhazy_frantisek_kovar_trotta_st._zdena_studenkova_trottova.jpg"
 intro: >-
   Komisia Akadémie divadelných tvorcov pre okruh Bratislava 2 v zložení Viera
   Dubačová, Lucia Mihálová, Vladimír Štefko, Boris Farkaš, Martin Timko
