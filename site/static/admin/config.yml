@@ -23,6 +23,7 @@ collections: # A list of collections the CMS should be able to edit
           searchFields: ["title"],
           displayFields: ["title"],
           valueField: "title",
+          required: false,
         }
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
