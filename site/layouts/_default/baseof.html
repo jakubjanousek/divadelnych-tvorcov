@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html lang="sk">
+<html lang="sk" class="no-js">
   {{ partial "head" . }}
   <body class="sans-serif">
     {{ partial "header" . }}
 
-    <main>
+    <main class="randomize--{{ index (seq 6 | shuffle) 0 }}">
       <div class="main-container container-fluid">{{ block "main" . }}{{ end }}</div>
       {{ partial "footer" . }}
     </main>
+
+    <script src="/app.js"></script>
   </body>
 </html>

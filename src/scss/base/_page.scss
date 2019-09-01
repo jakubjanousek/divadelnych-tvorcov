@@ -22,7 +22,26 @@ main {
   flex-wrap: wrap;
   min-height: calc(100vh - #{$body-padding} * 2);
   padding: 4rem 0 0 0;
-  background: $color-green;
+
+  background: $color-green; // fallback color
+  &.randomize--1 {
+    background: $color-green;
+  }
+  &.randomize--2 {
+    background: $color-orange;
+  }
+  &.randomize--3 {
+    background: $color-blue;
+  }
+  &.randomize--4 {
+    background: $color-dark-green;
+  }
+  &.randomize--5 {
+    background: $color-maroon;
+  }
+  &.randomize--6 {
+    background: $color-purple;
+  }
 
   > * {
     flex: 1;
