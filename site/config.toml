@@ -1,3 +1,6 @@
 baseurl = "/"
 title = "Akadémia divadelných tvorcov"
 removePathAccents = true
+
+[blackfriday]
+    fractions = false
