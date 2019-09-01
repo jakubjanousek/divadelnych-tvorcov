@@ -1,13 +1,13 @@
 ---
-title: VYHODNOTENIE CENY AKADÉMIE ZA OKRUH VÝCHOD
+title: Vyhodnotenie Ceny Akadémie za okruh Východ
 date: 2019-07-16T21:22:42.025Z
-featured_img: "/img/Pieskovisko-DAD-10.jpg"
 intro: >-
   Komisia Akadémie divadla Východ v zložení: Tatiana Masníková, Karol Horák,
   Róbert Kobezda, Miron Pukan a Géza Hizsnyan hodnotila v sezóne 2018/2019 7
   inscenácií štyroch prihlásených divadiel: Divadlo Alexandra Duchnoviča,
   Prešov, Štátne divadlo Košice, Spišské divadlo, Spišská Nová Ves a Divadlo
   Thália, Košice.
+featured_img: /img/Pieskovisko-DAD-10.jpg
 ---
 
 Všetky štyri divadlá sú zriaďované, dve z nich patria k národnostným, hrajúcim v jazyku národnostných menšín (DAD Prešov v jazyku rusínskom, Divadlo Thália v jazyku maďarskom). V prihlásených tituloch je klasická dráma, súčasné hry, divadelné adaptácie prózy, filmu aj rozprávky. Takmer vo všetkých inscenáciách je prítomná snaha o aktuálnu „výpoveď“, predovšetkým k otázkam morálky jednotlivca aj spoločnosti. Štýlovo sme mohli vidieť snahu o nájdenie „modernej divadelnej formy“ v inscenovaní klasickej drámy, o využitie klasickej formy so sústredením sa na hereckú prácu aj štylizovanú hru v komornom priestore. Umelecko-estetická úroveň inscenácií bola rôznorodá, podľa názoru väčšiny porotcov však tri inscenácie jednoznačne vynikali z celkovej ponuky.
