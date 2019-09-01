@@ -21,7 +21,7 @@ collections: # A list of collections the CMS should be able to edit
           collection: "kluby",
           searchFields: ["title"],
           displayFields: ["title"]
-          valueField: "slug",
+          valueField: "name",
         }
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
