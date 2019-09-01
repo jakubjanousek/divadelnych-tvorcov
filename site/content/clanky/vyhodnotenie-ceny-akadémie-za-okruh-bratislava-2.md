@@ -1,13 +1,14 @@
 ---
-title: VYHODNOTENIE CENY AKADÉMIE ZA OKRUH BRATISLAVA 2
+title: Vyhodnotenie Ceny Akadémie za okruh Bratislava 2
 date: 2019-07-16T20:55:46.151Z
-featured_img: "/img/richard_stanke_chojnicky_jan_kolenik_esterhazy_frantisek_kovar_trotta_st._zdena_studenkova_trottova.jpg"
 intro: >-
   Komisia Akadémie divadelných tvorcov pre okruh Bratislava 2 v zložení Viera
   Dubačová, Lucia Mihálová, Vladimír Štefko, Boris Farkaš, Martin Timko
   hodnotila deväť inscenácií, ktoré prihlásili do Ceny Akadémie tieto divadlá:
   Činohra Slovenského národného divadla, Malá scéna STU, Antiteatro, Divadlo
   Prvý plán, Divadlo Prvý plán a Letné Shakespearovské slávnosti.
+featured_img: >-
+  /img/richard_stanke_chojnicky_jan_kolenik_esterhazy_frantisek_kovar_trotta_st._zdena_studenkova_trottova.jpg
 ---
 
 Činohra SND ako prirodzene najväčšie a najproduktívnejšie divadlo v našej skupine ponúklo spolu štyri inscenácie. Odlišovali sa svojou umeleckou kvalitou i divadelnou výpoveďou, ale v každej z nich sa ukazovala svojbytná potreba vypovedať niekedy nástojčivejšie, koncentrovanejšie a jasnejšie a inokedy chaotickejšie a nejasne o stave súčasného sveta.
