@@ -36,7 +36,7 @@ main {
       background: $color;
     }
     .img-holder:after {
-      background: transparentize(darken($color, 8), 0.5);
+      background: transparentize(darken($color, 7), 0.25);
     }
   }
 }
