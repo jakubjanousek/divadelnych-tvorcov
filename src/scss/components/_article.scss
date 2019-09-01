@@ -3,8 +3,22 @@
 
   &__featured-img {
     position: absolute;
+  }
+  &__featured-img--1 {
     top: 20vh;
     right: 50%;
+  }
+  &__featured-img--2 {
+    top: 10vh;
+    right: 60%;
+  }
+  &__featured-img--3 {
+    top: 30vh;
+    left: 40%;
+  }
+  &__featured-img--4 {
+    top: 40vh;
+    left: 60%;
   }
 
   &__content {

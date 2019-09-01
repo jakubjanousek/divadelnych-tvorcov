@@ -3,7 +3,7 @@
     <div class="col-lg-10">
         <div class="single article">
             {{ with .Params.featured_img }}
-                <img class="article__featured-img" src="{{ . }}?nf_resize=fit&w=920&h=500">
+                <img class="article__featured-img article__featured-img--{{ index (seq 4 | shuffle) 0 }}" src="{{ . }}?nf_resize=fit&w=920&h=500">
             {{ end }}
             <div class="article__content">
                 {{ .Date.Format "02.01.2006" }}
