@@ -1,7 +1,7 @@
 ---
 title: VYHODNOTENIE CENY AKADÉMIE ZA OKRUH VÝCHOD
 date: 2019-07-16T21:22:42.025Z
-featured_img: "/img/test-image5.jpg"
+featured_img: "/img/Pieskovisko-DAD-10.jpg"
 intro: >-
   Komisia Akadémie divadla Východ v zložení: Tatiana Masníková, Karol Horák,
   Róbert Kobezda, Miron Pukan a Géza Hizsnyan hodnotila v sezóne 2018/2019 7

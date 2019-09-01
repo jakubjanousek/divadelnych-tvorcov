@@ -3,16 +3,33 @@
 <div class="row mb-6">
     <div class="col-md-4 col-xl-3 mb-2">
         {{ .Params.perex | markdownify }}
-        <a href="/o-akademii">Čítať viac</a>
+        <a href="/o-akademii">...viac o akadémii</a>
     </div>
     <div class="col-md-4 col-xl-6 mb-2">
-        <div class="article-teasers">
-            <div class="spacer"></div>
-            {{ range first 5 (where .Data.Pages "Type" "clanky") }}
-                <div class="mb-2">
-                    {{ partial "article-teaser" . }}
+        <div class="row">
+            <div class="col-xl-6">
+                <div class="article-teasers">
+                    <div class="spacer"></div>
+                    {{ range $i,$p := (where .Data.Pages "Type" "clanky") }}
+                        {{if not (modBool $i 2)}}
+                        <div class="mb-2">
+                            {{ partial "article-teaser" . }}
+                        </div>
+                        {{ end }}
+                    {{ end }}
                 </div>
-            {{ end }}
+            </div>
+            <div class="col-xl-6">
+                <div class="article-teasers">
+                    {{ range $i,$p := (where .Data.Pages "Type" "clanky") }}
+                        {{if (modBool $i 2)}}
+                        <div class="mb-2">
+                            {{ partial "article-teaser" . }}
+                        </div>
+                        {{ end }}
+                    {{ end }}
+                </div>
+            </div>
         </div>
     </div>
     <div class="col-md-4 col-xl-3">
@@ -24,7 +41,7 @@
                 </div>
             {{ end }}
         </div>
-        <a href="/oznamy">...viac</a>
+        <a href="/oznamy">...čítať viac oznamov</a>
     </div>
 </div>
 

@@ -1,18 +1,20 @@
 ---
 title: Vyhodnotenie Ceny Akadémie za okruh Bratislava 1
 date: 2019-07-12T15:40:23.508Z
+featured_img: "/img/5ca0dd335bf54612515226b34a55ebdb1ecb9dd44c4eeb6b3fb341dd2e3c860b.png"
 intro: >-
   Na divadelné ocenenie „Ceny Akadémie za divadelnú inscenáciu sezóny“ sa do
   okruhu Bratislava 1 v sezóne 2018/2019 prihlásilo sedem rôznych divadiel s
   deviatimi inscenáciami.
 ---
+
 Tak sa spoločne vedľa seba ocitli inscenácie samosprávnych a etablovanejších divadiel Divadla Aréna, Divadla ASTORKA Korzo ´90 alebo Mestského divadla P. O. Hviezdoslava s inscenáciami nezávislých, respektíve nezriaďovaných divadiel, ktoré fungujú v iných podmienkach, a z toho často pramení aj ich originálna divadelná poetika. Medzi nimi sa v okruhu Bratislava 1 ocitli už skúsení tvorcovia Prešporského divadla, pomerne mladé zoskupenia Divadlo Petra Mankoveckého (DPM) a Divadlo NUDE, ale aj koprodukčná inscenácia nového zoskupenia KOLLEKTIV. Takéto rozloženie však bolo a je jedným zo zámerov Ceny Akadémie divadelných tvorcov, ktorá pri reflexii a hodnotení inscenácií kladie dôraz na názorovú a tvorivú autenticitu, občiansky, ľudský a divadelný étos ako aj vlastnú kreativitu tvorcov bez rozdielov.
 
 Prihlásené inscenácie boli prirodzene žánrovo, námetmi, témami aj inscenačným jazykom a kvalitami rôznorodé. Bolo ku nim teda treba pristupovať individuálne so znalosťou kontextu ich predošlej tvorby či poetologického zamerania. Nie je preto prekvapujúce, že aj názory jednotlivých členov komisie na seba narážali, dokonca si v niektorých prípadoch protirečili. V tejto súvislosti je možné vysloviť dve hypotézy. Prvá sa týka pohľadu na divadelné umenie z perspektívy rozdielnej divadelnej skúsenosti, možno aj do istej miery subjektívneho vnímania členov komisie. Druhá, závažnejšia, hypotéza sa týka zrelosti a stability prihlásených inscenácií (značným problémom sa ukázala byť prílišná kolísavosť jednotlivých repríz najmä v hereckej zložke).
 
 Pozrime sa na prihlásené inscenácie a to, čo ich spája, či vytvárajú isté línie alebo aspoň skupiny, či a čo ako celok signalizujú, kým prejdeme k ich jednotlivým parciálnym reflexiám.
 
-Komisia sledovala a hodnotila inscenácie _Biblia_ a _Josef Švejk_ (Divadlo Aréna), _Mala Dr. Csabová pravdu?_ (Divadlo NUDE), _1993_  (Divadlo Petra Mankoveckého a Divadlo na cucky), _Ujo Váňa_ a _Cirkus Scapin_ (Mestské divadlo P. O. Hviezdoslava), _Lakomec?_ (Prešporské divadlo), _Prípad B.umerang_  (KOLLEKTIV), _Komúna_ (Divadlo ASTORKA Korzo ´90).
+Komisia sledovala a hodnotila inscenácie _Biblia_ a _Josef Švejk_ (Divadlo Aréna), _Mala Dr. Csabová pravdu?_ (Divadlo NUDE), _1993_ (Divadlo Petra Mankoveckého a Divadlo na cucky), _Ujo Váňa_ a _Cirkus Scapin_ (Mestské divadlo P. O. Hviezdoslava), _Lakomec?_ (Prešporské divadlo), _Prípad B.umerang_ (KOLLEKTIV), _Komúna_ (Divadlo ASTORKA Korzo ´90).
 
 Nachádzajú sa tu u nás nie celkom časté monodrámy alebo presnejšie divadlo jedného herca, druhú skupinu tvoria inscenácie tzv. staršej a novšej literárnej a dramatickej klasiky Pri inscenovaní nedramatických predlôh (_Biblia_, _Josef Švejk_), ale aj Molièrových hier (_Lakomec_, _Scapinove šibalstvá_), sme sa stretli s voľnejším prístupom k dramaturgickému spracovaniu textu, čo je legitímnou licenciou tvorcov. Tretiu skupinu predstavujú inscenácie, ktoré by sme mohli považovať za autorské divadlo nadväzujúce v dobrom zmysle slova na postupy študentského divadla a kabaretu, kde je živnou pôdou pre tvorcov recesia, nedodržiavanie konvencií a podsúvanie podvratných významov.
 
@@ -40,7 +42,7 @@ _Komisia okruhu BA 1: Zuzana Bakošová-Hlavenková, Elena Knopová, Anton Koren
 
 _Z čiastkových reflexií vypracovala Elena Knopová._
 
-__DO DRUHÉHO KOLA CENY AKADÉMIE ZA SEZÓNU 2018/19 KOMISIA BRATISLAVA 1 NOMINOVALA 2 INSCENÁCIE BEZ UDANIA PORADIA:__
+**DO DRUHÉHO KOLA CENY AKADÉMIE ZA SEZÓNU 2018/19 KOMISIA BRATISLAVA 1 NOMINOVALA 2 INSCENÁCIE BEZ UDANIA PORADIA:**
 
 Inscenácia Divadla Aréna _Biblia_ (réžia Rastislav Ballek)\
 Inscenácia Mestského Divadla P.O.H. _Ujo Váňa_ (réžia Marián Pecko)

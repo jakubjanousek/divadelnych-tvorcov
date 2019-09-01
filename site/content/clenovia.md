@@ -20,4 +20,4 @@ Kontaktné osoby: prof. Roman Polák a Mgr. art. Lucia Mihálová
 Kontaktná osoba: Mgr. art. Monika Kováčová
 
 **Klub vzdelávania - konzervatórií**\
-Kontaktná osoba: Mgr. art. Michal Legíň
+Kontaktná osoba: Mgr. Tatiana Masníková
