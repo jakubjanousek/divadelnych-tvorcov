@@ -12,6 +12,10 @@
     transition: all 0.3s;
   }
 
+  &__image {
+    position: relative;
+  }
+
   &__image--placeholder {
     background: black;
     height: 0;
@@ -28,47 +32,20 @@
     text-transform: uppercase;
   }
 
-  &--1 &__image {
-    padding-left: 10%;
+  &__image {
+    left: 1rem;
   }
-  &--1 &__title {
-    top: 20%;
+  &__title {
+    bottom: 1rem;
     left: 0;
-  }
-
-  &--2 &__image {
-    padding-left: 10%;
-  }
-  &--2 &__title {
-    top: 30%;
-    left: 0;
-  }
-
-  &--3 &__image {
-    padding-right: 10%;
-  }
-  &--3 &__title {
-    top: 50%;
-    left: 10%;
-  }
-
-  &--4 &__image {
-    padding-right: 10%;
-  }
-  &--4 &__title {
-    top: 60%;
-    left: 10%;
   }
 
   &:hover {
     .article-teaser__title {
-      top: 40% !important;
-      left: 5%;
-      right: 5%;
+      left: 1rem;
     }
     .article-teaser__image {
-      padding-left: 5%;
-      padding-right: 5%;
+      left: 0;
     }
   }
 }

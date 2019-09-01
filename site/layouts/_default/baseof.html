@@ -4,7 +4,7 @@
   <body class="sans-serif">
     {{ partial "header" . }}
 
-    <main class="randomize--{{ index (seq 6 | shuffle) 0 }}">
+    <main>
       <div class="main-container container-fluid">{{ block "main" . }}{{ end }}</div>
       {{ partial "footer" . }}
     </main>

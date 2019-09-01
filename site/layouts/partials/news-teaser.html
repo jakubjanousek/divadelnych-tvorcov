@@ -3,7 +3,7 @@
         {{ .Date.Format "02.01.2006" }}
     </div>
     <div class="post__title">
-        {{ .Title }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
     </div>
     <div class="post__intro">
         {{ .Params.intro }}

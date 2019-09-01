@@ -24,22 +24,22 @@ main {
   padding: 4rem 0 0 0;
 
   background: $color-green; // fallback color
-  &.randomize--1 {
+  .randomize--1 & {
     background: $color-green;
   }
-  &.randomize--2 {
+  .randomize--2 & {
     background: $color-orange;
   }
-  &.randomize--3 {
+  .randomize--3 & {
     background: $color-blue;
   }
-  &.randomize--4 {
+  .randomize--4 & {
     background: $color-dark-green;
   }
-  &.randomize--5 {
+  .randomize--5 & {
     background: $color-maroon;
   }
-  &.randomize--6 {
+  .randomize--6 & {
     background: $color-purple;
   }
 
