@@ -8,7 +8,8 @@ publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
   - name: "oznamy" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Novinka" # Used in the UI, ie.: "New Post"
+    label: "Novinky" # Used in the UI, ie.: "New Post"
+    label_singular: "Novinka"
     folder: "site/content/oznamy" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -21,12 +22,13 @@ collections: # A list of collections the CMS should be able to edit
           collection: "kluby",
           searchFields: ["title"],
           displayFields: ["title"],
-          valueField: "slug",
+          valueField: "title",
         }
       - { label: "Intro", name: "intro", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "clanky" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Článok" # Used in the UI, ie.: "New Post"
+    label: "Články" # Used in the UI, ie.: "New Post"
+    label_singular: "Článok"
     folder: "site/content/clanky" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
@@ -36,14 +38,16 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Featured Image", name: "featured_img", widget: "image" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "kluby" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Klub" # Used in the UI, ie.: "New Post"
+    label: "Kluby" # Used in the UI, ie.: "New Post"
+    label_singular: "Klub"
     folder: "site/content/kluby" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
   - name: "pages"
-    label: "Pages"
+    label: "Stránky"
+    label_singular: "Stránka"
     files:
       - file: "site/content/_index.md"
         label: "Home Page"
