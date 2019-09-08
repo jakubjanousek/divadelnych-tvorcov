@@ -1,5 +1,5 @@
 ---
-title: Vyhodnotenie Ceny Akadémie za okruh Východ
+title: 'Východ - Vyhodnotenie Ceny Akadémie za daný okruh '
 date: 2019-07-16T21:22:42.025Z
 intro: >-
   Komisia Akadémie divadla Východ v zložení: Tatiana Masníková, Karol Horák,
