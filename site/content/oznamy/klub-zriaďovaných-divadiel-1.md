@@ -1,7 +1,7 @@
 ---
 title: Klub zriaďovaných divadiel
 date: 2019-09-08T17:27:52.318Z
-klub: Klub zriaďovaných divadiel
+klub: ''
 intro: >-
   Zápisnica č. 1 zo stretnutia riaditeľov divadiel v rámci Klubu pre zriaďované
   divadlá zo dňa 18.6. 2019 - Dotyky a spojenia, Martin.
