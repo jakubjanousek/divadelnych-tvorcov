@@ -1,5 +1,5 @@
 ---
-title: Vyhodnotenie Ceny Akadémie za okruh Bratislava 2
+title: 'Bratislava 2 - Vyhodnotenie Ceny Akadémie za daný okruh '
 date: 2019-07-16T20:55:46.151Z
 intro: >-
   Komisia Akadémie divadelných tvorcov pre okruh Bratislava 2 v zložení Viera
