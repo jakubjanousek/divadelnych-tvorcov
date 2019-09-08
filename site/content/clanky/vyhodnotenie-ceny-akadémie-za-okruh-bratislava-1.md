@@ -1,11 +1,11 @@
 ---
-title: Vyhodnotenie Ceny Akadémie za okruh Bratislava 1
+title: 'Bratislava 1 - Vyhodnotenie Ceny Akadémie za daný okruh '
 date: 2019-07-12T15:40:23.508Z
-featured_img: "/img/11.jpg"
 intro: >-
   Na divadelné ocenenie „Ceny Akadémie za divadelnú inscenáciu sezóny“ sa do
   okruhu Bratislava 1 v sezóne 2018/2019 prihlásilo sedem rôznych divadiel s
   deviatimi inscenáciami.
+featured_img: /img/11.jpg
 ---
 
 Tak sa spoločne vedľa seba ocitli inscenácie samosprávnych a etablovanejších divadiel Divadla Aréna, Divadla ASTORKA Korzo ´90 alebo Mestského divadla P. O. Hviezdoslava s inscenáciami nezávislých, respektíve nezriaďovaných divadiel, ktoré fungujú v iných podmienkach, a z toho často pramení aj ich originálna divadelná poetika. Medzi nimi sa v okruhu Bratislava 1 ocitli už skúsení tvorcovia Prešporského divadla, pomerne mladé zoskupenia Divadlo Petra Mankoveckého (DPM) a Divadlo NUDE, ale aj koprodukčná inscenácia nového zoskupenia KOLLEKTIV. Takéto rozloženie však bolo a je jedným zo zámerov Ceny Akadémie divadelných tvorcov, ktorá pri reflexii a hodnotení inscenácií kladie dôraz na názorovú a tvorivú autenticitu, občiansky, ľudský a divadelný étos ako aj vlastnú kreativitu tvorcov bez rozdielov.
