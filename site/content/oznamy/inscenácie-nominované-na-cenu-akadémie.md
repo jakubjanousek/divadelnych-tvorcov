@@ -15,7 +15,7 @@ Inscenácia Divadlo Alexandra Duchnoviča, Prešov _Pieskovisko_ (réžia Braňo
 Inscenácia Divadla Thália, Košice _Teror_ (réžia József Czajlik)
 
 **Okruh Stred**\
-Inscenácia Slovenského komorného divadla _Komédia česká o boháčovi a Lazarovi_ (réžia Lukáš Brutovský)
+Inscenácia Slovenského komorného divadla _Komédia česká o bohatci a Lazarovi_ (réžia Lukáš Brutovský)
 \
 Inscenácia Divadla z Pasáže _Posolstvo z inej planéty_ (réžia Šimon Spišák)\
 Inscenácia Slovenského komorného divadla _Zem Pamätá_ (réžia Jiří Havelka)
