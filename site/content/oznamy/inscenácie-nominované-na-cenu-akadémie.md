@@ -36,3 +36,5 @@ Inscenácia Činohry SND _Ruské denníky_ (réžia Roman Polák)
 \
 \
 _„Táto vzorka je naozaj reprezentatívna a bol pre mňa pri diskusiách jednotlivých komisií zážitok vidieť, ako kolegovia sú schopní zanietene diskutovať o jednotlivých inscenáciách a ako im úprimne záleží, aby nominované inscenácie vytvorili čo najpresnejší obraz divadelnej tvorby v danom regióne_ “, podotýka na margo 1. kola Prezidentka Akadémie Viki Janoušková.
+
+**_Cenu Akadémie spoluorganizuje Literárny fond a projekt podporil Fond na podporu umenia._**
