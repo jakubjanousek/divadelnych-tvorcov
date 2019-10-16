@@ -19,6 +19,4 @@ Stretnutia sa z pracovných dôvodov nemohli zúčastniť: V. Černý, I. Dohovi
 7. Keďže plánovaná novelizácia sa bude týkať všetkých zriaďovaných divadiel, bolo by veľmi prínosné, aby aj ostatné divadlá minimálne písomnou formou prispeli do tejto diskusie. 
 
 _V Nitre, 28. 9. 2019_
-_Zapísala: Lucia Mihálová_           
-
-__
+_Zapísala: Lucia Mihálová_
