@@ -1,5 +1,9 @@
 $body-padding: 3rem;
 
+html {
+    overflow-x: hidden;
+}
+
 body {
   color: $color-white;
   padding: $body-padding 0;
