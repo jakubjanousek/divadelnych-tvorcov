@@ -20,5 +20,8 @@ riadne členstvo:
 [.doc](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.doc),
 [.pdf](https://www.adt-theatre.sk/files/prihlaska-cestny_clen.pdf)
 
-_Formulár prihlášky inscenácie do Ceny - pre divadlá - na stiahnutie:_\
+_Formulár deklarácie záujmu divadla o prihlásenie do Ceny:_\
+[.doc](https://www.adt-theatre.sk/files/prihlaska-divadla.doc)
+
+_Formulár prihlášky inscenácie do Ceny:_\
 [.doc](https://www.adt-theatre.sk/files/prihlaska-inscenacie.doc)
