@@ -9,7 +9,7 @@ intro: >-
   1. Odráža podľa Vás súčasné divadlo Váš hodnotový rebríček, má vôbec tú
   ambíciu?
 
-  2. Ako vnímate role divadla inštitucionálneho/kamenného a nezávislého, resp.
+  2. Ako vnímate roly divadla inštitucionálneho/kamenného a nezávislého, resp.
   aj komunitného? (Všetky sa v 14-ke nominovaných objavili...)
 featured_img: /img/zem-pamätá-3.jpg
 ---
