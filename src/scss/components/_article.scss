@@ -41,10 +41,9 @@
   }
 
   &__title {
-    font-family: $font-family-accent;
-    font-size: 1.5rem;
     max-width: 600px;
     text-transform: uppercase;
     margin-bottom: 2rem;
+    text-align: left;
   }
 }

@@ -9,7 +9,7 @@
             {{ end }}
             <div class="article__content">
                 {{ .Date.Format "02.01.2006" }}
-                <div class="article__title">{{ .Title }}</div>
+                <h1 class="article__title">{{ .Title }}</h1>
                 <p class="single__intro">{{ .Params.intro }}</p>
                 {{ .Content }}
             </div>

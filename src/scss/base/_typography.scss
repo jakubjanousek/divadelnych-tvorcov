@@ -1,15 +1,16 @@
 html {
   font-family: $font-family-serif;
-  font-size: 112.5%;
-  line-height: 1.5;
+  font-size: 100%;
+  line-height: 1.7;
   color: $color-black;
 }
 
 strong {
-  font-size: 0.66666rem;
+  font-size: 0.85rem;
   font-family: $font-family-accent;
   text-transform: uppercase;
   font-style: normal;
+  font-weight: 900;
 }
 
 a {
@@ -45,6 +46,7 @@ h4 {
   text-transform: uppercase;
   text-align: center;
   font-weight: 900;
+  line-height: 1.2;
 }
 
 h1 {

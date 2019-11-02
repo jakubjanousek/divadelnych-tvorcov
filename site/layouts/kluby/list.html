@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="single">
-    <div class="single__title single__title--center">Kluby</div>
+    <h1 class="single__title">Kluby</h1>
     {{ range (where .Data.Pages "Type" "kluby") }}
     <div class="mb-2">
         <div><strong>{{ .Title }}</strong></div>
