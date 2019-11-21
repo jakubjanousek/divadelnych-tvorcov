@@ -1,5 +1,5 @@
 ---
-title: Akadémia divadelných tvorcov odovzdá Cenu Akadémie sa inscenáciu sezóny!
+title: Akadémia divadelných tvorcov odovzdá Cenu Akadémie za inscenáciu sezóny!
 date: 2019-11-16T16:54:47.859Z
 intro: >-
   Projekt Ceny Akadémie za inscenáciu divadelnej sezóny 2018/2019 sa blíži k
