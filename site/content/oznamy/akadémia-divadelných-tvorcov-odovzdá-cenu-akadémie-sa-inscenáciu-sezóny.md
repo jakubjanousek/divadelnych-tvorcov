@@ -6,9 +6,9 @@ intro: >-
   vrcholnej fáze svojho pilotného ročníka. V súčasnosti stojí pred členmi
   vrcholovej komisie jedna z najväčších výziev; zo 14 nominovaných inscenácií
   vybrať jednu víťaznú. Tá bude vyhlásená 13. decembra 2019 počas slávnostného
-  galavečera v Modrom salóne Slovenského národného divadla o 19.00. - Keďže je
-  večer na pozvánky, Rádio Devín sa podujalo odvysielať záznam z diskusie hneď
-  najbližší týždeň (termín upresníme hneď, ako budeme vedieť).
+  galavečera v Modrom salóne Slovenského národného divadla o 19.00. - Večer je
+  na pozvánky, no diskusiu si budete môcť vypočuť na Rádiu Devín za čerstva hneď
+  v pondelok 16. 12. v poobedňajších hodinách.
 ---
 _„Z mozaiky 14-tich inscenácií vyvstáva plastický obraz slovenského divadelníctva, sú tu divadlá od SND, cez štátne, samosprávne – vrátane dvoch národnostných divadiel, sú tu i zástupcovia nezávislých divadiel a dokonca jedno komunitné! Vzorka môže byť okrem „správy o stave“ i vhodným odporúčaním, či „gideom“ pre divákov pri ich orientovaní sa v ponuke divadiel, pretože sú to inscenácie, ktoré prešli sitom kritikov i praktických divadelníkov.“_, dodáva na margo nominácií Viki Janoušková, prezidentka Akadémie divadelných tvorcov.
 
