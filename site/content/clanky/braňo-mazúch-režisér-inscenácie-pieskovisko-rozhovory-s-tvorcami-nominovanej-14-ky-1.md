@@ -33,4 +33,4 @@ Ako hosťujúci režisér mám skúsenosti prevažne s inštitucionálnymi divad
 
 ___Ďakujem za ochotu rozprávať sa.___
 
-_- vj -_
+_- vj -_
