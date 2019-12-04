@@ -34,4 +34,6 @@ Práve preto, de facto,  nevznikajú nové inštitúcie, ktoré by sa zameriaval
 
 __Nemám doplňujúce otázky, ďakujem za ochotu viesť dialóg, pán Augustín.__
 
-_ - vj - _
+_- vj -_
+
+
