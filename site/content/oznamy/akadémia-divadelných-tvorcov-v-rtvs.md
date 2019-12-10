@@ -7,3 +7,5 @@ intro: >-
   KULTÚRA.SK.
 ---
 [https://www.rtvs.sk/televizia/archiv/14625/205201](https://www.rtvs.sk/televizia/archiv/14625/205201)
+
+_Vyhlásenie víťaza prvého ročníka Ceny Akadémie prebehne už o pár dní, 13.12. v Modrom salóne Slovenského národného divadla._
