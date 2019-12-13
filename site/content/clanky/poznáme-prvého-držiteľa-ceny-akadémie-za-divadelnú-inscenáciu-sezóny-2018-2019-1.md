@@ -8,7 +8,7 @@ intro: >-
   dospel k svojmu vrcholu.
 featured_img: /img/adt-logo-black.png
 ---
-Komisia 2. kola, v zložení teatrológovia Ida Hledíková, Géza Hizsnyan, skladateľ a hudobník Martin Husovský, režisér Juraj Nvota, dramatik a dramaturg Peter Pavlac, zo vzorky14 nominovaných inscenácií z profesionálnych divadiel z celého Slovenska vybrala víťaza a odporučila Akadémii divadelných tvorcov udeliť
+Komisia 2. kola, v zložení teatrológovia Ida Hledíková, Géza Hizsnyan, skladateľ a hudobník Martin Husovský, režisér Juraj Nvota, dramatik a dramaturg Peter Pavlac, zo vzorky 14 nominovaných inscenácií z profesionálnych divadiel z celého Slovenska vybrala víťaza a odporučila Akadémii divadelných tvorcov udeliť
 
 __Cenu Akadémie za divadelnú inscenáciu sezóny 2018/19__ \
 __dielu Ruske denníky z Činohry SND v réžii Romana Poláka__
