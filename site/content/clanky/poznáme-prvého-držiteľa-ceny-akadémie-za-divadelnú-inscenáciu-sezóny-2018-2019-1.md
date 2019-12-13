@@ -2,7 +2,7 @@
 title: >-
   Poznáme prvého držiteľa Ceny Akadémie za divadelnú inscenáciu sezóny
   2018/2019!
-date: 2019-12-13T11:19:12.317Z
+date: 2019-12-13T20:00:12.317Z
 intro: >-
   Prvý ročník projektu Ceny Akadémie za divadelnú inscenáciu sezóny 2018/2019
   dospel k svojmu vrcholu.
