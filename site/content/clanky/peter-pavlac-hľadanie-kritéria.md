@@ -1,6 +1,6 @@
 ---
 title: 'Peter Pavlac: Hľadanie kritéria'
-date: 2019-12-04T14:50:42.565Z
+date: 2019-12-13T10:50:42.565Z
 intro: >-
   Krátka úvaha člena vrcholovej komisie nad štrnástimi inscenáciami 
   nominovanými na Cenu Akadémie.
