@@ -15,6 +15,8 @@ __dielu Ruske denníky z Činohry SND v réžii Romana Poláka__
 
 __za eticky silnú výpoveď postavenú na výnimočne presvedčivých hereckých výkonoch.__
 
+Porota oceňuje  autentickosť diela v jeho inscenačnej komplexnosti, vynikajúce autorsko-dramaturgické, režijné a herecké stvárnenie, ktoré zdôrazňuje morálny apel a upozorňuje na krehkosť demokracie.
+
 Akadémia odovzdala svoju historicky prvú Cenu v piatok 13.decembra 2019 počas slávnostného galavečera v Modrom salóne Slovenského národného divadla. Protagonistami večera boli tvorcovia 14 nominovaných inscenácií, ktorí v moderovanej diskusii vyjadrili svoje postoje k témam ako je étos, hodnotový rebríček tvorcu a jeho obraz v jeho diele. Diskutovali aj o  škále produkčných modelov v rámci profesionálnej divadelnej tvorby na Slovensku, od komunitných cez nezávislé až k zriaďovaným divadlám. \
 __Skrátený záznam diskusie si budú môcť poslucháči  Rádia Devín vypočuť v pondelok 16. 12. 2019  o 14:00.__
 
