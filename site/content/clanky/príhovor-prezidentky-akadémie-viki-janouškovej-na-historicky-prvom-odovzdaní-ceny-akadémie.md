@@ -2,7 +2,7 @@
 title: Príhovor prezidentky Akadémie Viki Janouškovej na odovzdaní Ceny
 date: 2019-12-12T08:55:12.831Z
 intro: 'V Bratislave, Modrý salón, 13. 12. 2019.'
-featured_img: /img/img_7878.jpg
+featured_img: /img/img_7879.jpg
 ---
 Vážení divadelníci a divadelníčky, milí hostia a hosťky, poslucháči a poslucháčky Rádia Devín,\
 dovoľte aj mne privítať Vás na tomto večere, keď diskusie, ktoré sme doteraz viedli v odbornej komunite vstupujú i do verejného kultúrneho diskurzu. \
