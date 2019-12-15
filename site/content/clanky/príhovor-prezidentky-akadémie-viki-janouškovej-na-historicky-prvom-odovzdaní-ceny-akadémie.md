@@ -1,7 +1,5 @@
 ---
-title: >-
-  Príhovor prezidentky Akadémie Viki Janouškovej na historicky prvom odovzdaní
-  Ceny Akadémie
+title: Príhovor prezidentky Akadémie Viki Janouškovej na odovzdaní Ceny
 date: 2019-12-12T08:55:12.831Z
 intro: 'V Bratislave, Modrý salón, 13. 12. 2019.'
 featured_img: /img/img_7878.jpg
