@@ -1,18 +1,6 @@
 ---
 perex: >-
-  **_Príhovor Prezidentky Akadémie Viki Janouškovej_** \
-
-  **_na historicky 1. odovzdávaní Ceny Akadémie:_**
-
-
-  Vážení divadelníci a divadelníčky, milí hostia a hosťky, poslucháči a
-  poslucháčky Rádia Devín,
-
-  dovoľte aj mne privítať Vás na tomto večere, keď diskusie, ktoré sme doteraz
-  viedli v odbornej komunite vstupujú i do verejného kultúrneho diskurzu. 
-
-  Do môjho príhovoru by som mala vtesnať dosť veľa vecí – takže, ak dovolíte,
-  budem čítať.
+  O objekte Ceny z p_**ríhovoru Prezidentky Akadémie Viki Janouškovej:**_
 
 
   Na úvod mi dovoľte predstaviť objekt Ceny Akadémie a jej filozofiu:
@@ -46,7 +34,7 @@ perex: >-
   Toľko k objektu Ceny Akadémie, ktorá dnes čaká na svojho majiteľa.
 
 
-  _viac:_ 
+  _celý príhovor:_ 
 
 
   _Spoluorganizátorom Ceny Akadémie je Literárny fond._\
