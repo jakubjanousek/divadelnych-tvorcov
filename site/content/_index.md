@@ -1,9 +1,10 @@
 ---
 perex: >-
-  O objekte Ceny z p_**ríhovoru Prezidentky Akadémie Viki Janouškovej:**_
+  _**O objekte Ceny Akadémie z príhovoru Prezidentky Akadémie Viki
+  Janouškovej:**_
 
 
-  Na úvod mi dovoľte predstaviť objekt Ceny Akadémie a jej filozofiu:
+  "Na úvod mi dovoľte predstaviť objekt Ceny Akadémie a jej filozofiu:
 
   Hustota divadelníkov v publiku je dnes nezvyčajná, a preto nemusím
   zdôrazňovať, že fyzická tvorba nás divadelníkov zaniká v čase. - Zostáva len
@@ -31,7 +32,7 @@ perex: >-
   klapkách reflektoru a verím, že ním prekvapí  tvorcov ocenených na budúci
   rok... – 
 
-  Toľko k objektu Ceny Akadémie, ktorá dnes čaká na svojho majiteľa.
+  Toľko k objektu Ceny Akadémie, ktorá dnes čaká na svojho majiteľa."
 
 
   _celý príhovor:_
