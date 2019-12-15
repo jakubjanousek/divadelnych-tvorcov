@@ -6,7 +6,7 @@ date: 2019-12-13T21:33:12.317Z
 intro: >-
   Prvý ročník projektu Ceny Akadémie za divadelnú inscenáciu sezóny 2018/2019
   dospel k svojmu vrcholu.
-featured_img: /img/adt-logo-black.png
+featured_img: /img/img_8276.jpg
 ---
 Komisia 2. kola, v zložení teatrológovia Ida Hledíková, Géza Hizsnyan, skladateľ a hudobník Martin Husovský, režisér Juraj Nvota, dramatik a dramaturg Peter Pavlac, zo vzorky 14 nominovaných inscenácií z profesionálnych divadiel z celého Slovenska vybrala víťaza a odporučila Akadémii divadelných tvorcov udeliť
 
