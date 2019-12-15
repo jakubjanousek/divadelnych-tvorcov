@@ -4,7 +4,7 @@ date: 2019-12-13T10:50:42.565Z
 intro: >-
   Krátka úvaha člena vrcholovej komisie nad štrnástimi inscenáciami 
   nominovanými na Cenu Akadémie.
-featured_img: /img/adt-logo-black.png
+featured_img: /img/img_8156.jpg
 ---
 Vychádzam z dvoch predpokladov:
 
