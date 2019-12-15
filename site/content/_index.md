@@ -1,6 +1,6 @@
 ---
 perex: >-
-  O objekte Ceny z p_**ríhovoru Prezidentky Akadémie Viki Janouškovej:**_
+  O objekte Ceny z p**_ríhovoru Prezidentky Akadémie Viki Janouškovej:_**
 
 
   Na úvod mi dovoľte predstaviť objekt Ceny Akadémie a jej filozofiu:
@@ -34,7 +34,8 @@ perex: >-
   Toľko k objektu Ceny Akadémie, ktorá dnes čaká na svojho majiteľa.
 
 
-  _celý príhovor:_ 
+  _celý príhovor:_
+  https://www.adt-theatre.sk/admin/#/collections/clanky/entries/pr%C3%ADhovor-prezidentky-akad%C3%A9mie-viki-janou%C5%A1kovej-na-historicky-prvom-odovzdan%C3%AD-ceny-akad%C3%A9mie
 
 
   _Spoluorganizátorom Ceny Akadémie je Literárny fond._\
