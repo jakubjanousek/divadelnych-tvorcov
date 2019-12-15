@@ -10,9 +10,11 @@ intro: >-
 ---
 Komisia 2. kola zo vzorky 14 nominovaných inscenácií vybrala víťaza a odporučila Akadémii divadelných tvorcov udeliť
 
-__Cenu Akadémie za divadelnú inscenáciu sezóny 2018/19__ \
-__dielu Ruske denníky z Činohry SND v réžii Romana Poláka__
+**Cenu Akadémie za divadelnú inscenáciu sezóny 2018/19
+dielu Ruske denníky z Činohry SND v réžii Romana Poláka**
 
-__za eticky silnú výpoveď postavenú na výnimočne presvedčivých hereckých výkonoch.__
+_**za eticky silnú výpoveď postavenú na výnimočne presvedčivých hereckých výkonoch.**_
 
-Celú tlačovú správu si môžete prečítať tu: [https://www.adt-theatre.sk/clanky/pozname-prveho-drzitela-ceny-akademie-za-divadelnu-inscenaciu-sezony-2018-2019-1/](https://www.adt-theatre.sk/clanky/pozname-prveho-drzitela-ceny-akademie-za-divadelnu-inscenaciu-sezony-2018-2019-1/)
+Porota oceňuje autentickosť diela v jeho inscenačnej komplexnosti, vynikajúce autorsko-dramaturgické, réžijné, a herecké stvárnenie, ktoré zdôrazňuje morálny apel a upozorňuje na krehkosť demokracie.
+
+Celú tlačovú správu si môžete prečítať tu: <https://www.adt-theatre.sk/clanky/pozname-prveho-drzitela-ceny-akademie-za-divadelnu-inscenaciu-sezony-2018-2019-1/>
