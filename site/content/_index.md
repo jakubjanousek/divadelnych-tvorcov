@@ -1,48 +1,20 @@
 ---
 perex: >-
-  _**O objekte Ceny Akadémie z príhovoru Prezidentky Akadémie Viki
-  Janouškovej:**_
+  # DEADLINE NA PREJAVENIE ZÁUJMU O ÚČASŤ V CENE AKADÉMIE 2019/20
 
 
-  "Na úvod mi dovoľte predstaviť objekt Ceny Akadémie a jej filozofiu:
-
-  Hustota divadelníkov v publiku je dnes nezvyčajná, a preto nemusím
-  zdôrazňovať, že fyzická tvorba nás divadelníkov zaniká v čase. - Zostáva len
-  ako odtlačok na duši našich divákov a nás tvorcov... 
-
-  No nie všetko sa rozpustí v duši, či čase – zostávajú torzá, artefakty, scény,
-  rekvizity... ale bez herca a javiska strácajú svoj pôvodný význam. 
-
-  Preto, keď sme rozmýšľali o objekte Ceny, premýšľali sme, ako ich oživiť a dať
-  im možno iný význam, v rámci filozofie zmnoženia významov, či odpustite termín
-  recyklácie, prišli sme k tomu, že podoba Ceny bude vznikať po každé nová a
-  pripraví ju minuloročný víťaz. Z tohto  pohľadu sme riešili, čo s 1. ročníkom
-  a padol mi zrak na drôtený gramofónik od scénografa  Aleša Votavu, ktorý mi ho
-  daroval na pamiatku jednej našej spoločnej premiéry. A ja som sa rozhodla
-  povýšiť túto súkromnú pamiatku na Aleša na spomienku aj na tento historicky
-  prvý večer odovzdávania Ceny Akadémie. 
-
-  No táto spomienka potrebovala ešte ruku výtvarníka, aby sa stala Cenou. A toho
-  sa ujal mladý scénograf Jakub Branický z Divadla TICHO a spol., môjho
-  predchádzajúceho pôsobiska. Ďakujem, Jakub. Jakub použil k vytvoreniu Ceny
-  klapky reflektora a spolu s pamiatkou na Aleša Votavu vytvoril tohtoročnú Cenu
-  Akadémie, i pôdorys Cien budúcich.\
-
-  Tohtoročný víťaz pripraví svojim nástupcom rekvizitu, predmet, adjustovaný na
-  klapkách reflektoru a verím, že ním prekvapí  tvorcov ocenených na budúci
-  rok... – 
-
-  Toľko k objektu Ceny Akadémie, ktorá dnes čaká na svojho majiteľa."
+  Kolegovia, neváhajte, stačí dať vedieť na našu mailovú adresu!
 
 
-  _celý príhovor:_
-  https://www.adt-theatre.sk/clanky/prihovor-prezidentky-akademie-viki-janouskovej-na-historicky-prvom-odovzdani-ceny-akademie/
+  Dňa 15. 1. 2020 je posledný deň, kedy nám môžete nahlásiť záujem zúčastniť sa
+  na 2. ročníku Ceny Akadémie za najlepšiu inscenáciu sezóny 2019/20. Ide len o
+  počet divadiel, s ktorými máme rátať. Na nahlásenie konkrétnej inscenácie je
+  čas do konca februára… Neváhajte, kolegovia, systém funguje tak, že treba
+  nahlásiť záujem, nič sa nestane, ak potom inscenáciu nenahlásite. Opačne to
+  nejde… :)
 
 
-  _Spoluorganizátorom Ceny Akadémie je Literárny fond._\
-
-  _Projekt Ceny Akadémie z verejných zdrojov podporil Fond na podporu umenia,
-  hlavný mediálny partner Rádio Devín._
+  Napíšte nám mail na adresu: akademia@adt-theatre.sk.
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
