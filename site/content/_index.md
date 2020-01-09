@@ -1,5 +1,9 @@
 ---
 perex: >-
+  Vážení kolegovia, POZOR - blíži sa 15. 1. 2020, kedy je deadline na
+  prihlásenie sa divadiel do 2. ročníka Ceny Akadémie. Stačí napísať, že máte
+  záujem sa zúčastniť, čiže deklarovať svoj záujem. - Po tomto termíne sa už
+  nebude dať prihlásiť do Ceny Akadémie 2019/20! - Ďakujeme za pochopenie. 
 
 
   *Spoluorganizátorom Ceny Akadémie je Literárny fond.*\
