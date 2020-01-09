@@ -14,7 +14,7 @@ perex: >-
   nejde… :)
 
 
-  Napíšte nám mail na adresu: akademia@adt-theatre.sk.
+  Napíšte nám mail na adresu: akademia@adt-theatre.sk
 
 
   *Spoluorganizátorom Ceny Akadémie je Literárny fond.*\
