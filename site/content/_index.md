@@ -1,6 +1,6 @@
 ---
 perex: >-
-  # DEADLINE NA PREJAVENIE ZÁUJMU O ÚČASŤ V CENE AKADÉMIE 2019/20
+  ## DEADLINE NA PREJAVENIE ZÁUJMU O ÚČASŤ V CENE AKADÉMIE 2019/20
 
 
   Kolegovia, neváhajte, stačí dať vedieť na našu mailovú adresu!
