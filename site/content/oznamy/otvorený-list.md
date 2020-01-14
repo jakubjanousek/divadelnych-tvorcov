@@ -17,11 +17,11 @@ Prosíme Vás o čo najrýchlejšie vyjadrenie a ďakujeme vopred za pochopenie 
 
 *Prezidium Akademie*
 
-*MgA. Viki Janoušková, 
-MgA. Marek Godovič, PhD.,
-PhDr. Elena Knopová, PhD.,
-prof. Vladimír Štefko, CSc.,
-prof. Roman Polák,
-Mgr. Táňa Masníková,
-Mgr. art. Monika Kováčová,
+*MgA. Viki Janoušková; 
+MgA. Marek Godovič, PhD.;
+PhDr. Elena Knopová, PhD.;
+prof. Vladimír Štefko, CSc.;
+prof. Roman Polák;
+Mgr. Táňa Masníková;
+Mgr. art. Monika Kováčová;
 Mgr. art. Ľubomír Bukový, ArtD.*
