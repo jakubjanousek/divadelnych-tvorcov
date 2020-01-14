@@ -7,9 +7,9 @@ intro: >-
 ---
 Fond na podporu umenia cez vyjadrenie svojej komisie vníma Cenu ako projekt úzkej skupiny ľudí a necíti jeho širší potenciál, užitočný pre cele divadelníctvo na Slovensku, vrátane jeho reflexie.
 
-Z tohto dôvodu Vás chceme požiadať o podporenie nášho listu Vaším podpisom pod list vo forme meno, divadlo, adresa, funkcia v divadle, resp. povolanie; príp. aj krátkym vyjadrením alebo na: **https://www.peticie.com/vyjadrenie_podpory_cene_akademie_divadelnych_tvorcov?u=4184986&uv=19719160.**
+Z tohto dôvodu Vás chceme požiadať o podporenie nášho listu na maily akademia@adt-theatre.sk vo forme meno, divadlo, adresa, funkcia v divadle, resp. povolanie; príp. aj krátkym vyjadrením. Alebo na stránke: **https://www.peticie.com/vyjadrenie_podpory_cene_akademie_divadelnych_tvorcov?u=4184986&uv=19719160.**
 
-Veľmi by sme ocenili  keby ste mohli rozoslať link aj ďalším kolegom/ kolegyniam.
+Veľmi by sme ocenili  keby ste mohli rozoslať link stránky aj ďalším kolegom/ kolegyniam.
 
 Toto vyjadrenie chceme poslať následne Rade FPU, aby zvážila, ako nastaviť štruktúru Fondu tak, aby projekty celoslovenského významu nemohli byt odsunuté na vedľajšiu koľaj bez opodstatneného zdôvodnenia.
 
