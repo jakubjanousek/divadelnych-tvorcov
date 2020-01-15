@@ -1,15 +1,14 @@
 ---
 title: Štatút Ceny Akadémie za divadelnú inscenáciu sezóny
 ---
-
 ### Článok 1
 
 ## Všeobecné ustanovenia
 
-1. Vyhlasovateľom a organizátorom „Ceny Akadémie za divadelnú inscenáciu sezóny“ je Občianske združenie Akadémia divadelných tvorcov _(ďalej len „Akadémia“)_ v spolupráci s Literárnym fondom, ktorý sa podieľa na odmenách tuzemských hodnotiteľov prvého aj druhého kola Ceny Akadémie.
+1. Vyhlasovateľom a organizátorom „Ceny Akadémie za divadelnú inscenáciu sezóny“ je Občianske združenie Akadémia divadelných tvorcov *(ďalej len „Akadémia“)* v spolupráci s Literárnym fondom, ktorý sa podieľa na odmenách tuzemských hodnotiteľov prvého aj druhého kola Ceny Akadémie.
 2. Výklad Štatútu, zmeny či úpravy Štatútu schvaľuje Prezídium, resp. Štatutárna komisia, ktorá je zložená z členov Prezídia Akadémie (viď Stanovy združenia čl. 13 ods. 4).
-3. Cena Akadémie za divadelnú inscenáciu sezóny _(ďalej len „Cena“)_ sa udeľuje raz ročne (v decembri) a to inscenácii, ktorá vznikla a bola uvedená v predchádzajúcej divadelnej sezóne, na základe hlasovania členov nezávislej jury. \
-   Presný termín ich udeľovania určí Prezídium Akadémie _(ďalej len „Prezídium“)_.
+3. Cena Akadémie za divadelnú inscenáciu sezóny *(ďalej len „Cena“)* sa udeľuje raz ročne (v decembri) a to inscenácii, ktorá vznikla a bola uvedená v predchádzajúcej divadelnej sezóne, na základe hlasovania členov nezávislej jury. \
+   Presný termín ich udeľovania určí Prezídium Akadémie *(ďalej len „Prezídium“)*.
 4. V prvých dvoch ročníkoch sa bude Cena udeľovať v **kategórii činoherné inscenácie/inscenácie blízke činohre** a v nasledujúcich sezónach aj v ďalších kategóriách, tak ako určí Akadémia.
 5. Cenu predstavuje diplom/plaketa s uvedením názvu inscenácie.
 6. Ceny nie sú sprevádzané finančnou odmenou.
@@ -28,9 +27,10 @@ title: Štatút Ceny Akadémie za divadelnú inscenáciu sezóny
 
 ## Prihlasovanie, nominácie a výber ocenenej inscenácie
 
-1. Na ocenenie môžu byť jednotlivé inscenácie prihlásené štatutárnym zástupcom príslušného profesionálneho divadla alebo ktorýmkoľvek z tvorcov. Každé profesionálne divadlo (zriaďované i nezriaďované) má právo navrhnúť jednu inscenáciu, ktorá má premiéru v danej sezóne, divadlá so 4 a viac premiérami realizovanými za danú sezónu, môžu navrhnúť maximálne 2 inscenácie, a to tak, že 1 navrhuje divadlo a 2. môže navrhnúť ktorýkoľvek tvorca inscenácie daného divadla. \
-   Divadlá, ktoré majú 4-6 premiér prihlasujú 2 inscenácie. Divadlá, ktoré majú 7-9 prihlasujú 3 inscenácie. Divadlá, ktoré majú 10 a viac, prihlasujú 4 inscenácie. \
-   V prípade viacerých návrhov z daného divadla ako je povolený počet vyzve Štatutárna komisia Akadémie divadlo a tvorcov na konsenzus v rámci divadla.
+1. Na ocenenie môžu byť jednotlivé inscenácie prihlásené štatutárnym zástupcom príslušného profesionálneho divadla alebo ktorýmkoľvek z tvorcov. Každé profesionálne divadlo (zriaďované i nezriaďované) má právo navrhnúť jednu inscenáciu, ktorá má premiéru v danej sezóne, divadlá so 4 a viac premiérami realizovanými za danú sezónu, môžu navrhnúť maximálne 2 inscenácie, a to tak, že 1 navrhuje divadlo a 2. môže navrhnúť ktorýkoľvek tvorca inscenácie daného divadla. 
+Divadlá, ktoré majú 4 - 6 premiér prihlasujú 2 inscenácie. Divadlá, ktoré majú 7 - 9 prihlasujú 3 inscenácie. Divadlá, ktoré majú 10 a viac, prihlasujú 4 inscenácie.
+V prípade viacerých návrhov z daného divadla ako je povolený počet vyzve Štatutárna komisia Akadémie divadlo a tvorcov na konsenzus v rámci divadla.
+
 2. K prihláseniu inscenácie musí dôjsť kompletným vyplnením prihlasovacieho formulára, uverejneného na webovom sídle Akadémie, a následným doručením vyplneného a podpísaného formulára vo vytlačenej forme prostredníctvom pošty alebo kuriérskej služby na korešpondenčnú adresu sídla Akadémie najneskôr do určeného dátumu. Pre určenie dátumu doručenia je rozhodujúca poštová pečiatka na obálke alebo písomné potvrdenie kuriéra.
 3. Z celkového počtu prihlásených inscenácií Štatutárna komisia Akadémie vylúči tie, ktoré nezodpovedajú základným podmienkam účasti podľa tohto Štatútu. Takúto prihlášku vyradí a následne o tom upovedomí subjekt, od ktorého prihlášku dostala. V prípade, že sa subjekt v lehote do 15 dní proti takémuto postupu písomne odvolá a vo svojej žiadosti uvedie závažné dôvody, kvôli ktorým má byť príslušná inscenácia vrátená do súťaže, Prezídium Akadémie celú vec ešte raz dôkladne preskúma. O svojom konečnom rozhodnutí Prezídium Akadémie potom predmetný subjekt opäť vyrozumie. Proti tomuto rozhodnutiu sa už nie je možné odvolať. Následne Štatutárna komisia Akadémie vypracuje zoznam prihlásených inscenácií.
 4. Podľa počtu divadiel v jednotlivých krajoch SR rozdelí Štatutárna komisia Akadémie divadlá na jednotlivé okruhy/kraje (predbežne 5) tak, aby bolo v rámci jedného okruhu prihlásených max. 20 inscenácií. Z členov Akadémie ochotných zúčastniť sa výberu inscenácií zo svojho Okruhu vytvorí Akadémia 5 nominačných komisií, ktorým sprístupní zoznam prihlásených inscenácií.
@@ -76,12 +76,12 @@ title: Štatút Ceny Akadémie za divadelnú inscenáciu sezóny
 1. Tento Štatút je vyhotovený v 5 exemplároch a nadobúda platnosť dňom podpisu štatutára Akadémie divadelných tvorcov.
 2. Každú zmenu tohto Štatútu musí odsúhlasiť Prezídium Akadémie.
 
-_Štatút Ceny schválený Ustanovujúcim valným zhromaždením dňa 25. 9. 2018 a overený Prezídiom dňa 9. 10. 2018._
+*Štatút Ceny schválený Ustanovujúcim valným zhromaždením dňa 25. 9. 2018 a overený Prezídiom dňa 9. 10. 2018.*
 
 ### Príloha č. 1: Všeobecne záväzné termíny
 
-1. Do 31. novembra nahlási divadlo záujem zúčastniť sa súťaže (čl. 2, ods. 3).
-2. 3 týždne po premiére inscenácie dodá divadlo záväznú prihlášku a zabezpečí najmenej 3 reprízy, na ktorej sa môžu členovia nominačnej komisie zúčastniť, a to do konca júna, najneskôr do 15. júla (čl. 2, ods. 2).
-3. V prípade, že premiéra inscenácie bude v júni/júli, musí divadlo túto situáciu dopredu konzultovať s Akadémiou.
+1. Do 15. januára nahlási divadlo záujem zúčastniť sa súťaže (čl. 2, ods. 3).
+2. Do konca februára nahlásia divadlá inscenácie, ktoré mali už premiéru .
+3. Do konca apríla nahlási divadlo inscenácie, ktoré mali premiéru v marci a apríli. Premiéry v júni/júli, musí divadlo dopredu konzultovať s Akadémiou. Všetky inscenácie musia byť prihlásené záväznou prihláškou a na všetky inscenácie zabezpečí divadlo najmenej 3 reprízy, na ktorej sa môžu členovia nominačnej komisie zúčastniť, a to do konca júna, najneskôr do 15. júla (čl. 2, ods. 2)
 4. Nominačná komisia musí rozhodnúť o inscenáciách postupujúcich do 2. kola do konca júna (podľa poslednej premiéry, najneskôr však do 16. júla) (čl. 3, ods.6).
-5. V Vrcholová komisia rozhodne po dohovore s Akadémiou tak, aby Cena mohla byť odovzdaná do 20. decembra ďalšej sezóny.
+5. Vrcholová komisia rozhodne po dohovore s Akadémiou tak, aby Cena mohla byť odovzdaná do 20. decembra ďalšej sezóny.
