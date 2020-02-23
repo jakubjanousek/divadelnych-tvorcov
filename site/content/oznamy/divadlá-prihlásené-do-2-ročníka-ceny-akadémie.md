@@ -13,7 +13,7 @@ Divadlo Prvý plán
 
 Hlava98
 
-KADU*
+per. ART
 
 Malá scéna STU
 
@@ -27,9 +27,9 @@ ATEMI
 
 Divadlo NUDE
 
-Mestské divadlo P.  O. Hviezdoslava
+KADU*
 
-per. ART
+Mestské divadlo P.  O. Hviezdoslava
 
 Príchod Godota
 
