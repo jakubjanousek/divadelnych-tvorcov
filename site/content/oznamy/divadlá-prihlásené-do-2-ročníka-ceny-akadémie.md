@@ -7,12 +7,13 @@ intro: >-
 ---
 **V okruhu Bratislava 1:**
 
-Divadlo Aréna Divadlo Astorka Korzo 90´ \
+Divadlo Aréna \
+Divadlo Astorka Korzo 90´ \
 Divadlo Prvý plán\
 Hlava98\
 per. ART\
 Malá scéna STU\
-Ticho a spol
+Divadlo Ticho a spol.
 
 **V okruhu Bratislava 2:**
 
@@ -21,35 +22,35 @@ Divadlo NUDE\
 KADU*\
 Mestské divadlo P.  O. Hviezdoslava\
 Príchod Godota\
-Činohra Slovenského národného divadla
+Činohra SND
 
 **V okruhu Západ:**
 
-Divadlo Andreja Bagara \
-Divadlo Jána Palárika\
-Divadlo Pôtoň\
-Jókaiho divadlo Komárno\
-Nové divadlo Nitra
+Divadlo Andreja Bagara, Nitra \
+Divadlo Jána Palárika, Trnava\
+Divadlo Pôtoň, Bátovce\
+Jókaiho divadlo, Komárno\
+Nové divadlo, Nitra
 
 **V okruhu Stred:**
 
 Bábkové divadlo Žilina  \
-Divadlo z pasáže Banská Bystrica\
-Divadlo Jozefa Gregora Tajovského\
-OZ Vlnoplocha\
+Divadlo z Pasáže, Banská Bystrica\
+Divadlo Jozefa Gregora Tajovského, Zvolen\
+OZ Vlnoplocha, Banská Štiavnica\
 KADU*\
-Mestské divadlo Actores Rožňava\
-Slovenské komorné divadlo Martin\
-Spišské divadlo
+Mestské divadlo Actores, Rožňava\
+Slovenské komorné divadlo, Martin\
+Spišské divadlo, Spišská Nová Ves
 
 **V okruhu Východ:**
 
-Divadlo Alexandra Duchnoviča Prešov \
-Divadlo Kontra\
-Divadlo Na peróne\
-Divadlo Thália \
-Divadlo Jonáša Záborského\
-Prešovské národné divadlo\
+Divadlo Alexandra Duchnoviča, Prešov \
+Divadlo Kontra, Spišská Nová Ves\
+Divadlo Na peróne, Košice\
+Divadlo Thália, Košice\
+Divadlo Jonáša Záborského, Prešov\
+Prešovské národné divadlo, Prešov\
 Scéna Jorik Bábkového divadla v Košiciach\
 Štátne divadlo Košice
 
