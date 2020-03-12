@@ -19,12 +19,8 @@ perex: >-
 
 
   Napriek tomu, že FPU nepodporilo projekt Ceny dostatočne, nerezignovali sme,
-  pokračujeme v komunikácii s divadlami a máme v 2. ročníku Ceny prihlásených 34
-  divadiel, čo je viac, ako minulý rok... Na deň 21. 2. resp. 22.2. pripravujeme
-  stretnutie komisií. Do tohto dátumu musíme vedieť, či vieme spustiť 1. kolo,
-  veríme, že aspoň toto sa podarí. - Na tento deň zároveň zvolávame Valné
-  zhromaždenie členov, s ktorými chceme prediskutovať ďalší postup a aktivity. -
-  Kolegovia, aj nečlenovia, ste vítaní!
+  pokračujeme v komunikácii s divadlami a máme v 2. ročníku Ceny prihlásených 33
+  divadiel, čo je viac, ako minulý rok... 
 
 
   No a v neposlednom rade sa tešíme, a ďakujeme SND, že pozvala 14-ku
@@ -42,4 +38,3 @@ footer: |-
   Spoluorganizátorom Ceny Akadémie je Literárny fond.\
   Projekt Ceny Akadémie z verejných zdrojov podporil Fond na podporu umenia.
 ---
-
