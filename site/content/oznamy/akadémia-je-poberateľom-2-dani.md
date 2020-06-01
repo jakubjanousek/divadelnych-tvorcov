@@ -8,4 +8,4 @@ Tu nájdete naše dáta:
 
 https://www.notar.sk/…/Poberatelia2zdane%E2%80%93vyh%C4%BEa…
 
-Ďakujem a držtme si palce!
+Držme si palce!
