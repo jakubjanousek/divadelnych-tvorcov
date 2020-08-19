@@ -1,20 +1,22 @@
 ---
 perex: >-
-  Cena Akadémie je dočasne pozastavená, o ďalšom postupe rozhodne Akadémia podľa
-  situácie v súvislosti corona vírusom.
+  **Cena Akadémie divadelných tvorcov** za sezónu 2019/2020 **je spustená** v
+  čiastkovom variante:
 
 
-  Držme si palce, nech to všetci v zdraví prežijeme, držme palce nezávislým
-  divadlám a ich členom. Spojili sme sa s iniciatívou Stojíme pri kultúre a
-  pokúšame sa zozbierať aktuálne informácie, ako ich situácia zasiahla.
+  * samotná Cena (v zmysle víťaznej inscenácie) udelená nebude;
+
+  * uskutoční sa iba 1. kolo, v ktorom komisie vyberú v každom okruhu 2-3 inscenácie, ktoré budú mať nárok na označenie „Inscenácia nominovaná na Cenu Akadémie divadelných tvorcov za sezónu 2019/2020“
+
+  * hodnotenie bude prebiehať v mesiacoch **september a okóber 2020** (v špecifických prípadoch, napr. site specific inscenácii alebo netradičnej letnej prevádzky je možné po individuálnej dohode aj skoršie hodnotenie, za predpokladu, že sa nám podarí zabezpečiť členov komisií)
+
+  * vyhlásenie výsledkov nominácií a písomný odborný výstup bude v polovici **novembra 2020**
 
 
-  Ďalšie informácie sledujete na našom facebooku:
-  <https://www.facebook.com/adt.theatre/>.
+  Ďalšie informácie sledujete na našom facebooku: <https://www.facebook.com/adt.theatre/>.
 
 
-  Kolegovia, priatelia, jedno je isté: počas i po skončení budeme zomknutejší
-  :)\
+  Kolegovia, priatelia, jedno je isté: počas i po skončení budeme zomknutejší :)\
 
   Držte sa!
 footer: |-
