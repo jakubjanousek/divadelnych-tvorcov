@@ -277,4 +277,4 @@ Akadémia divadelných tvorcov (ďalej len „Akadémia“) je dobrovoľná, zá
 \
 Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 25. 9. 2018 a overené Prezídiom Akadémie 9.10.2018.
 
-Zmeny Stanov boli schválené Valným zhromaždením Akadémie v Bratislave dňa 19. 9. 2020,
+Zmeny Stanov boli schválené Valným zhromaždením Akadémie v Bratislave dňa 19. 9. 2020.
