@@ -92,11 +92,11 @@ Akadémia divadelných tvorcov (ďalej len „Akadémia“) je dobrovoľná, zá
 6. v prípade záujmu minimálne 10 členov majú členovia právo vytvoriť záujmový klub Akadémie, ktorý si spomedzi seba zvolí predsedu klubu. Predseda koordinuje činnosť klubu a je povinný vznik klubu okamžite oznámiť Prezídiu Akadémie.
 7. Klub môže vyvíjať činnosť len po odsúhlasení vzniku klubu Prezídiom Akadémie. Vo svojich prejavoch navonok je klub viazaný rozhodnutiami Prezídia Akadémie a mandátom, vymedzeným Prezídiom Akadémie.
 8. V prípade, že Klub a jeho činnosť sa rozrastie do miery, ktorú stanovy Akadémie
-neumožňujú (napríklad môže ísť o potrebu kolektívneho členstva, poprípade vlastnú
-právnu subjektivitu a i.), môže podať Klub návrh na prezídium na zmenu vzťahu k
-materskej organizácii Akadémie. V tom prípade tento vzťah upraví osobitný dodatok
-ku stanovám Akadémie. O znení dodatku rokuje Prezídium, schvaľuje ho Valné
-zhromaždenie.
+   neumožňujú (napríklad môže ísť o potrebu kolektívneho členstva, poprípade vlastnú
+   právnu subjektivitu a i.), môže podať Klub návrh na prezídium na zmenu vzťahu k
+   materskej organizácii Akadémie. V tom prípade tento vzťah upraví osobitný dodatok
+   ku stanovám Akadémie. O znení dodatku rokuje Prezídium, schvaľuje ho Valné
+   zhromaždenie.
 9. Člen Akadémie môže požiadať o udelenie čestného členstva v prípade, že vykonáva spoločenské aktivity nezlučujúce sa so stanovami Akadémie a v prípade splnenia podmienok článku 9 odseku 4.
 
 ### Článok 9
@@ -126,11 +126,12 @@ zhromaždenie.
 ## Orgány, funkcionári a štruktúra združenia
 
 1. Orgánmi Akadémie sú:\
-   - Valné zhromaždenie, najvyšší orgán\
-   - Prezídium, výkonný orgán (ďalej aj ako „Prezídium“)\
-   - Prezident, štatutárny zástupca (ďalej aj ako „Prezident“)\
-   - Viceprezident/ti,\
-   - Revízna komisia.
+
+   * Valné zhromaždenie, najvyšší orgán\
+   * Prezídium, výkonný orgán (ďalej aj ako „Prezídium“)\
+   * Prezident, štatutárny zástupca (ďalej aj ako „Prezident“)\
+   * Viceprezident/ti,\
+   * Revízna komisia.
 2. Súčasťou štruktúry Akadémie sú záujmové kluby členov Akadémie (článok 8, body 5., 6. a 7.).
 3. Administráciu a organizačno-technické zabezpečenie činnosti Akadémie vykonáva Kancelária Akadémie. Činnosť Kancelárie Akadémie riadi Prezídium Akadémie.
 4. Funkčné obdobie volených orgánov Akadémie je dvojročné, pokiaľ voliaci orgán nerozhodne inak.
@@ -192,9 +193,10 @@ zhromaždenie.
 10. Činnosť Prezídia riadi Prezident. Na riadení Prezídia (a Akadémie) sa podieľajú Viceprezidenti, a to na princípe kompetenčnej deľby nasledovne:\
     a) Prezident riadi činnosť Prezídia a zvoláva a vedie jeho zasadnutia. Prezident môže svojim zastupovaním poveriť niektorého Viceprezidenta,\
     b) Prezídium pridelí Prezidentovi a Viceprezidentom do kompetencie niektorú z nasledovných oblastí, v ktorých budú konať samostatne:\
-    - oblasť chodu Akadémie a jej prezentácie,\
-    - oblasť Ceny a Prehliadky,\
-    - oblasť odbornej reflexie, klubov, edičnej činnosti a medzinárodnej komunikácie.
+
+    * oblasť chodu Akadémie a jej prezentácie,\
+    * oblasť Ceny a Prehliadky,\
+    * oblasť odbornej reflexie, klubov, edičnej činnosti a medzinárodnej komunikácie.
 11. Za svoje konanie v danej oblasti sa Prezident a Viceprezidenti zodpovedajú Prezídiu a Valnému zhromaždeniu Akadémie.
 12. Prezídium sa schádza minimálne 1 krát za štvrť roka. Prezídium je uznášania schopné, ak je prítomná nadpolovičná väčšina jeho členov.
 13. Prezídium rozhoduje nadpolovičnou väčšinou hlasov svojich členov, s výnimkou prípadov, upravených v článku 10, odseku 6. V prípade rovnosti hlasov rozhoduje hlas Prezidenta a ak nie je prezident prítomný, hlas povereného Viceprezidenta.
@@ -237,13 +239,14 @@ zhromaždenie.
 
 1. Akadémia je oprávnená nadobúdať hnuteľný a nehnuteľný majetok a hospodáriť s ním.\
    Zdrojmi majetku sú najmä:\
-   - členské príspevky,\
-   - dary od fyzických a právnických osôb,\
-   - dotácie a granty od štátnych, samosprávnych a verejnoprávnych orgánov a organizácií,\
-   - dotácie a granty od ďalších právnických osôb z tuzemska i zahraničia,\
-   - príjmy z činnosti pri napĺňaní cieľov združenia,\
-   - príjmy z reklamnej a propagačnej činnosti,\
-   - prijmi zo sprostredkovateľskej činnosti.
+
+   * členské príspevky,\
+   * dary od fyzických a právnických osôb,\
+   * dotácie a granty od štátnych, samosprávnych a verejnoprávnych orgánov a organizácií,\
+   * dotácie a granty od ďalších právnických osôb z tuzemska i zahraničia,\
+   * príjmy z činnosti pri napĺňaní cieľov združenia,\
+   * príjmy z reklamnej a propagačnej činnosti,\
+   * prijmi zo sprostredkovateľskej činnosti.
 2. Hospodárenie sa uskutočňuje podľa ročného rozpočtu, schváleného Valným zhromaždením Akadémie. Za hospodárenie zodpovedá Prezídium. V prípade, že hospodárenie vykáže schodok, je Prezídium povinné bezodkladne zvolať Valné zhromaždenie Akadémie.
 3. Kontrolu hospodárenia Akadémie vykonáva Revízna komisia.
 4. Všetky získané finančné prostriedky, ako aj hmotné a nehmotné aktíva sú majetkom združenia ako celku.
@@ -273,3 +276,5 @@ zhromaždenie.
 \
 \
 Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 25. 9. 2018 a overené Prezídiom Akadémie 9.10.2018.
+
+Zmeny Stanov boli schválené Valným zhromaždením Akadémie v Bratislave dňa 19. 9. 2020,
