@@ -10,19 +10,20 @@ perex: >-
 
   Chcem vám povedať, že úplne zbytočné to nebolo, aj keď to, čo poviem, sa môže zdať ako slabá náplasť na individuálnu situáciu niektorých našich kolegov, pociťujem potrebu to vysloviť:\
 
-  - Cítim v spoločnosti omnoho väčšiu podporu verejnosti, ako to bolo v marci.\
 
-  - Vieme o sebe navzájom omnoho viac, ako to bolo v marci.\
+  * Cítim v spoločnosti omnoho väčšiu podporu verejnosti, ako to bolo v marci.\
 
-  - Máme vytvorené adresáre a komunikačné kanály, ktoré v marci neboli.\
+  * Vieme o sebe navzájom omnoho viac, ako to bolo v marci.\
 
-  - Zriaďovaná a nezriaďovaná kultúra vie navzájom o niečo viac o svojich problémoch a nezávislí sú vďační za podporu a spolupatričnosť zo strany kolegov zo zriaďovaných divadiel. Pred marcom sme nemohli v niečo takéto ani dúfať...\
+  * Máme vytvorené adresáre a komunikačné kanály, ktoré v marci neboli.\
 
-  - MK SR konečne povedalo, ktoré dáta potrebuje k sanácii nezávislej kultúry a kreatívneho priemyslu a začalo zber týchto dát - bezpodmienečne všetci vyplňme, prosím: [http://www.culture.gov.sk/aktuality-ministerstva-kultury-36…](http://www.culture.gov.sk/aktuality-ministerstva-kultury-36.html?id=2293&fbclid=IwAR0kzapvkZ8t-SrMQvfRRJP-MIdRpz1TdxEp_baLpm1fInAOYxWpYDRaWsU))\
+  * Zriaďovaná a nezriaďovaná kultúra vie navzájom o niečo viac o svojich problémoch a nezávislí sú vďační za podporu a spolupatričnosť zo strany kolegov zo zriaďovaných divadiel. Pred marcom sme nemohli v niečo takéto ani dúfať...\
 
-  - na webe FPU sa v najbližších dňoch obnoví prihlasovanie do štatútu profesionálneho umelca (platí pre všetkých umelcov - zamestnaných aj SZČO), FPU deklarovalo, že vynechá poplatok a urýchli dobu spracovania - poprosíme Vás, prihlasujte sa: [https://fpu.sk/…/art…/98/Instrukcie_profesionalny_umelec.pdf](https://fpu.sk/attachments/article/98/Instrukcie_profesionalny_umelec.pdf?fbclid=IwAR1Oqiwi28f1p3eD1zZ2-JLCYCvQ6QY817TVf6By_aRLv9iM28-1E6jxB8k)\
+  * MK SR konečne povedalo, ktoré dáta potrebuje k sanácii nezávislej kultúry a kreatívneho priemyslu a začalo zber týchto dát - bezpodmienečne všetci vyplňme, prosím: [http://www.culture.gov.sk/aktuality-ministerstva-kultury-36…](http://www.culture.gov.sk/aktuality-ministerstva-kultury-36.html?id=2293&fbclid=IwAR0kzapvkZ8t-SrMQvfRRJP-MIdRpz1TdxEp_baLpm1fInAOYxWpYDRaWsU))\
 
-  - samosprávy nezrušili dotácie na nulu a avizujú potrebu dialógu - viď BSK
+  * na webe FPU sa v najbližších dňoch obnoví prihlasovanie do štatútu profesionálneho umelca (platí pre všetkých umelcov - zamestnaných aj SZČO), FPU deklarovalo, že vynechá poplatok a urýchli dobu spracovania - poprosíme Vás, prihlasujte sa: [https://fpu.sk/…/art…/98/Instrukcie_profesionalny_umelec.pdf](https://fpu.sk/attachments/article/98/Instrukcie_profesionalny_umelec.pdf?fbclid=IwAR1Oqiwi28f1p3eD1zZ2-JLCYCvQ6QY817TVf6By_aRLv9iM28-1E6jxB8k)\
+
+  * samosprávy nezrušili dotácie na nulu a avizujú potrebu dialógu - viď BSK
 
 
   Toto všetko , ale i mnohé iné bolo a je treba. aby sa už konečne mohol začať odborný dialóg...!\
@@ -46,40 +47,29 @@ perex: >-
 
   Kontakty z našej, divadelnej oblasti:\
 
+
   1. Ministerstvo kultúry Slovenskej republiky - v úzkom tíme MK SR sú popri zástupcoch ministerstva aj títo reprezentanti kultúrneho a kreatívneho priemyslu:\
+     Pavol Smolka – manažér a zástupca Slovenskej hudobnej únie\
+     Zuzana Mistríková – prezidentka Asociácie nezávislých producentov, členka Fóra kreatívneho priemyslu\
+     Bohunka Koklesová – rektorka Vysokej školy výtvarných umení\
+     Nina Vidovencová – zástupkyňa Stojíme pri kultúre\
+     Michal Klembara – riaditeľ kultúrneho centra Malý Berlín\
+     Veronika Gabčíková – dramaturgička, Klub nezávislých divadiel pri Akadémii divadelných tvorcov na Slovensku
 
-  Pavol Smolka – manažér a zástupca Slovenskej hudobnej únie\
+     2. pre nezriaďované divadlá existuje uzatvorená FB skupina Nezávislé divadlá - hľadáme opatrenia (požiadajte o pridanie svojich fb priateľov), tu môžete klásť otázky aj Veronike Gabčíkovej, ktorá má od širšieho vedenia Klubu nezávislých divadiel Akadémie regulárny mandát na tlmočenie ich potrieb
 
-  Zuzana Mistríková – prezidentka Asociácie nezávislých producentov, členka Fóra kreatívneho priemyslu\
+     3. za zriaďované divadlá: Zuzana Hekel a Roman Polák - riaditelia divadiel sú s nimi v kontakte
 
-  Bohunka Koklesová – rektorka Vysokej školy výtvarných umení\
+     4. BSK: KU.BA. navrhla, aby nezriaďované kultúrne organizácie v regióne zastupovala v Rade partnerstva BSK Petra Fornayová
 
-  Nina Vidovencová – zástupkyňa Stojíme pri kultúre\
+     5. ak má niekto záujem o adresár nezávislých divadiel, podarilo sa ho zostaviť, pošleme. - Ak máte ďalšie dôležité kontakty, doplňte, prosím.
 
-  Michal Klembara – riaditeľ kultúrneho centra Malý Berlín\
-
-  Veronika Gabčíková – dramaturgička, Klub nezávislých divadiel pri Akadémii divadelných tvorcov na Slovensku
-
-
-  2. pre nezriaďované divadlá existuje uzatvorená FB skupina Nezávislé divadlá - hľadáme opatrenia (požiadajte o pridanie svojich fb priateľov), tu môžete klásť otázky aj Veronike Gabčíkovej, ktorá má od širšieho vedenia Klubu nezávislých divadiel Akadémie regulárny mandát na tlmočenie ich potrieb
-
-
-  3. za zriaďované divadlá: Zuzana Hekel a Roman Polák - riaditelia divadiel sú s nimi v kontakte
-
-
-  4. BSK: KU.BA. navrhla, aby nezriaďované kultúrne organizácie v regióne zastupovala v Rade partnerstva BSK Petra Fornayová
-
-
-  5. ak má niekto záujem o adresár nezávislých divadiel, podarilo sa ho zostaviť, pošleme. - Ak máte ďalšie dôležité kontakty, doplňte, prosím.
-
-
-  6. Najbližšia akcia: miesto fyzickej manifestácie "spolu za kultúru" bude 14. 10. online akcia a nadväzujúca diskusia - viď foto.
-
+     6. Najbližšia akcia: miesto fyzickej manifestácie "spolu za kultúru" bude 14. 10. online akcia a nadväzujúca diskusia - viď foto.
 
   Hľadanie komunikačných kanálov je teraz to najdôležitejšie, hejty len ešte viac zneprehľadňujú náš aj tak ešte neporozumením zadymený priestor.
 
 
-  Prepáčte, musela som ![](https://static.xx.fbcdn.net/images/emoji.php/v9/t4c/1/16/1f642.png):),\
+  Prepáčte, musela som :)\
 
   Viki Janoušková, prezidentka Akadémie divadelných tvorcov
 footer: |-
