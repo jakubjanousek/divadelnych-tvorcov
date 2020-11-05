@@ -3,7 +3,7 @@ title: DIVADLÁ PRIHLÁSENÉ DO 2. ROČNÍKA CENY AKADÉMIE (aktualizované)
 date: 2020-09-20T16:29:37.434Z
 intro: V sezóne 2019/2020 sa do upravenej podoby Ceny Akadémie divadelných
   tvorcov (odloženie a skrátenie projektu kvôli zákazu hromadných podujatí v
-  pôvodnom hodnotiacom období) prihlásilo 27 divadiel.
+  pôvodnom hodnotiacom období) prihlásilo 26 divadiel.
 ---
 **V okruhu Bratislava 1:**
 
@@ -40,7 +40,6 @@ Nové divadlo, Nitra
 Bábkové divadlo Žilina\
 Divadlo Jozefa Gregora Tajovského, Zvolen\
 OZ Vlnoplocha, Banská Štiavnica\
-Mestské divadlo Actores, Rožňava\
 Slovenské komorné divadlo, Martin\
 Spišské divadlo, Spišská Nová Ves
 
