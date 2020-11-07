@@ -13,17 +13,13 @@ V tom čase sme počítali s tým, že inscenácie prihlásené na Cenu budú 
 * Reflexie pandemickej doby a divadla očami komisie
 * Analyticko- štatistickú časť o dramaturgických zmenách, ktoré sa udiali v plánoch prihlásených divadiel
 
-
   Text zverejníme v priebehu decembra na našej webovej stránke a na Facebooku:
-
 
   https://www.facebook.com/adt.theatre/ .
 
 Veríme, že tento materiál môže zdokumentovať turbulentné časy, ktoré v našej krajine i v divadle
 zažívame, a budú východiskom i pre budúcnosť.
 
-
-
 Cenu Akadémie 2019/2020 podporil z verejných zdrojov Fond na podporu umenia. 
 
-Partnerom Cenu Akadémie 2019/2020 je Literárny fond.
+Partnerom Ceny Akadémie 2019/2020 je Literárny fond.
