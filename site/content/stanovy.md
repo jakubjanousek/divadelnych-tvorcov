@@ -33,10 +33,9 @@ Akadémia divadelných tvorcov (ďalej len „Akadémia“) je dobrovoľná, zá
 
 ## Prípravný výbor a vznik Akadémie
 
-1. Akadémia vzniká dňom registrácie na Ministerstve vnútra SR na základe žiadosti predloženej Prípravným výborom.
-2. Prípravný výbor Akadémie tvoria osoby, ktoré splnili podmienky členstva zakotvené v Stanovách Akadémie, zaregistrovali Akadémiu na Ministerstve vnútra SR a riadia činnosť Akadémie do Ustanovujúceho valného zhromaždenia.
-3. Zakladajúcimi členmi Akadémie sú osoby, ktoré spĺňajú podmienky členstva zakotvené v Stanovách Akadémie, vyjadria súhlas so Stanovami Akadémie a zúčastnia sa na Ustanovujúcom valnom zhromaždení.
-4. Zakladajúci členovia si na Ustanovujúcom valnom zhromaždení zvolia Prezídium Akadémie a Revíznu komisiu Akadémie, ktoré budú po dobu nasledujúcich 2 rokov (pokiaľ Valné zhromaždenie nerozhodne inak) platnými orgánmi združenia.
+1. Akadémia vznikla dňom registrácie na Ministerstve vnútra SR na základe žiadosti predloženej Prípravným výborom.
+2. Prípravný výbor Akadémie tvorili osoby, ktoré splnili podmienky členstva zakotvené v Stanovách Akadémie, zaregistrovali Akadémiu na Ministerstve vnútra SR a riadili činnosť Akadémie do Ustanovujúceho valného zhromaždenia.
+3. Zakladajúcimi členmi Akadémie boli osoby, ktoré spĺňali podmienky členstva zakotvené v Stanovách Akadémie, vyjadrili súhlas so Stanovami Akadémie a zúčastnili sa na Ustanovujúcom valnom zhromaždení.
 
 ### Článok 5
 
@@ -90,7 +89,7 @@ Akadémia divadelných tvorcov (ďalej len „Akadémia“) je dobrovoľná, zá
 4. obracať sa v súlade so Stanovami Akadémie na orgány Akadémie s podnetmi, návrhmi, žiadosťami, pripomienkami a sťažnosťami a požadovať vysvetlenie ich postupu či rozhodnutia,
 5. dať podnet na vytvorenie záujmového klubu Akadémie (ďalej aj ako „Klub“), či už profesijného alebo založeného ad hoc, na akúkoľvek aktuálnu tému súvisiacu s činnosťou Akadémie,
 6. v prípade záujmu minimálne 10 členov majú členovia právo vytvoriť záujmový klub Akadémie, ktorý si spomedzi seba zvolí predsedu klubu. Predseda koordinuje činnosť klubu a je povinný vznik klubu okamžite oznámiť Prezídiu Akadémie.
-7. Klub môže vyvíjať činnosť len po odsúhlasení vzniku klubu Prezídiom Akadémie. Vo svojich prejavoch navonok je klub viazaný rozhodnutiami Prezídia Akadémie a mandátom, vymedzeným Prezídiom Akadémie.
+7. Klub nemá právnu subjektivitu a môže vyvíjať činnosť len po odsúhlasení vzniku klubu Prezídiom Akadémie. Vo svojich prejavoch navonok je klub viazaný rozhodnutiami Prezídia Akadémie a mandátom, vymedzeným Prezídiom Akadémie.
 8. V prípade, že Klub a jeho činnosť sa rozrastie do miery, ktorú stanovy Akadémie
    neumožňujú (napríklad môže ísť o potrebu kolektívneho členstva, poprípade vlastnú
    právnu subjektivitu a i.), môže podať Klub návrh na prezídium na zmenu vzťahu k
@@ -268,13 +267,11 @@ Akadémia divadelných tvorcov (ďalej len „Akadémia“) je dobrovoľná, zá
 
 ## Záverečné ustanovenia
 
-1. Tieto Stanovy Akadémie nadobúdajú platnosť a účinnosť dňom registrácie Akadémie na Ministerstve vnútra SR.
+1. Tieto Stanovy Akadémie nadobúdajú platnosť a účinnosť dňom ich vzatia na vedomie Ministerstvom vnútra SR.
 2. Stanovy Akadémie možno meniť alebo doplniť len na základe rozhodnutia Valného zhromaždenia Akadémie.
 3. Výklad Stanov Akadémie uskutočňuje Prezídium.
 4. Akékoľvek zmeny Stanov Akadémie,  štatutárneho zástupcu a základných údajov Akadémie (právna forma, názov, sídlo) je štatutárny zástupca Akadémie povinný oznámiť Ministerstvu vnútra SR do 15 dní od ich schválenia Valným zhromaždením Akadémie-
 
 \
 \
-Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 25. 9. 2018 a overené Prezídiom Akadémie 9.10.2018.
-
-Zmeny Stanov boli schválené Valným zhromaždením Akadémie v Bratislave dňa 19. 9. 2020.
+Tieto Stanovy boli schválené Valným zhromaždením Akadémie v Bratislave dňa 19. 9. 2020.
