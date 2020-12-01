@@ -24,11 +24,7 @@ Zrazu nikto nevchádza do budovy, jeho topánky neklopkajú na vyleštenej podla
 
  A je to naozaj tak vážne, aby sme z tejto vážnosti vytvorili vákuum, v ktorom sa stratí tak ťažko nadobudnutá potreba pre tých, ktorí ju nadobudnúť potrebovali?
 
-
-
  Netuším.
-
- 
 
 Len jedno mi už napadá… a nech je to len promile toho, čo človek môže spraviť. Možno len skúsiť hovoriť o tom, ako prežiť prázdno: “skúsil som to”. Ako McMurphy vo Formanovom *Prelete nad kukučkiným hniezdom*.
 
@@ -43,3 +39,11 @@ Len jedno mi už napadá… a nech je to len promile toho, čo človek môže sp
  Tak ako divadlo, ktoré sa nedeje, hoci môže, niekde inde: vo vnútri človeka, čo ktorý sa tak rozhodne.
 
  Lebo… poviem, ako to vnímam celý život: na obrazovke pre mňa divadlo neexistuje a asi nikdy nebude.
+
+
+
+
+
+Cenu Akadémie 2019/2020 podporil z verejných zdrojov Fond na podporu umenia.
+
+Partnerom Ceny Akadémie je Literárny fond.
