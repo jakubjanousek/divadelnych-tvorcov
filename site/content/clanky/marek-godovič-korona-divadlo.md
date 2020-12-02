@@ -13,11 +13,11 @@ featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
 **ZATVORENÉ DIVADLÁ**  
 
-Zatvorili nám divadlá, nemôžeme hrať skúšať (v prvej vlne pandémie), v druhej vlne  môžu skúšať aspoň v skrytosti, bez  kontaktu s divákom, ale  v kontakte so skúšobným procesom
+Zatvorili nám divadlá, nemôžeme hrať, skúšať (v prvej vlne pandémie), v druhej vlne môžu skúšať aspoň v skrytosti, bez  kontaktu s divákom, ale  v kontakte so skúšobným procesom.
 
-Asi dve diela, ktoré sa derú do popredia,  boli citované či čítané  už niekoľkokrát v rámci pandémie.  Láska k divadlu a láska k človeku v čase cholery, priestor divadle je dnes  v ktorom  je niečo zamorené územie, v ktorom sa stretáva niekoľko svetov, ten  zničený, chorý, kontaminovaný morom, cholerou pandémiou s reflexiou tejto skutočnosti na javisku, ten  živý pohľad môže liečiť, navodzovať stav normálu.
+Asi dve diela, ktoré sa derú do popredia,  boli citované či čítané  už niekoľkokrát v rámci pandémie.  Láska k divadlu a láska k človeku v čase cholery, priestor divadle je dnes  v ktorom  je niečo zamorené územie, v ktorom sa stretáva niekoľko svetov, ten  zničený, chorý, kontaminovaný morom, cholerou, pandémiou, s reflexiou tejto skutočnosti na javisku, ten živý pohľad môže liečiť, navodzovať stav normálu.
 
-Ale javiská sa presunuli do online formy, javiskom sa stali  rôzne streamovacie platformy a fyzickým priestorom náš  byt, v ktorom môžeme počas predstavenia robiť prakticky čokoľvek, myslieť na čokoľvek. Pamätáme si na prvá správy o tom, že je pandémia medzi nami, že je rovno v divadle, a prišlo k ich zatvoreniu. Izolovali sme sa od umenia, dokonca v prvej vlne sa mnoho umelcov  odizolovala od  divadla samotného do svojich bytov. Boli prinútení. Prešli do osobného priestoru, k z ktorého sa nedalo ujsť.
+Ale javiská sa presunuli do online formy, javiskom sa stali  rôzne streamovacie platformy a fyzickým priestorom náš  byt, v ktorom môžeme počas predstavenia robiť prakticky čokoľvek, myslieť na čokoľvek. Pamätáme si na prvé správy o tom, že je pandémia medzi nami, že je rovno v divadle, a prišlo k ich zatvoreniu. Izolovali sme sa od umenia, dokonca v prvej vlne sa mnoho umelcov  odizolovala od  divadla samotného do svojich bytov. Boli prinútení. Prešli do osobného priestoru, k z ktorého sa nedalo ujsť.
 
 **SOCIÁLNY ODSTUP**   
 
@@ -28,8 +28,6 @@ Zo sledovania na webe sa stalo niečo ako pozeranie sa na tovar. Je to online  
 Nevieme, čo bude keď sa diváci vrátia do sál, zaujmú svoje miesta v hľadisku  a začne vnímať umenie... tá realita tu bude a bude sa na nás díva. Kolobeh  sprísňovania a uvoľňovania opatrení je  pandemická krivka je ako dramatická krivka s neistou zápletkou, len svetlo na konci tunela zvykli sme si povedať... možno na javisku uvidíme tanečné kreácie v rúškach, paródie na  vládne tlačové konferencie, či  skafandre zdravotníkom a možno to vonkajšie nebudeme chcieť vidieť a viac budeme túžiť vnútorne pochopiť čo sa stalo a kde sa nachádzame.
 
 A to  vtedy pokým sa bude...
-
- 
 
 **HRAŤ DO ODVOLANIA** 
 
