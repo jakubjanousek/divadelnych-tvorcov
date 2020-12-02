@@ -1,6 +1,6 @@
 ---
 title: "Ondrej Kaprálik: Karanténne dumy"
-date: 2020-12-02T20:37:43.496Z
+date: 2020-12-08T08:37:43.496Z
 intro: "Pri písaní hodnotení pre Akadémiu som si privykol otvoriť úvod
   najpálčivejšou otázkou, ktorú som v súvislosti s hodnotenou inscenáciou
   pociťoval. Aplikujúc obdobný princíp na (zatiaľ) dve amputované sezóny, núka
