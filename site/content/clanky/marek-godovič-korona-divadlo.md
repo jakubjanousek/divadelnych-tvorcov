@@ -1,6 +1,6 @@
 ---
 title: "Marek Godovič: KORONA DIVADLO"
-date: 2020-12-03T08:56:41.629Z
+date: 2020-12-02T20:05:33.160Z
 intro: >-
   KATASTROFA
 
