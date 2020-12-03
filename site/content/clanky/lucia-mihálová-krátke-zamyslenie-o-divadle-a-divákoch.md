@@ -1,7 +1,7 @@
 ---
 title: "Lucia Mihálová: KRÁTKE ZAMYSLENIE O DIVADLE A DIVÁKOCH"
 date: 2020-12-09T08:41:58.369Z
-intro: z cyklu zamyslení členov komisií Ceny Akadémie2019 / 20
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie2019 / 20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
 Divadelníci, ktorí experimentujú s tradičným vnímaním divadla dokázali, že divadlo môže existovať bez príbehu, bez dialógu, bez replík, bez slov, bez postáv, bez scénografie a kostýmov, bez javiska, bez reflektorov, dokonca aj bez herca. Tieto experimenty nás nútia zamýšľať sa nad tým, v čom je zakorenená skutočná podstata divadla. Posledné mesiace upriamili našu pozornosť na to, čo je najzásadnejšie, bez čoho divadlo naozaj nemôže existovať. Bez diváka. Až v tomto bode narážame
