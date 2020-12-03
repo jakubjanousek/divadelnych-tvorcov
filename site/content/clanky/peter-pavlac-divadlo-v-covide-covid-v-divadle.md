@@ -1,11 +1,12 @@
 ---
-title: "Peter Pavlac: DIVADLO V COVIDE, COVID V DIVADLE"
+title: "Peter Pavlac: DIVADLO V COVIDE, COVID V DIVADLE "
 date: 2020-12-01T18:45:26.892Z
-intro: "Len pár slov, obrazov, dojmov: Divadlo sa ocitlo na pokraji zmyslu
-  svojho existovania. A stačilo tak málo: Stačilo, že sa odoprelo vstúpiť doň aj
-  tomu poslednému divákovi."
+klub: ""
+intro: z cyklu zamyslení členov komisií Ceny Akadémie 2019/20
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+Len pár slov, obrazov, dojmov: Divadlo sa ocitlo na pokraji zmyslu svojho existovania. A stačilo tak málo: Stačilo, že sa odoprelo vstúpiť doň aj tomu poslednému divákovi.
+
 Zrazu nikto nevchádza do budovy, jeho topánky neklopkajú na vyleštenej podlahe foyeru, či na ošúpaných (a predsa príťažlivých) doskách blackboxu.
 
 Žiaden lístok od šatne (štítok, plechová známka s číslom), prišpendlená istota, že po uplynutí zastaveného času nevstúpite do studenej zimnej reality v tenkej, nenápadným pachom uplynulého zážitku nasiaknutej košeli.
@@ -39,10 +40,6 @@ Len jedno mi už napadá… a nech je to len promile toho, čo človek môže sp
  Tak ako divadlo, ktoré sa nedeje, hoci môže, niekde inde: vo vnútri človeka, čo ktorý sa tak rozhodne.
 
  Lebo… poviem, ako to vnímam celý život: na obrazovke pre mňa divadlo neexistuje a asi nikdy nebude.
-
-
-
-
 
 Cenu Akadémie 2019/2020 podporil z verejných zdrojov Fond na podporu umenia.
 
