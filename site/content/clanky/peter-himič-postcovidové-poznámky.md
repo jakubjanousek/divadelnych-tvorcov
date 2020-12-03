@@ -1,16 +1,11 @@
 ---
 title: "Peter Himič: Postcovidové poznámky"
 date: 2020-12-11T08:46:49.367Z
-intro: Divadelné umenie v súčasnosti (covid) je konfrontované so skutočnosťou,
-  ktorá nemá predobraz v histórii. Z jeho povahy ako živého umenia vyplýva, že
-  môže existovať len v styku so svojim prijímateľom a nie je ho možné nahradiť
-  žiadnym technickým prenosom (stream, záznam a podobne), pretože by tým došlo k
-  jeho popretiu sui generis. Samozrejme, dnes nejde o dlhodobý a tobôž nie o
-  definitívny stav. Napriek tomu budú z neho rezultovať skutočnosti, ktoré do
-  istej miery zatrasú postavením divadla a sproblematizujú jeho dotyk s
-  mediálnymi umeniami.
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+Divadelné umenie v súčasnosti (covid) je konfrontované so skutočnosťou, ktorá nemá predobraz v histórii. Z jeho povahy ako živého umenia vyplýva, že môže existovať len v styku so svojim prijímateľom a nie je ho možné nahradiť žiadnym technickým prenosom (stream, záznam a podobne), pretože by tým došlo k jeho popretiu sui generis. Samozrejme, dnes nejde o dlhodobý a tobôž nie o definitívny stav. Napriek tomu budú z neho rezultovať skutočnosti, ktoré do istej miery zatrasú postavením divadla a sproblematizujú jeho dotyk s mediálnymi umeniami.
+
 Napriek pochmúrnej optike a výnimočnosti, divadelná história (aj tá slovenská) potvrdzuje, že to, v istých variantných podobách, nie je pre divadlo celkom nová situácia. Len naša pamäť možno nesiaha až tak ďaleko do minulosti. Hneď na začiatku treba poznamenať, že  dnešnú situáciu nemožno stotožňovať s takými skutočnosťami ako vojna, cenzúra, prírodná katastrofa a podobne. Vieme, že to antické o mlčaní múz počas rinčania zbraní je viac etickou sentenciou ako pravdivým obrazom (za slovenské divadlo hádam stačí príbeh Frontového divadla). Taktiež cenzúra nemá za cieľ vo svojej podstate divadlo totálne zlikvidovať, snaží sa ho len korigovať a „usmerňovať“, prispôsobovať svojim zámerom. Problém dnešného divadla (a živého umenia ako takého) nie je v ohrození umeleckej tvorby (cez intervencie akéhokoľvek druhu), nevyplýva ani z krízy samotného divadelného umenia. Je v podstate veľmi banálny, totiž technický: inscenačnému výsledku nie je umožnené zavŕšiť najpodstatnejšiu fázu svojho zmyslu – predviesť sa pred divákom a zdieľať s ním transformované obsahy a formy. 
 
 Samozrejme, že divadlo zo svojej podstaty ako živé umenie nezanikne.  Covidová situácia však otvorila niekoľko otázok, ktoré sa dotýkajú obsahovej (tematickej) a formálnej (inscenačnej) stránky. Pred 30 rokmi sme zažívali podobnú skúsenosť. Divadlo (najmä jeho dramaturgia) sa dostalo do krízy, ktorá by sa dala zjednodušene nazvať krízou témy. Pozornosť pútali témy predvádzané na námestiach, témy, ktoré so sebou prinášajú revolučné zmeny. Jedným zo znakov revolúcie je aj vysoká miera teatralizácie, ako základného nástroja pre nutný emotívny (katarzný) zážitok obecenstva (ľudu), aj ako kompenzácie za možný neúspech, respektíve straty. Dnešná nerevolučná situácia vo svojej jedinečnosti tiež aktivizuje onú teatralitu. Je to dôsledok nedostatočného intelektuálneho (odborného)  zázemia spoločensko-politického priestoru. Divadlo bolo nahradené nepoznanými obsahmi (pandémia), ktoré sú – a to nielen na Slovensku – zaskočenými reprezentantmi moci prezentované teatralizovane. Pre slovenského diváka (najmä mainstreamový typ) sa v posledných mesiacoch odohrali dve spektakulárne predstavenia: celoplošné testovanie a prezidentské voľby v USA. 
