@@ -1,16 +1,15 @@
 ---
 title: "Marek Godovič: KORONA DIVADLO"
 date: 2020-12-02T20:05:33.160Z
-intro: >-
-  KATASTROFA
-
-
-  V tejto dobe sa  dá hovoriť o divadle, ako o priestore, ktorý si nejakým spôsobom predstavujeme, už nemáme s ním spojenie živé, jednoznačné, spojenie, ktorý by vychádzalo z osobných zážitkov, javisko na dosah, nepočuť kýchnutie okrem svojho vlastného, polohlasný komentár toho, čo sa odohráva či neodohráva na javisku, teraz sa tento zážitok presunul do obývačiek, kde si tieto veci môžeme dopriať len samy zo sebou. Možno medzi tým odskočíme do kuchyne pre pitie, alebo si stopnem predstavenia kedykoľvek chcem, môžem si ho pozrieť ešte raz, alebo odísť  bez toho, aby som sa predieral cez nohy šomrajúcich divákov.
-
-
-  Ak môžeme  si pod katastrofou predstaviť pandemickú situáciu, na ktorej krivku sme sa zvykli každodenne dívať ako na predpoveď počasia, môžeme. Rovnako  za katastrofu, môžeme považovať bezkontaktnosť divadla v dnešných pomeroch za monitormi počítačov a displejoch tabletov či mobilov.
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+**KATASTROFA**
+
+V tejto dobe sa  dá hovoriť o divadle, ako o priestore, ktorý si nejakým spôsobom predstavujeme, už nemáme s ním spojenie živé, jednoznačné, spojenie, ktorý by vychádzalo z osobných zážitkov, javisko na dosah, nepočuť kýchnutie okrem svojho vlastného, polohlasný komentár toho, čo sa odohráva či neodohráva na javisku, teraz sa tento zážitok presunul do obývačiek, kde si tieto veci môžeme dopriať len samy zo sebou. Možno medzi tým odskočíme do kuchyne pre pitie, alebo si stopnem predstavenia kedykoľvek chcem, môžem si ho pozrieť ešte raz, alebo odísť  bez toho, aby som sa predieral cez nohy šomrajúcich divákov.
+
+Ak môžeme  si pod katastrofou predstaviť pandemickú situáciu, na ktorej krivku sme sa zvykli každodenne dívať ako na predpoveď počasia, môžeme. Rovnako  za katastrofu, môžeme považovať bezkontaktnosť divadla v dnešných pomeroch za monitormi počítačov a displejoch tabletov či mobilov.
+
 **ZATVORENÉ DIVADLÁ**  
 
 Zatvorili nám divadlá, nemôžeme hrať, skúšať (v prvej vlne pandémie), v druhej vlne môžu skúšať aspoň v skrytosti, bez  kontaktu s divákom, ale  v kontakte so skúšobným procesom.
