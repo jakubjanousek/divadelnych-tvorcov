@@ -1,10 +1,7 @@
 ---
 title: "Zuzana Galková: Divadlo v čase korony"
 date: 2020-12-01T19:11:57.958Z
-intro: >-
-  (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
-
-  Sedíme v hľadisku, zhasína sa, je ticho. Ani nie preto, že sa to tak skrátka patrí. Ale pretože, ak pošepkáte svojej spoločnosti čokoľvek, tí na javisku budú vedieť kto to bol. Dokonca Vás pristihnú priamo pri čine. Môžu si Vás teoreticky odchytiť v šatni a ten vysoký chlapík Vám môže dať aj jednu výchovnú…
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
 Sedíme v hľadisku, zhasína sa, je ticho. Ani nie preto, že sa to tak skrátka patrí. Ale pretože, ak pošepkáte svojej spoločnosti čokoľvek, tí na javisku budú vedieť kto to bol. Dokonca Vás pristihnú priamo pri čine. Môžu si Vás teoreticky odchytiť v šatni a ten vysoký chlapík Vám môže dať aj jednu výchovnú…
