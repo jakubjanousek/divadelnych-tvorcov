@@ -2,11 +2,11 @@
 title: "Juraj Hrčka: Dopady pandémie Covid 19 na divadelnú obec a umelecké
   odvetvie všeobecne"
 date: 2020-12-04T07:49:55.881Z
-intro: Osobne si myslím ,že dopady výpadku kultúry a obmedzenia sú pre našu
-  kultúru likvidačné a bude trvať rok a viac, kým sa pomaly začnú zotavovať
-  nielen umelci ale aj diváci.
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+Osobne si myslím ,že dopady výpadku kultúry a obmedzenia sú pre našu kultúru likvidačné a bude trvať rok a viac, kým sa pomaly začnú zotavovať nielen umelci ale aj diváci.
+
 Mrzí ma ako sa momentálna situácia dotkla aj samotnej akadémie. Ale je to krízová situácia, treba nájsť krízové riešenie. Tento rok vyhrali všetky divadlá ktoré sa prihlásili. Pretože kultúra v akejkoľvek forme je potrebná.
 
 Momentálne vnímam túto situáciu ako veľkú možnosť na zmenu. Divadlo a umenie toto obdobie prežije (ak teda prežije) a bude ešte silnejšie.
