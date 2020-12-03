@@ -1,20 +1,11 @@
 ---
 title: "Michaela Mojžišová: Zamyslenie o sezóne"
 date: 2020-12-03T08:07:18.808Z
-intro: Keďže divadlá zvyknú svoje hracie plány kreovať v „crescende“
-  a dramaturgicko-inscenačné vrcholy situujú skôr do druhej časti sezóny, je
-  viac než pravdepodobné, že nás Covid-19 ochudobnil nielen kvantitatívne, ale
-  aj kvalitatívne. V troch slovenských operných domoch, ktoré sú hlavným
-  predmetom môjho odborného záujmu, sa od septembra do marcového lockdownu
-  stihli odohrať štyri operné a jedna operetná z plánovaných deviatich premiér
-  sezóny, ale ani jedna z nich výraznejším spôsobom nezamiešala poradie v zlatej
-  knihe storočného slovenského (aj operného) divadelníctva. Môj najintenzívnejší
-  hudobno-divadelný zážitok sa tak nespája s „kamennou“ inštitúciou, ale
-  s najnovším projektom Petra Mazalána Zimná cesta. Diváka scitlivujúca, krehko
-  subtílna meditácia na tému autizmu, ktorá mala premiéru v Štúdiu 12,
-  zadosťučinila umelecko-estetickej aj spoločenskej funkcii divadla.
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+Keďže divadlá zvyknú svoje hracie plány kreovať v „crescende“ a dramaturgicko-inscenačné vrcholy situujú skôr do druhej časti sezóny, je viac než pravdepodobné, že nás Covid-19 ochudobnil nielen kvantitatívne, ale aj kvalitatívne. V troch slovenských operných domoch, ktoré sú hlavným predmetom môjho odborného záujmu, sa od septembra do marcového lockdownu stihli odohrať štyri operné a jedna operetná z plánovaných deviatich premiér sezóny, ale ani jedna z nich výraznejším spôsobom nezamiešala poradie v zlatej knihe storočného slovenského (aj operného) divadelníctva. Môj najintenzívnejší hudobno-divadelný zážitok sa tak nespája s „kamennou“ inštitúciou, ale s najnovším projektom Petra Mazalána Zimná cesta. Diváka scitlivujúca, krehko subtílna meditácia na tému autizmu, ktorá mala premiéru v Štúdiu 12, zadosťučinila umelecko-estetickej aj spoločenskej funkcii divadla.
+
 Rovnaké hodnotenie, no ešte v znásobenejšej miere, patrí projektu občianskeho združenia Vlnoplocha s názvom *Kosmopol*, situovanému do meštianskeho domu (dnes Kultúrne centrum Eleuzína) v Banskej Štiavnici. Imerzná inscenácia, na príbehu „malých“ dejín rodiny štiavnického zubára približujúca „veľké“ dejiny Slovenska od prvej Československej republiky až po november 1989, priniesla vzácny divadelný okamih: ušľachtilý zámer realizovaný s obrovským zanietením všetkých tvorcov sa premietol do strhujúcej, diváka od prvej do poslednej chvíle vťahujúcej inscenácie. Skvele vystavanú formu naplnil sugestívny, autenticky pravdivý obsah. Trojici autoriek sa podarilo vyhnúť zjednodušujúcemu, čierno-bielemu pohľadu na hrdinov príbehu a vytvoriť uveriteľné postavy z mäsa a kostí.  
 
 *Kosmopol* mal to šťastie, že sa počas druhej (preloženej) série predstavení, ktorá sa odohrala počas júlového uvoľnenia medzi dvomi vlnami pandémie, dostal k svojmu publiku. Žiaľ, podobné šťastie nemali mnohé iné – možno podobne kvalitné – divadelné projekty roka, ktorý dostal od Ministerstva kultúry SR do daru veľké začiatočné písmeno a titul „Rok slovenského divadla“. Covid-19 uštedril tvrdú ranu divadelníkom a inštitúciám, ktoré do prípravy osláv storočnice profesionálneho divadla investovali mnoho času, energie a finančných prostriedkov. Zároveň ochudobnil tisíce tých, ktorí umenie, vrátane toho divadelného, potrebujú k plnohodnotnému životu. Svetlo na konci tunela k dnešnému dňu stále nevidno. Snáď kým k nemu dospejeme, pribudne tých, ktorí si uvedomia, ako veľmi im divadlo chýba, a neubudne tých, ktorí dokážu ich hlad nasýtiť.
