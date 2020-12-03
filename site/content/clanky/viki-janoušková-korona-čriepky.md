@@ -1,11 +1,11 @@
 ---
 title: "Viki Janoušková: Naozaj sa toho deje veľa"
 date: 2020-12-05T08:16:07.643Z
-intro: Nápad spísať tieto zamyslenia vznikol v čase, keď sme ako organizátori
-  Ceny boli nešťastní, že vzniká málo reflexií konkrétnych inscenácií a nebude
-  čo ponúknuť. No zároveň sme si uvedomili, ako veľa sa deje...
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
+Nápad spísať tieto zamyslenia vznikol v čase, keď sme ako organizátori Ceny boli nešťastní, že vzniká málo reflexií konkrétnych inscenácií a nebude čo ponúknuť. No zároveň sme si uvedomili, ako veľa sa deje...
+
 Naozaj sa deje veľa... a tak na záver exkurzu do mysle divadelníkov dovoľte v rýchlom slede obrázky tém, ktoré sa neobjavili...
 
 V prvej vlne pandémie bolo dosť zreteľne náš sektor rozdelený na tých, ktorí sa dostali do akéhosi stoptimu a vzduchoprázdna a tých, ktorí nestíhali, lebo sa snažili buď hľadať cesty, ako divadlo a povedomie o ňom prežije, teda online čítali na pokračovanie, písali svoje výtvory, pomáhali ich online šíriť, iní sa snažili uchopiť situáciu a odovzdávať návrhy opatrení patričným inštitúciám a nakoniec niektorí sa pokúšali jednotlivé komunity sieťovať, lebo bez toho by sme túto dobu v zdraví nemohli prežiť...
