@@ -10,8 +10,8 @@ intro: Keďže divadlá zvyknú svoje hracie plány kreovať v „crescende“
   sezóny, ale ani jedna z nich výraznejším spôsobom nezamiešala poradie v zlatej
   knihe storočného slovenského (aj operného) divadelníctva. Môj najintenzívnejší
   hudobno-divadelný zážitok sa tak nespája s „kamennou“ inštitúciou, ale
-  s najnovším projektom Petra Mazalána *Zimná cesta*. Diváka scitlivujúca,
-  krehko subtílna meditácia na tému autizmu, ktorá mala premiéru v Štúdiu 12,
+  s najnovším projektom Petra Mazalána Zimná cesta. Diváka scitlivujúca, krehko
+  subtílna meditácia na tému autizmu, ktorá mala premiéru v Štúdiu 12,
   zadosťučinila umelecko-estetickej aj spoločenskej funkcii divadla.
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
