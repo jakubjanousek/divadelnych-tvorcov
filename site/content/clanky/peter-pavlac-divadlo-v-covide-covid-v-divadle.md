@@ -2,7 +2,7 @@
 title: "Peter Pavlac: DIVADLO V COVIDE, COVID V DIVADLE "
 date: 2020-12-01T18:45:26.892Z
 klub: ""
-intro: z cyklu zamyslení členov komisií Ceny Akadémie 2019/20
+intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
 Len pár slov, obrazov, dojmov: Divadlo sa ocitlo na pokraji zmyslu svojho existovania. A stačilo tak málo: Stačilo, že sa odoprelo vstúpiť doň aj tomu poslednému divákovi.
