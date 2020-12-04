@@ -5,7 +5,7 @@ date: 2020-12-04T11:56:02.473Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
-Osobne si myslím ,že dopady výpadku kultúry a obmedzenia sú pre našu kultúru likvidačné a bude trvať rok a viac, kým sa pomaly začnú zotavovať nielen umelci ale aj diváci.
+Osobne si myslím, že dopady výpadku kultúry a obmedzenia sú pre našu kultúru likvidačné a bude trvať rok a viac, kým sa pomaly začnú zotavovať nielen umelci ale aj diváci.
 
 Mrzí ma ako sa momentálna situácia dotkla aj samotnej akadémie. Ale je to krízová situácia, treba nájsť krízové riešenie. Tento rok vyhrali všetky divadlá ktoré sa prihlásili. Pretože kultúra v akejkoľvek forme je potrebná.
 
