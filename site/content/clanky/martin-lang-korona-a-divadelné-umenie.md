@@ -1,6 +1,6 @@
 ---
 title: "Martin Lang: Korona a divadelné umenie"
-date: 2020-12-07T08:35:30.837Z
+date: 2020-12-06T20:20:02.566Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
