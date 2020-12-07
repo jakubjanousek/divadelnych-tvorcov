@@ -1,6 +1,6 @@
 ---
 title: "Ondrej Kaprálik: Karanténne dumy"
-date: 2020-12-08T08:37:43.496Z
+date: 2020-12-07T22:15:43.755Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
