@@ -1,6 +1,6 @@
 ---
 title: "Peter Himič: Postcovidové poznámky"
-date: 2020-12-11T08:46:49.367Z
+date: 2020-12-10T08:46:49.367Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
