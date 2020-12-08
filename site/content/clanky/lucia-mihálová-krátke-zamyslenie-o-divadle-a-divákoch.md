@@ -1,6 +1,6 @@
 ---
 title: "Lucia Mihálová: KRÁTKE ZAMYSLENIE O DIVADLE A DIVÁKOCH"
-date: 2020-12-08T10:16:09.107Z
+date: 2020-12-08T19:46:30.368Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie2019 / 20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
