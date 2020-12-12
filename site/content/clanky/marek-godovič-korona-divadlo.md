@@ -1,5 +1,5 @@
 ---
-title: "Marek Godovič: KORONA DIVADLO"
+title: "z cyklu zamyslení - Marek Godovič: KORONA DIVADLO"
 date: 2020-12-02T20:05:33.160Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
