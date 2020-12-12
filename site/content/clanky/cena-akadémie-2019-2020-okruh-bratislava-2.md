@@ -12,7 +12,7 @@ intro: >-
 
 
   Hodnotitelia: Mgr. art. Viera Dubačová,  Mgr. art Juraj Hrčka, prof. Nadežda Lindovská, Mgr. art.Jana Strnisková, Mgr. Martin Timko PhD.
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/2_divadelný-román-činohra-snd-_fotil-ctibor-bachratý.jpg
 ---
 V dôsledku pandémie v rámci okruhu Bratislava 1 mohli hodnotitelia a hodnotiteľky odsledovať len niekoľko inscenácií. Reprízy prihlásených inscenácií sa v krátkom mesačnom úseku jeden a pol počas jesenného rozvoľnenia protipandemických opatrení neuvádzali. Do tohto okruhu boli prihlásené inscenácie širokého spektra, čo sa týka spôsobov tvorby či statusu divadelného súboru. 
 
