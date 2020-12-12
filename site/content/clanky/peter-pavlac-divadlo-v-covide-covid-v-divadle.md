@@ -1,5 +1,5 @@
 ---
-title: "Peter Pavlac: DIVADLO V COVIDE, COVID V DIVADLE "
+title: "z cyklu zamyslení - Peter Pavlac: DIVADLO V COVIDE, COVID V DIVADLE "
 date: 2020-12-01T18:45:26.892Z
 klub: ""
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
