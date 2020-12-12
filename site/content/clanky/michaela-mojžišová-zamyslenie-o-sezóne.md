@@ -1,5 +1,5 @@
 ---
-title: "Michaela Mojžišová: Zamyslenie o sezóne"
+title: "z cyklu zamyslení - Michaela Mojžišová: Zamyslenie o sezóne"
 date: 2020-12-03T08:07:18.808Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
