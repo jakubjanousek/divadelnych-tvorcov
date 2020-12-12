@@ -1,5 +1,5 @@
 ---
-title: "Zuzana Galková: Divadlo v čase korony"
+title: "z cyklu zamyslení - Zuzana Galková: Divadlo v čase korony"
 date: 2020-12-01T19:11:57.958Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
