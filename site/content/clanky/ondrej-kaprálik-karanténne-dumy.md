@@ -1,5 +1,5 @@
 ---
-title: "Ondrej Kaprálik: Karanténne dumy"
+title: "z cyklu zamyslení - Ondrej Kaprálik: Karanténne dumy"
 date: 2020-12-07T22:15:43.755Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
