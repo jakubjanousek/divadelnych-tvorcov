@@ -13,7 +13,7 @@ intro: >-
 
 
   Hodnotitelia: MUDr. Géza Hizsnyan, Mgr. Róbert Kobezda, DIS. Art, Mgr. art. Tatiana Masníková, PhDr. Miron Pukan, PhD, Mgr.art. Daniel Straka ArtD.
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/5_dnes-už-nikam-nejdeš-thália-.jpg
 ---
 Do okruhu Východ bolo zaradených počtom najviac prihlásených inscenácií.  Poetikou znova veľmi rôznorodé diela, ktoré zahŕňajú nízkorozpočtový muzikál, kolektívnu improvizáciu, diela realizované v nezriaďovaných, repertoárových divadlách či v štátnom divadle. Bohužiaľ v rámci protipandemických opatrení nemohli byť reprízované viaceré prihlásené diela. Niektoré z nich ako Jahodové polia (Prešovské národné divadlo) alebo Známy neznámy (Divadla Alexandra Duchnoviča, Prešov) boli reflektované divadelnými periodikami a ostatné sa snáď svojej reflexie dočkajú.
 
