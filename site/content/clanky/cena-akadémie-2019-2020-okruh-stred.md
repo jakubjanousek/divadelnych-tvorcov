@@ -100,6 +100,8 @@ Uvedený stav náhleho plošného zákazu divadla v dôsledku evidentnej pandém
 
 *Z reflexií členov komisií zostavil Marek Godovič.*
 
+*Foto: Dáša Šimeková*
+
 *Cena Akadémie 2019/20
 Cena Akadémie je organizovaná v spolupráci s Literárnym fondom.
 Projekt z verejných zdrojov podporil Fond na podporu umenia.
