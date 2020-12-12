@@ -4,7 +4,7 @@ date: 2020-12-12T18:35:56.458Z
 intro: |-
   mozaika zamyslení členov komisií Ceny Akadémie 2019/20
   (texty sú krátené, celé texty si môžete prečítať na www.adt-theatre.sk)
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
 Nápad spísať tieto zamyslenia vznikol v čase, keď sme ako organizátori Ceny boli nešťastní, že vzniká málo reflexií konkrétnych inscenácií a nebude čo ponúknuť. No zároveň sme si uvedomili, ako veľa sa deje...
 
