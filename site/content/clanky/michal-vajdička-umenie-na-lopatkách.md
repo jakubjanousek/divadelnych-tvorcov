@@ -1,5 +1,5 @@
 ---
-title: "Michal Vajdička: Umenie na lopatkách"
+title: "z cyklu zamyslení - Michal Vajdička: Umenie na lopatkách"
 date: 2020-12-11T18:36:46.344Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
