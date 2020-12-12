@@ -1,0 +1,17 @@
+---
+title: Cena Akadémie in memoriam - Zuzana Bakošová-Hlavenková
+date: 2020-12-12T19:04:22.712Z
+intro: Na návrh teatrologického klubu ten rok udeľuje Akadémia Cenu Akadémie in
+  memoriam významnej slovenskej teatrologičke, vysokoškolskej pedagogičke a
+  členke Akadémie prof. Zuzane Bakošovej-Hlavenkovej.
+featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+---
+Zuzana Bakošová-Hlavenková (28. 6. 1947 Bratislava – 28. 10. 2019 Bratislava) bola významnou osobnosťou v oblasti slovenskej divadelnej vedy. V rokoch 1965 – 1970 tento odbor vyštudovala na Divadelnej fakulte Vysokej škole múzických umení v Bratislave, kde počas svojej kariéry pôsobila na viacerých pozíciách. V 70. rokoch pracovala v ústavoch Slovenskej akadémie vied. V rokoch 1978 – 1991 sa svojej teatrologickej činnosti venovala ako vedecko-výskumná pracovníčka Divadelného ústavu v Bratislave, kde jeden čas vykonávala funkciu vedúcej oddelenia výskumu súčasného divadla. V rámci tejto činnosti kontinuálne hodnotila inscenácie činohry Slovenského národného divadla.  Od roku 1991 pôsobila ako docentka a neskôr ako profesorka na Katedre divadelných štúdií Divadelnej fakulty VŠMU v Bratislave. V rokoch 1992 až 1998 bola prodekankou DF VŠMU a v rokoch 2010 až 2013 bola vedúcou Katedry divadelných štúdií.
+
+Vo svojej výskumnej i pedagogickej činnosti sa venovala súčasnému divadlu a hereckým metódam.  
+
+Zuzana Bakošová-Hlavenková je autorkou mnohých štúdií, článkov, encyklopedických hesiel – napr. Encyklopédie dramatických umení Slovenska, a kritík, ako aj viacerých knižných publikácií: Pantomíma v súvislostiach histórie a súčasnosti (1978), Od teórií a techník k tvorivosti v herectve (1980), monografií: Čas činohry (1990), Zita Furková – Smiech a plač alebo Stopy v prachu hereckých dní (1999), Kolotoč herectva – Divadlo Astorka Korzo´90. 1990 – 2000 (2001), Elixír smiechu. Jozef Kroner a Kronerovci. (2010, 2012). Bola autorkou a zostavovateľkou zborníka Divadlo a intermedialita (VŠMU 2012) a Čas činohry našich čias (VŠMU 2017). Je spoluautorkou zborníkov - Teória dramatických umení (1981), Režisér Miloš Pietor (1992), Slovenský hraný film 1970 – 1990 (1993), Divadlo na korze 1968 – 1971 (1994), Osobnosť a dielo Petra Karvaša (1996), Otvorené divadlo v uzavretej spoločnosti (1996), Symbolizmus v kontextoch a súvislostiach (1999), Stretnutie kultúr a divadlo (2000), Poetika a politika (2004), Prednášky o divadle I. (2004), Čechov medzi nami (2005), Peter Scherhaufer – Učitel šašků (2006), Magda Husáková-Lokvencová, prvá dáma slovenskej divadelnej réžie (2008), Divadlo ako dokument doby (2014), Divadelní režiséri na prelome tisícročí (2014) a spoluautorkou hereckých monografických zborníkov Mikuláš Huba (1995), Ctibor Filčík (1996), Hana Meličková (1996) a iných.
+
+Zúčastňovala sa vedeckých konferencií v SR aj v zahraničí. Prispievala aj do zahraničných publikácií najmä v Čechách, Poľsku a v Kanade. Bola členkou medzinárodných divadelných mimovládnych organizácií ITI – Medzinárodného divadelného inštitútu a AICT – Medzinárodnej  asociácie divadelných kritikov.
+
+Zuzana Bakošová-Hlavenková bola osvietenou divadelnou vedkyňou a empatickou profesorkou, ktorá zanechala svoju výraznú teatrologickú stopu vo svojom odbore. Jej ľudský prístup v komunikácii s kolegami a študentmi bude všetkým dlho chýbať.
