@@ -1,5 +1,5 @@
 ---
-title: "Viki Janoušková: Naozaj sa toho deje veľa"
+title: "z cyklu zamyslení - Viki Janoušková: Naozaj sa toho deje veľa"
 date: 2020-12-05T18:11:47.491Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
