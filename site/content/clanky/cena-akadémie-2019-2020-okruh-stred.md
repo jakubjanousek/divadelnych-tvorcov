@@ -12,7 +12,7 @@ intro: >-
 
 
   Hodnotitelia: doc. Miroslav Ballay, Mgr. art. Zuzana Galková, MgA. Marek Godovič, PhD., Mgr. Peter Himič, PhD., MgA. Viki Janoušková
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/4_kosmopol-vlnoplocha-o.z.-_fotila-dáša-šimeková.jpg
 ---
 „To zdanlivé ticho je naplnené nielen samotou a strachom, ale aj podivnou zmesou emócií pri zriedkavom zážitku z predstavení, ktoré napriek všetkému som mala možnosť vidieť, radosti, že sedím v divadle, že môžem spoločne zdieľať svoje myslenie a počúvať, čo nám kolegovia chcú odovzdať a v závere vďačnosti, že napriek všetkým prekážkam kolegovia považujú za dôležité sa so mnou stretnúť... Taká obnovená, i keď bizarne, slávnosť zážitku divadelného predstavenia...“ (úryvok so zamyslenia Viki Janouškovej, dramaturgičky a autorky, členky komisie Stred)
 
