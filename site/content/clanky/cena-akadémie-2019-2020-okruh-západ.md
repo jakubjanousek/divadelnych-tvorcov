@@ -11,7 +11,7 @@ intro: >-
 
 
   Hodnotitelia: prof. Ida Hledíková, Mgr.art Ondrej Kaprálik, Mgr. art. Viktor Kollár, Mgr. art. Anton Korenči, ArtD., prof. Peter Pavlac
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/3_dom_dab.jpg
 ---
 Ako zvláštne je si zrazu uvedomiť, čo všetko naozaj vplýva na Vašu pozornosť, ochotu byť dotknutým, ochotu nechať sa emočne uniesť, čo všetko, čo s inscenáciou nesúvisí, Vás môže dokonale uhniesť, pripraviť, vybudiť Vašu pozornosť, zmiasť, zdecimovať… asi by som si to nikdy tak intenzívne neuvedomil, nebyť situácie, ktorá sa stala determinantom posledných mesiacov a nechystá sa nás opustiť. Každý krok (...) bol poznačený týmto faktom, neistotou, vôľou a chcením zažiť po mesiacoch ničoty konečne živé predstavenie v kontraste s podozrievavými pohľadmi, nervozitou, neštandardnosťou… nepatrilo by sa o tom písať za “normálnych” okolností, nejde to však v okolnostiach nenormálnych obísť. Kroky do sály, plaché pohľady zneistených divákov, sedenie (...), nič nebolo štandardné a tak som to vnímal z pohľadov každého, kto sa mi odvážil spoza rúška pozrieť do očí.
 
