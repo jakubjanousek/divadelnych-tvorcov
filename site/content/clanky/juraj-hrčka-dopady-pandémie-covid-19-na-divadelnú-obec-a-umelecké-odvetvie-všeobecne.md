@@ -1,6 +1,6 @@
 ---
-title: "Juraj Hrčka: Dopady pandémie Covid 19 na divadelnú obec a umelecké
-  odvetvie všeobecne"
+title: "z cyklu zamyslení - Juraj Hrčka: Dopady pandémie Covid 19 na divadelnú
+  obec a umelecké odvetvie všeobecne"
 date: 2020-12-04T11:56:02.473Z
 intro: (z cyklu zamyslení členov komisií Ceny Akadémie 2019/20)
 featured_img: img/tas_zsu_001_w1a5467.jpg
