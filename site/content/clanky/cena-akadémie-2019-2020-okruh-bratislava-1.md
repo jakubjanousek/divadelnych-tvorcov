@@ -12,7 +12,7 @@ intro: >-
 
 
   Hodnotitelia: Mgr. art. Matúš Bachynec, ArtD, Mgr. art. Ľubomír Bukový, PhD., Mgr. art. Lucia Mihálová, PhD., Mgr. Michaela Mojžišová, PhD., Mgr. art. Michal Vajdička
-featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
+featured_img: img/1_nevďačná-cudzinka-per.-art-o.z.-_fotil-robert-tappert.jpg
 ---
 V tejto situácii uvedomenia si krehkosti buďme vďační, že aspoň niekoľko divadelníkov sa usilovalo vidieť a zachytiť niekoľko inscenácií, aj keď každú inscenáciu iný počet, a sú ochotní svoje postrehy zdieľať, vďaka im aspoň za tieto riadky. Veríme, že aj tieto kusé a mozaikovité postrehy na adresy inscenácií spolu s ďalším materiálom zamyslení Divadlo v čase korony pomôžu zachovať aspoň čriepky tejto turbulentnej sezóny pre záujemcov v budúcich, veríme, že pre divadlo hostinnejších, dobách. – Zároveň vyjadrujeme ľútosť, inscenácie Baby Bajbl Band a Lekcia žiaľ, nevidel nikto z komisie, dúfajme, že inscenácie napriek tomu získajú svoju spätnú väzbu...
 
