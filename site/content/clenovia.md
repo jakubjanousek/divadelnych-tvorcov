@@ -16,7 +16,7 @@ Predseda: Mgr. Martin Timko Art.D.
 Kontaktné osoby: prof. Roman Polák a Mgr. art. Lucia Mihálová
 
 **Klub nezávislých divadelníkov**\
-Kontaktná osoba: Mgr. art. Monika Kováčová
+Kontaktné osoby: Mgr. art. Veronika Gabčíková, Mgr. art. Jakub Nvota, Jana Suraová, MgA. Dagmar Bednáriková
 
 **Klub vzdelávania - konzervatórií**\
 Kontaktná osoba: Mgr. Tatiana Masníková
