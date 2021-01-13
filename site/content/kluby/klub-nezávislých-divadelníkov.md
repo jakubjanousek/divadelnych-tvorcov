@@ -1,14 +1,10 @@
 ---
 title: Klub nezávislých divadelníkov
 ---
-Kontaktné osoby: Mgr. art. Monika Kováčová, Mgr. art. Veronika Gabčíková, Mgr. art. Jakub Nvota, MgA. Viki Janoušková
-
-
-
 OZNAM:
 
-Klub nezávislých divadelníkov sa v najbližších dňoch premenuje na Klub nezávislých divadiel a stane sa samostatnou právnickou osobou s kolektívnym členstvom. 
+Klub nezávislých divadelníkov sa koncom roku 2020 osamostatnil a vytvoril samostatné o. z. Klub nezávislých divadiel s kolektívnym členstvom. 
+
+Začiatkom tohto roka si predsedníctvo Klubu zvolilo svojho predsedu Jakuba Nvotu a  podpredsedníčku Veroniku Gabčíkovú. 
 
 Akadémia divadelných tvorcov im želá veľa síl v ďalšej činnosti a verí, že ďalšia spolupráca bude rovnako podnetná, ako doteraz.
-
-\- Bližšie informácie na FB skupine Nezávislé divadlá - hľadáme opatrenia https://www.facebook.com/groups/275519423609841/
