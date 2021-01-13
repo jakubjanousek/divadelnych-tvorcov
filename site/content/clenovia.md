@@ -13,10 +13,10 @@ Mgr. art. Matúš Bachynec, ArtD.; doc. Mgr. Miroslav Ballay, PhD.; MgA. Dagmar 
 Predseda: Mgr. Martin Timko Art.D.
 
 **Klub zriaďovaných divadiel**\
-Kontaktné osoby: prof. Roman Polák a Mgr. art. Lucia Mihálová
+Kontaktná osoba: Mgr. art. Lucia Mihálová
 
-**Klub nezávislých divadelníkov**\
-Kontaktné osoby: Mgr. art. Veronika Gabčíková, Mgr. art. Jakub Nvota, Jana Suraová, MgA. Dagmar Bednáriková
+**Klub nezávislých divadelníkov / vzniklo o. z. Klub nezávislých divadiel**\
+Predseda: Jakub Nvota, podpredsedníčka: Mgr. art. Veronika Gabčíková
 
 **Klub vzdelávania - konzervatórií**\
 Kontaktná osoba: Mgr. Tatiana Masníková
