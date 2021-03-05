@@ -1,8 +1,10 @@
 ---
 title: Divadlo v korone, 1. časť
 date: 2020-12-12T18:35:56.458Z
-intro: |-
-  mozaika zamyslení členov komisií Ceny Akadémie 2019/20
+intro: >-
+  mozaiku zamyslení členov komisií Ceny Akadémie 2019/20 zostavila Viki
+  Janoušková
+
   (texty sú krátené, celé texty si môžete prečítať na www.adt-theatre.sk)
 featured_img: img/tas_zsu_001_w1a5467.jpg
 ---
