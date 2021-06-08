@@ -1,5 +1,5 @@
 ---
-title: "DISKUSIA - TÉMA:  Potreba systematickej podpory významných
+title: "DISKUSIA - TÉMA:               Potreba systematickej podpory významných
   celoslovenských projektov"
 date: 2021-06-07T17:02:10.437Z
 intro: >-
