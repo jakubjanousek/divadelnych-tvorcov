@@ -1,6 +1,6 @@
 ---
-title: "DISKUSIA - TÉMA:               Potreba systematickej podpory významných
-  celoslovenských projektov"
+title: "DISKUSIA - TÉMA: Potreba systematickej podpory významných
+  celoslovenských projektov. - OTVORENIE DISKUSIE."
 date: 2021-06-07T17:02:10.437Z
 intro: >-
   Otvoreným listom podporeným mnohými zriaďovanými a nezávislými divadlami i
