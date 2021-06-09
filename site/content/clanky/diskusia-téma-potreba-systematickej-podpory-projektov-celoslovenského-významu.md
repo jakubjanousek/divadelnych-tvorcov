@@ -1,11 +1,11 @@
 ---
 title: "DISKUSIA - TÉMA : PROJEKTY CELOSLOVENSKÉHO VÝZNAMU. PRÍSPEVOK - LIST
-  RIADITEĽOVI FPU"
+  AKADÉMIERIADITEĽOVI FPU"
 date: 2021-06-09T07:54:04.421Z
 intro: >-
   DISKUSNÝ PRÍSPEVOK:
 
-  List Akadmie riaditeľovi FPU - prizvanie k diskusii a návrh vzniku samostatného podprogramu na FPU pre dané projekty.
+  List Akadémie riaditeľovi FPU - prizvanie k diskusii a návrh vzniku samostatného podprogramu na FPU pre dané projekty.
 featured_img: img/adt-logo-black.png
 ---
 Vážený pán riaditeľ, 
