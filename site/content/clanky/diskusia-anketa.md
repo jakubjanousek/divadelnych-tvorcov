@@ -14,7 +14,8 @@ featured_img: img/adt-logo-black.png
 ---
 ANKETA**\
 *Súčasť diskusie na tému Projekty celoslovenského významu***    \
-                                               V súčasnej dobe stále naliehavejšie pociťujeme potrebu vrátiť sa „k normálu“, tam, teda k živému umeniu za prítomnosti divákov a ich bezprostredných reakcií. Chceme sa vrátiť k istote, k veciam, ktoré fungovali a mali by fungovať aj  teraz.
+\
+V súčasnej dobe stále naliehavejšie pociťujeme potrebu vrátiť sa „k normálu“, tam, teda k živému umeniu za prítomnosti divákov a ich bezprostredných reakcií. Chceme sa vrátiť k istote, k veciam, ktoré fungovali a mali by fungovať aj  teraz.
 
 No niektoré systémové veci neboli správne nastavené ani predtým. Jednu z týchto tém by sme radi otvorili v rámci celoslovenskej diskusie, a to tému systematickej podpory projektov celoslovenského významu.
 
