@@ -6,7 +6,7 @@ intro: >-
   Súčasť diskusie na tému Projekty celoslovenského významu
 
 
-  Uverejňujeme odpoveď FPU na list ADT (viď TU):
+  Uverejnený materiál je odpoveďou na list Akadémie - viď TU:
 
   https://www.adt-theatre.sk/clanky/diskusia-tema-potreba-systematickej-podpory-projektov-celoslovenskeho-vyznamu/
 featured_img: img/adt-logo-black.png
