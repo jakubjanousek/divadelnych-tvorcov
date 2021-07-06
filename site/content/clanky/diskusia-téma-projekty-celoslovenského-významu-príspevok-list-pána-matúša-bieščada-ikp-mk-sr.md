@@ -1,6 +1,6 @@
 ---
 title: "DISKUSIA - TÉMA : PROJEKTY CELOSLOVENSKÉHO VÝZNAMU. PRÍSPEVOK - LIST
-  PÁNA MATÚŠA BIEŠČADA (IKP MK SR)"
+  MATÚŠA BIEŠČADA (IKP MK SR)"
 date: 2021-07-01T19:34:24.383Z
 intro: |-
   List pána Matúša Bieščada (IKP MK SR)
