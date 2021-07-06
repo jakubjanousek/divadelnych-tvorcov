@@ -2,7 +2,13 @@
 title: DISKUSIA - PROJEKTY CELOSLOVENSKÉHO VÝZNAMU. PRÍSPEVOK - ODPOVEĎ JOZEFA
   KOVALČÍKA (riaditeľa FPU)
 date: 2021-07-06T09:16:04.588Z
-intro: Súčasť diskusie na tému Projekty celoslovenského významu
+intro: >-
+  Súčasť diskusie na tému Projekty celoslovenského významu
+
+
+  Uverejňujeme odpoveď FPU na list ADT (viď TU):
+
+  https://www.adt-theatre.sk/clanky/diskusia-tema-potreba-systematickej-podpory-projektov-celoslovenskeho-vyznamu/
 featured_img: img/adt-logo-black.png
 ---
 Vážení členovia a členky prezídia Akadémie divadelných tvorcov,
