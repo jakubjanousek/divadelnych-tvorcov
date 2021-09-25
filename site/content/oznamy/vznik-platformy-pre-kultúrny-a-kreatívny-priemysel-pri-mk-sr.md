@@ -4,8 +4,6 @@ date: 2021-09-25T21:51:09.382Z
 intro: Stručný prehľad informácií o Platforme pre kultúrny a kreatívny priemysel
   a zástupcovia za ADT, KND a ASOD.
 ---
-**Stručný prehľad informácií o Platforme pre kultúrny a kreatívny priemysel**                                                                                                                     
-
 **Cieľ platformy**\
 Hlavným cieľom platformy je systematicky koordinovať koncepčné a strategické smerovanie kultúrneho a kreatívneho priemyslu na úrovni medzinárodných, národných, regionálnych a miestnych politík, ako aj medzi zainteresovanými sektormi a odvetviami. Základným nástrojom na dosiahnutie tohto cieľa je viacúrovňová a medzisektorová spolupráca, ktorá má viesť k synergiám a znásobeniu pozitívnych efektov prijatých opatrení na celý kreatívny ekosystém v SR.
 
