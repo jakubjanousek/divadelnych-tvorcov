@@ -1,5 +1,4 @@
 ---
 title: Klub vzdelavánia - konzervatórií
 ---
-
-Kontaktná osoba: Mgr. Tatiana Masníková
+V tejto chvíli nevyvíja žiadnu činnosť.
