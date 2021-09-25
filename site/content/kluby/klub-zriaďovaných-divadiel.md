@@ -1,6 +1,4 @@
 ---
 title: Klub zriaďovaných divadiel
 ---
-Kontaktná osoba: Mgr. art. Lucia Mihálová
-
-[Zápisnica č. 1](https://www.adt-theatre.sk/admin/#/collections/oznamy/entries/klub-zria%C4%8Fovan%C3%BDch-divadiel-1)
+Klub zriaďovaných divadiel pod vedením Romana Poláka, následne Zuzany Hekel sa rozhodol združiť riaditeľov zriaďovaných divadiel. Podarilo sa a títo sa dohovorili, že vstúpia do Asociácie divadiel a orchestrov (ASDO). Z Akadémie kontaktnou osobou na ASDO je Zuzana Hekel.
