@@ -67,8 +67,6 @@ V kontradikcii je hudba: budovateľská, monumentálna, burcujúca, národná�
 „Zvolená divadelná forma pôsobí v slovenských podmienkach relatívne novo (podobné postupy však poznáme najmä z tvorby Rastislava Balleka).  Podobne aj ironický obraz povahopisu slovenského ľudu nie je v našej kultúre nezvyčajný. To, čo a ako nám chcú povedať, sme videli možno v menej konzekventných podobách, ale predsa len zreteľne už v študentských divadielkach v sedemdesiatych a osemdesiatych rokoch minulého storočia. Je však znepokojujúce, ako silno sa cez túto inscenáciu dá vnímať duch doby, ktorý alarmujúco hovorí o silnej skepse až úzkosti mladšej generácie zo spoločenskej situácie a jej celkového vývoja.“\
             V textovej aj inscenačnej rovine absentuje „hlbší prienik pod povrch javov a výraznejšia analytickejšia schopnosť. Sebaľútosť i ironické sebabičovanie, resp. trochu kabaretné či stand-upovské bičovanie politických a spoločenských elít je trochu málo na inscenáciu, ktorá mala v sebe potenciál stať sa celkom zásadnou.“ Tvorcovia však „nebudujú inscenáciu  primárne na základe faktov, nevytvárajú dokumentárnu drámu, z ktorej si diváci odnášajú nostalgiu spojenú s iróniou, ale ponúkajú svet, ktorý je za tým, za plánovaním, stagnovaním, sľubovaním: my, prepojení, či neprepojení, na  ceste, ktorá zatiaľ niekam vedie, inokedy nie. Bez zjavného odvolávania sa na aktuálnosť však hovorí veľa aj o pandémií, izolácii a odcudzení.“
 
- 
-
 **Súhrn**
 
 V dramaturgickej rovine sme zaznamenali niekoľko pozoruhodných výsledkov. Viac ako polovica inscenácií ponúkla pôvodné texty (predlohy), ktoré svojou originalitou spracovanej látky boli určujúce pre inscenačný tvar. Martinská *D1 (pracovný názov)* preniesla „nedivadelný“ príbeh do kvalitnej textovej  predlohy, cez spoločensky a politicky dlhoročný neuralgicky bod poukázala na hlbšie príčiny stavu Slovenska a „slovenskosti“. „Cesta v inscenácii *D1 (pracovný názov)* tak neznamená pohyb v priestore, ale aj čase alebo časom.“ Navyše, ironicko-folklorizujúci rámec bol vo vnútornom napätí s výtvarným riešením.\
@@ -82,4 +80,10 @@ Rožňavské divadlo Actores tento rok nedokázalo nadviazať na predošlú úsp
 V budúcnosti by sa azda slovenská divadelno-kritická obec mohla viac zamerať na kritické registre, ktoré by vo väčšej miere napomáhali objektivizovať hodnotenia špecifických divadelných skupín. Divadlo z Pasáže sa dlhoročnou prácou pokúša na tieto otázky odpovedať, „tým ako je na seba komunitne naviazaný, prirodzene pracuje so sebou samým, s vlastným prežívaným danej témy.“ Inscenácia *Lásky SHOCK* tak bola, teoreticky vzaté, objektom aj subjektom témy, predmetom aj výsledkom inscenácie. A to nie je málo.
 
 \
- **   Možno konštatovať, že kvalita inscenácií prihlásených v skupine Stred bola nevyvážená. Napriek tomu vznikli v minulej sezóne také, ktoré témami reagujú na aktuálnu súčasnosť, problémovosť a rozporuplnosť dnešného sveta. Najvýraznejšie, obsahovo a formálne, zarezonovali inscenácie *D1 (pracovný názov),* *Svetlonos* a *Čepiec*, čoho dôkazom sú ich účasti aj ocenenia na niekoľkých významných domácich a medzinárodných divadelných festivaloch. Týmto odporúča komisia udeliť „kovid nomináciu“ na Cenu Akadémie 2020/21.**
+  **  Možno konštatovať, že kvalita inscenácií prihlásených v skupine Stred bola nevyvážená. Napriek tomu vznikli v minulej sezóne také, ktoré témami reagujú na aktuálnu súčasnosť, problémovosť a rozporuplnosť dnešného sveta. Najvýraznejšie, obsahovo a formálne, zarezonovali inscenácie *D1 (pracovný názov),* *Svetlonos* a *Čepiec*, čoho dôkazom sú ich účasti aj ocenenia na niekoľkých významných domácich a medzinárodných divadelných festivaloch. Týmto odporúča komisia udeliť „kovid nomináciu“ na Cenu Akadémie 2020/21.**
+
+
+
+*Z čiastkových reflexií napísal Peter Himič.*
+
+*15. 10. 2021*
