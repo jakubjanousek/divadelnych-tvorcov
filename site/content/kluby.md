@@ -1,6 +1,21 @@
 ---
 title: Kluby
 ---
+**OZNAM ku 30. 9. 2021**
+
+**Momentálne v ADT pracujú 2 Kluby:**
+
+**Klub zriaďovaných / nezriaďovaných divadelníkov**\
+*diskusná platforma* \
+kontakt na zriaďovaných (ASDO)  Zuzana Hekel\
+kontakt na nezriaďovaných Jakub Nvota (predseda KND)\
+za Akadémiu Viki Janoušková (prezidentka ADT)
+
+**Klub teatrologicko - dramaturgický**\
+*diskusná platforma praktikov a teoretikov divadla*
+
+
+
 **BLAHOPRAJNÝ LIST PREZIDENTKY KU VZNIKU KND**
 
 Milí kolegovia,
@@ -25,8 +40,6 @@ A tak dovoľte už len na záver poďakovať Vám všetkým za ochotu riešiť 
 
 *Viki Janoušková, prezidentka Akadémie divadelných tvorcov*\
 *2. 9. 2021*
-
-
 
 **OZNAM:**
 
