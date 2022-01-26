@@ -1,11 +1,9 @@
 ---
 title: Kluby Akadémie divadelných tvorcov
 ---
-**OZNAM ku 30. 9. 2021**
-
 **Momentálne v ADT pracujú 2 Kluby:**
 
-**Klub zriaďovaných / nezriaďovaných divadelníkov**\
+**Diskusná platforma zriaďovaných / nezriaďovaných divadelníkov**\
 *diskusná platforma* \
 kontakt na zriaďovaných (ASDO)  Zuzana Hekel\
 kontakt na nezriaďovaných Jakub Nvota (predseda KND)\
