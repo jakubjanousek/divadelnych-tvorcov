@@ -1,5 +1,5 @@
 ---
-title: Kluby
+title: Kluby Akadémie divadelných tvorcov
 ---
 **OZNAM ku 30. 9. 2021**
 
