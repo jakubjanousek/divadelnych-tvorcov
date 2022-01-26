@@ -1,11 +1,9 @@
 ---
 title: Kluby Akadémie divadelných tvorcov
 ---
-**OZNAM ku 30. 9. 2021**
-
 **Momentálne v ADT pracujú 2 Kluby:**
 
-**Klub zriaďovaných / nezriaďovaných divadelníkov**\
+**Diskusná platforma zriaďovaných / nezriaďovaných divadelníkov**\
 *diskusná platforma* \
 kontakt na zriaďovaných (ASDO)  Zuzana Hekel\
 kontakt na nezriaďovaných Jakub Nvota (predseda KND)\
@@ -14,7 +12,14 @@ za Akadémiu Viki Janoušková (prezidentka ADT)
 **Klub teatrologicko - dramaturgický**\
 *diskusná platforma praktikov a teoretikov divadla*
 
+*História:*\
+**Klub nezávislých divadelníkov** sa koncom roku 2020 osamostatnil a vytvoril samostatné o. z. Klub nezávislých divadiel a má na rozdiel od Akadémie kolektívne členstvo. \
+Začiatkom tohto roka si predsedníctvo Klubu zvolilo svojho predsedu Jakuba Nvotu a  podpredsedníčku Veroniku Gabčíkovú. \
+Na spájanie sa nezávislých divadelníkov sme čakali dlho - a dočkali sme sa. Tešíme sa, že projekt Klubov Akadémie sa ujal a priniesol ďalšie svoje ovocie. Akadémia divadelných tvorcov želá KND veľa síl v ďalšej činnosti a verí, že naša spolupráca bude rovnako podnetná, ako doteraz.\
+**Zástupkyňou o. z. KND v Platforme pre kultúrny a kreatívny priemysel pri MK SR je Veronika Gabčíková.**
 
+**Klub zriaďovaných divadelníkov** pod vedením Romana Poláka, následne Zuzany Hekel sa rozhodol združiť riaditeľov zriaďovaných divadiel. Podarilo sa a títo sa dohovorili, že vstúpia do Asociácie divadiel a orchestrov (ASDO). Z Akadémie kontaktnou osobou na ASDO je Zuzana Hekel.\
+**Zástupcom ASDO v Platforme pre kultúrny a kreatívny priemysel pri MK SR je Jaroslav Dóczy.**
 
 **BLAHOPRAJNÝ LIST PREZIDENTKY KU VZNIKU KND**
 
@@ -40,11 +45,3 @@ A tak dovoľte už len na záver poďakovať Vám všetkým za ochotu riešiť 
 
 *Viki Janoušková, prezidentka Akadémie divadelných tvorcov*\
 *2. 9. 2021*
-
-**OZNAM:**
-
-Klub nezávislých divadelníkov sa koncom roku 2020 osamostatnil a vytvoril samostatné o. z. Klub nezávislých divadiel a má na rozdiel od Akadémie kolektívne členstvo. 
-
-Začiatkom tohto roka si predsedníctvo Klubu zvolilo svojho predsedu Jakuba Nvotu a  podpredsedníčku Veroniku Gabčíkovú. 
-
-Na spájanie sa nezávislých divadelníkov sme čakali dlho - a dočkali sme sa. Tešíme sa, že projekt Klubov Akadémie sa ujal a priniesol ďalšie svoje ovocie. Akadémia divadelných tvorcov želá KND veľa síl v ďalšej činnosti a verí, že naša spolupráca bude rovnako podnetná, ako doteraz.
