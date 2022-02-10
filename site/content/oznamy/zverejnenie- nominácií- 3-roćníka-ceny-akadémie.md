@@ -1,5 +1,5 @@
 ---
-title: ZVEREJNENIE  NOMINÁCIÍ  3. ROĆNÍKA CENY AKADÉMIE
+title: ZVEREJNENIE  NOMINÁCIÍ  3. ROČNÍKA CENY AKADÉMIE
 date: 2022-02-10T16:06:38.699Z
 intro: >-
   1. kolo Ceny Akadémie za divadelnú inscenáciu sezóny 2020/21 je ukončené. -
