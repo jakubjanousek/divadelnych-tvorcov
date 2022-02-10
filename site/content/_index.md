@@ -63,7 +63,7 @@ perex: >-
   30.4. **Milada** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - v SND
 
 
-  2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND
+  2.5. *Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND*
 
 
   Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.
