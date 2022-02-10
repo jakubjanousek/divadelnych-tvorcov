@@ -3,9 +3,9 @@ perex: >-
   *Pripravujeme:*
 
 
-  **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**
+  **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
 
-  *Bratislava, 2. apríl – 2. máj 2022
+  v *Bratislave, 2. apríl – 2. máj 2022
 
   v SND, Ticho a spol., A4, LAB VŠMU*
 
