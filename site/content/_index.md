@@ -1,88 +1,63 @@
 ---
 perex: >-
-  **ZVEREJNENIE  NOMINÁCIÍ  3. ROĆNÍKA CENY AKADÉMIE**
-
-
-  **1. kolo Ceny Akadémie za divadelnú inscenáciu sezóny 2020/21 je ukončené**
-
-
-  Tretí ročník projektu Ceny Akadémie za divadelnú inscenáciu sezóny 2020/2021, ktorý vyhlásila Akadémia divadelných tvorcov v októbri minulého roku a spustila v júni tohto roku, ukončil 1. kolo Ceny a vyhlásil nominácie.
-
-
-  Akadémia divadelných tvorcov sa rozhodla nazvať tohtoročné nominácie kovidovými a získalo ju **získalo desať inscenácií premiérovaných v danej sezóne** *(zoznam viď nižšie).*** ***(Pozn.: Akadémia dala v tomto ročníku výnimku a dovolila členom komisií v prípade nutnosti pozrieť inscenácie i zo záznamu, čo bežne nie je dovolené. V rámci 5 komisií bolo však až 7 inscenácií hodnotených výhradne zo záznamu, naživo ich nevidel ani jeden člen komisie. Na tieto skutočnosti považuje Akadémia za korektné upozorniť názvom - „kovidová nominácia“).*\
-
-  V  rámci úspešného 1. ročníka Ceny Akadémie 2018/19 bolo na Cenu nominovaných 14 inscenácií, Cenu získala inscenácia Ruských denníkov (SND, r. R. Polák). \
+  ***Pripravujeme:***\
 
   \
 
-   V 2. ročníku 2019/20 neboli nominácie ani Cena z pochopiteľných dôvodov vyhlásené vôbec, boli zverejnené hodnotenia inscenácií, ktoré komisie mohli v jednotlivých okruhoch vidieť a boli doplnené raritnými „zamysleniami“ členov komisií na tému kovid v divadle a divadlo v kovide.
+  **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE *2020/21***\
+
+  *Bratislava, 2. apríl – 2. máj 2022\
+
+  v SND, Ticho a spol., A4, LAB VŠMU*
 
 
-  V rámci aktuálneho 3. ročníka 2020/21 Akadémia zverejňuje okrem spomínaných kovidových nominácií aj 5 sumárnych hodnotení **všetkých prihlásených inscenácií** (v okruhoch východ, stred, západ a 2 bratislavské okruhy), ktoré **sa v budúcnosti stanú cenným materiálom pri reflexii doby, ktorú prežívame.** S hodnoteniami sa môže široká odborná verejnosť zoznámiť na stránke Akadémie: ***[www.adt-theatre.sk](http://www.adt-theatre.sk)***
+  Vážení kolegovia, priatelia divadla,
 
 
-  Viceprezident pre Cenu Ondrej Kaprálik sumarizuje: *„Do Ceny Akadémie 2020/21 bolo v tomto ročníku prihlásených 28 divadiel s 33 inscenáciami. Jedna z inscenácií nebola  hodnotená, išlo o obnovenú premiéru, ktorú štatút Ceny neberie ako plnohodnotné premiérované dielo.\
+  takúto prehliadku Slovensko ešte nezažilo...!\
 
-  Medzi nominovanými je 5 inscenácií zriaďovaných divadiel, 4 inscenácie nezriaďovaných a 1 spolupráca zriaďovaného a nezriaďovaného divadla.“*
+  Divadlá „zhŕňajú“ svoje peniaze a ako výraz spolupatričnosti oferujú ich na niečo, čo považujú za výraz spolupatričnosti a slávnosť spoločnej nádeje. A to jednak divadlá nominované a jednak tie, ktoré ich v Bratislave hostia...!\
 
-
-  Z príhovoru prezidentky Akadémie Viki Janouškovej:\
-
-  *"Štart 3. ročníka som uvádzala slovami: Priatelia, kolegovia, so začiatkom nového mesiaca a s nádejou na lepšie časy robíme odvážne kroky. Od 1. júna oficiálne spúšťame 3. ročník Ceny Akadémie a členovia komisií sa už pripravujú na cesty za živým divadlom! Teraz je dôležitejšie ako kedykoľvek predtým, aby sme spoločnou komunikáciou hľadali túto (rodiacu sa) podobu divadla a povzbudzovali sa vzájomne v jej hľadaní a kreovaní, aby sme prekračovali hranice bublín, v ktorých sme sa v minulosti pozatvárali, aby sme konečne začali tvoriť spoločný organizmus divadelníctva na Slovensku. Akadémia i jej projekt Ceny mali od začiatku práve tento cieľ, preto by bolo nekonzistentné, aby sme práve v tejto dobe na dialóg rezignovali. V tejto pre divadlo náročnej situácii rezignovať na projekt Ceny by som dokonca pociťovala ako neetické :)\
-
-  Dnes, k uzatvoreniu nominácií, k týmto slovám už len dodám: Vďaka ochote všetkých členov komisií i trpezlivosti organizačného backroundu sme nerezignovali a 1. kolo členovia Akadémie dotiahli do víťazného konca! A áno, sme si vedomí toho, že projektu Ceny možno poškodil tento „rozdrobovaný rytmus“ obidvoch ročníkov a najmä, že jej doba ubrala z jej nástupnej razancie. Ale ja osobne radšej obetujem trblietavosť a postavím sa, ak tu tá možnosť je, na stranu spolupatričnosti, nádeje... a konštruktívnosti! Preto som rada, že sme nerezignovali... - A podobne situáciu vyhodnotili všetci: viceprezident pre Cenu, Ondrej Kaprálik, prezídium, členovia komisií i divadlá.\
-
-  Ďakujem všetkým zúčastneným a blahoželám nominovaným! A verím, že na jar sa uvidíme v bratislavských divadlách spolu s nominovanými inscenáciami.. Ale to už prezrádzam z plánov...“*
+  Prehliadka chce byť podanou rukou všetkým, ktorí napriek ťažkostiam zostávajú slávnosti divadelného predstavenia verní. - Ďakujem, kolegovia.
 
 
-  Dôkazom, že divadlo sa nevzdáva, by mala byť aj **jedno mesačná prehliadka 10 nominovaných inscenácií**, ktorú by chcela Akadémia divadelných tvorcov  pripraviť na marec/apríl v spolupráci s nominovanými divadlami,  Divadlom P.O. Hviezdoslava, Slovenským národným divadlom, či Divadlom Ticho a spol., v rámci ktorej by ponúkli okrem možnosti vidieť inscenácie v Bratislave i diskusie s tvorcami a členmi komisií. O podrobnostiach Vás budeme informovať začiatkom roka 2022.
+  Priatelia, slávnosť divadla je tu však predovšetkým pre Vás, divákov. Pomôžte nám, prosím, dokonať naše úsilie a pozrite si paletu toho najinšpiratívnejšieho, čo 25 odborníkov vybralo a čo sa zrodilo v sezóne 2020/21. – Pozývame Vás na 10 predstavení divadiel z celého Slovenska...!
 
 
-  Veríme, že Akadémia divadelných tvorcov bude naďalej prítomná v slovenskom kontexte aj prinášaním aktuálnych a existenčne dôležitých tém do dialógu medzi divadelníkmi, tak ako to bolo v nemalej miere aj doteraz a veríme, že v budúcnosti sa jej podarí prísť znovu s uceleným ročníkom Ceny, v ktorom sa vráti k svojej počiatočnej razancii. 
+  Nedá mi, musím dodať: chceme veriť na druhej strane, že takáto slávnosť už nabudúce nebude musieť byť z posledných zdrojov aj inak ťažko skúšaných divadiel, chceme veriť, že príslušné inštitúcie pochopia, že divadelníci takéto stretnutia v rámci Ceny Akadémie naozaj potrebujú a chcú. Väčší dôkaz, ako táto prehliadka už snáď ani nemôže byť...!
 
 
-  ***Zoznam kovidových nominácií na Cenu Akadémie 2020/21***\
-
-  *(v rámci okruhov uvedené v abecednom poradí*)
+  Teším sa na predstavenia, teším sa na verdikt vrcholovej komisie a víťaza Ceny... Užime si, prosím, všetci, napriek všetkému, týchto desať predstavení v rámci celého mesiaca, po predstaveniach možnosť počuť názory tvorcov i odborníkov, i odborné diskusie. – Prajem príjemné zážitky!
 
 
-  *Okruh Východ*    \
+  Viki Janoušková, *prezidentka Akadémie divadelných tvorcov a koordinátorka prehliadky*\
 
-  ***Borodáč alebo Tri sestry*** – Činohra Štátneho divadla Košice *(r. J. Rázusová)*\
+  PROGRAM:\
 
-  ***Záhada zlatého kufríka** –* Bábkové divadlo Košice *(r. P. Uher)*
+  *2. 4. **Borodáč alebo Tri sestry***– Činohra Štátneho divadla Košice *(r. J. Rázusová) -* \
+         v SND\
+  8. 4. ***Čepiec*** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik) -* v SND\
 
+  *9. 4. **Svetlonos** -* Divadlo ODIVO, B. Bystrica *(r. M. Danadová, M. Kováčová, I.   Martinka) -* v TICHO a spol.\
 
-  *Okruh Stred*\
+  12. 4.** *Hriech / Její pastorkyňa* -** Činohra SND, Bratislava *(r. M. Bachynec)* \
 
-  ***Čepiec* -** Divadlo Jozefa Gregora Tajovského, Zvolen*(r. P. Palik)*\
+  19. 4. ***Dukla, údolie smrti*** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)* - \
+            v A4\
+  20. 4. ***Swing Heil!* -** Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* -          v LAB VŠMU\
 
-  ***D1 (pracovný názov)* -**  Slovenské komorné divadlo, Martin*(r. L. Brutovský) **    Svetlonos*** **\-** Divadlo ODIVO, B. Bystrica *(r. M. Danadová, M. Kováčová, I. Martinka)*
+  21. 4. ***D1 (pracovný názov)* -**  Slovenské komorné divadlo, Martin (r. L. Brutovský) -\
+            v SND\
+  24. 4. ***Druhá smrť Jany z Arcu*** - Nové divadlo, Nitra*(r. M. Geišberg)* - v Ticho a spol.\
 
+  30. 4. ***Milada -*** KADU a Činohra SND, Bratislava *(r. M. Bachynec) -* v SND\
 
-   *Okruh Západ*\
+  \
 
-  ***Druhá smrť Jany z Arcu*** - Nové divadlo, Nitra*(r. M. Geišberg)* \
+  *2. 5.   Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 -* \
+           v *Modrom salóne SND*
 
-  ***Swing Heil!* -** Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)*      
-
-
-  *Okruh Bratislava 1\
-
-  **Hriech/Její pastorkyňa -*** Činohra SND, Bratislava *(r. M. Bachynec)* \
-
-  ***Milada -*** KADU a Činohra SND, Bratislava *(r. M. Bachynec)*
-
-
-  *Okruh Bratislava 2* ***Dukla, údolie smrti*** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)* 
-
-
-  *Akadémia divadelných tvorcov*\
-
-  *V Bratislave dňa 4. 11. 2021*
-
-
-   *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
+  *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
