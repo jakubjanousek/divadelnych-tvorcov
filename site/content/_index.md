@@ -34,21 +34,21 @@ perex: >-
 
   PROGRAM:\
 
-  *2. 4. **Borodáč alebo Tri sestry***– Činohra Štátneho divadla Košice *(r. J. Rázusová) -* \
+  2. 4. **Borodáč alebo Tri sestry** – Činohra Štátneho divadla Košice *(r. J. Rázusová) -* \
          v SND\
   8. 4. ***Čepiec*** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik) -* v SND\
 
-  *9. 4. **Svetlonos** -* Divadlo ODIVO, B. Bystrica *(r. M. Danadová, M. Kováčová, I.   Martinka) -* v TICHO a spol.\
+  *9. 4. **Svetlonos** -* Divadlo ODIVO, B. Bystrica *(r. M. Danadová, M. Kováčová, I.     Martinka) -* v TICHO a spol.\
 
   12. 4.** *Hriech / Její pastorkyňa* -** Činohra SND, Bratislava *(r. M. Bachynec)* \
 
   19. 4. ***Dukla, údolie smrti*** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)* - \
-            v A4\
-  20. 4. ***Swing Heil!* -** Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* -          v LAB VŠMU\
+          v A4\
+  20. 4. ***Swing Heil!* -** Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* -           v LAB VŠMU\
 
   21. 4. ***D1 (pracovný názov)* -**  Slovenské komorné divadlo, Martin (r. L. Brutovský) -\
-            v SND\
-  24. 4. ***Druhá smrť Jany z Arcu*** - Nové divadlo, Nitra*(r. M. Geišberg)* - v Ticho a spol.\
+         v SND\
+  24. 4. ***Druhá smrť Jany z Arcu*** - Nové divadlo, Nitra *(r. M. Geišberg)* - v Ticho a spol.\
 
   30. 4. ***Milada -*** KADU a Činohra SND, Bratislava *(r. M. Bachynec) -* v SND\
 
