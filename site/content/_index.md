@@ -7,7 +7,7 @@ perex: >-
 
   v *Bratislave, 2. apríl – 2. máj 2022
 
-  v spolupráci a v divadlách SND, Ticho a spol., A4, LAB VŠMU*
+  v spolupráci s divadlami SND, Ticho a spol., A4, LAB VŠMU*
 
 
   Vážení kolegovia, priatelia divadla,
