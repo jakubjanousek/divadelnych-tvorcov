@@ -66,7 +66,7 @@ perex: >-
   2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND
 
 
-  Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.
+  *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
