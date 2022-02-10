@@ -36,28 +36,37 @@ perex: >-
   PROGRAM:
 
 
-  2. 4. Borodáč alebo Tri sestry – Činohra Štátneho divadla Košice *(r. J. Rázusová) - v SND
-
-  8. 4. Čepiec - Divadlo Jozefa Gregora Tajovského, Zvolen (r. P. Palik) - v SND
-
-  9. 4. Svetlonos - Divadlo ODIVO, B. Bystrica (r. M. Danadová, M. Kováčová, I.Martinka) - v TICHO a spol.
-
-  12. 4. Hriech / Její pastorkyňa - Činohra SND, Bratislava (r. M. Bachynec)
-
-  19. 4. Dukla, údolie smrti - Dezorzovo lútkové divadlo, Bratislava (r. G. Dezorz)- v A4
-
-  20. 4. Swing Heil! - Divadlo Pôtoň a Horácke divadlo, Jihlava (r. I. Ditte Jurčová) - v LAB VŠMU
-
-  21. 4. D1 (pracovný názov) - Slovenské komorné divadlo, Martin (r. L. Brutovský) - v SND
-
-  24. 4. Druhá smrť Jany z Arcu - Nové divadlo, Nitra (r. M. Geišberg) - v Ticho a spol.
-
-  30. 4. Milada - KADU a Činohra SND, Bratislava (r. M. Bachynec) - v SND
-
-  2. 5.   Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND
+  Borodáč alebo Tri sestry – Činohra Štátneho divadla Košice (r. J. Rázusová) - v SND
 
 
-  *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
+  Čepiec - Divadlo Jozefa Gregora Tajovského, Zvolen (r. P. Palik) - v SND
+
+
+  Svetlonos - Divadlo ODIVO, B. Bystrica (r. M. Danadová, M. Kováčová, I.Martinka) - v TICHO a spol.
+
+
+  Hriech / Její pastorkyňa - Činohra SND, Bratislava (r. M. Bachynec)
+
+
+  Dukla, údolie smrti - Dezorzovo lútkové divadlo, Bratislava (r. G. Dezorz)- v A4
+
+
+  Swing Heil! - Divadlo Pôtoň a Horácke divadlo, Jihlava (r. I. Ditte Jurčová) - v LAB VŠMU
+
+
+  D1 (pracovný názov) - Slovenské komorné divadlo, Martin (r. L. Brutovský) - v SND
+
+
+  Druhá smrť Jany z Arcu - Nové divadlo, Nitra (r. M. Geišberg) - v Ticho a spol.
+
+
+  Milada - KADU a Činohra SND, Bratislava (r. M. Bachynec) - v SND
+
+
+  Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND
+
+
+  Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
