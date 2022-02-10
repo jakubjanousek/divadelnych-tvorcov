@@ -1,6 +1,6 @@
 ---
 perex: >-
-  Pripravujeme:
+  *Pripravujeme:*
 
 
   **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**
@@ -13,8 +13,7 @@ perex: >-
   Vážení kolegovia, priatelia divadla,
 
 
-  takúto prehliadku Slovensko ešte nezažilo...!
-
+  takúto prehliadku Slovensko ešte nezažilo...!\
 
   Divadlá „zhŕňajú“ svoje peniaze a ako výraz spolupatričnosti oferujú ich na niečo, čo považujú za výraz spolupatričnosti a slávnosť spoločnej nádeje. A to jednak divadlá nominované a jednak tie, ktoré ich v Bratislave hostia...!
 
@@ -30,7 +29,7 @@ perex: >-
   Teším sa na predstavenia, teším sa na verdikt vrcholovej komisie a víťaza Ceny... Užime si, prosím, všetci, napriek všetkému, týchto desať predstavení v rámci celého mesiaca, po predstaveniach možnosť počuť názory tvorcov i odborníkov, i odborné diskusie. – Prajem príjemné zážitky!
 
 
-  Viki Janoušková, prezidentka Akadémie divadelných tvorcov 
+  *Viki Janoušková, prezidentka Akadémie divadelných tvorcov* 
 
 
   **PROGRAM:**
