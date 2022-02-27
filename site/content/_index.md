@@ -34,7 +34,7 @@ perex: >-
   21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - v SND
 
 
-  24.4. **Druhá smrť Jany z Arcu** - Nové divadlo, Nitra *(r. M. Geišberg)* - v Ticho a spol.
+  24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - v Ticho a spol.
 
 
   30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - v SND
