@@ -13,7 +13,7 @@ perex: >-
   **PROGRAM:**
 
 
-  2.4. **Borodáč alebo Tri sestry** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* - v SND
+  2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* - v SND
 
 
   8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - v SND
