@@ -1,5 +1,5 @@
 ---
-title: "PREHLIADKA: 24. 4. 2022  Druhá smrť Jany z Arcu (19.00 Ticho a spol.)"
+title: 24. 4. 2022  Druhá smrť Jany z Arcu (19.00 Ticho a spol.)
 date: 2022-02-27T23:05:23.727Z
 intro: Prehliadka inscenácií nominovaných na Cenu Akadémie 2020/21 - Bratislava
   2. 4. - 2. 5. 2022. - Inscenáciu Druhá smrť Jany z Arcu Nového divadla z Nitry
