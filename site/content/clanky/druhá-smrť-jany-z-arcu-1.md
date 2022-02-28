@@ -7,7 +7,7 @@ intro: >-
   Inscenáciu môžete vidieť  o 19:00 v Ticho a spol. v rámci Prehliadky inscenácií nominovaných na Cenu Akadémie 2020/21 - Bratislava 2. 4. - 2. 5. 2022. 
 featured_img: img/druhá-smrť-jany-z-arcu-nové-divadlo.jpg
 ---
-*Foto:* 
+*Foto:* *Collavino*
 
 ***Tragikomédia o tom, čo plánoval Boh so svojím synom Ježišom, Janou z Arcu a katom. Pre divákov od 15 rokov.***
 
