@@ -1,6 +1,6 @@
 ---
 title: 8. 4. ČEPIEC
-date: 2022-02-28T22:58:00.000Z
+date: 2022-02-28T11:43:09.901Z
 intro: Inscenácia DJGT, 8.4.2022 o 19:00 v SND
 featured_img: img/cepiec_djgt-zvolen_foto-vanda-mesiarikova-okruh-stred-1-.jpg
 ---
