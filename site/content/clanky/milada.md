@@ -1,5 +1,5 @@
 ---
-title: MILADA
+title: 30. 4. MILADA
 date: 2022-02-27T22:44:10.312Z
 intro: Inscenácia KADU, 30.4.2022 o 19:00 v Modrom salóne SND
 featured_img: img/milada-kadu.jpg
@@ -8,30 +8,19 @@ V autorskej dokudráme [Milada](http://kadu.sk/produkcie/milada/) (r. M. Bach
 
 Inscenačný tím
 
-Réžia: Matúš Bachynec
-
-Dramaturgia: Alexandra Rychtarčíková, Daniel Majling
-
-Scéna: Barbora Šajgalíková
-
-Kostýmy: Ján Husár
-
-Hudba: Andrea Bučkov
-
-Producent: Marta Šuleková
-
+Réžia: Matúš Bachynec\
+Dramaturgia: Alexandra Rychtarčíková, Daniel Majling\
+Scéna: Barbora Šajgalíková\
+Kostýmy: Ján Husár\
+Hudba: Andrea Bučkov\
+Producent: Marta Šuleková\
 Svetelný dizajn: Ján Ptačin
 
 Obsadenie
 
-Milada: Vladena Škorvagová
-
-Dcéra: Petra Dubayová
-
-Otec: Vladimír Obšil
-
-Sestra: Andrea Bučková
-
-Švagor: Cyril Žolnír
-
+Milada: Vladena Škorvagová\
+Dcéra: Petra Dubayová\
+Otec: Vladimír Obšil\
+Sestra: Andrea Bučková\
+Švagor: Cyril Žolnír\
 Svokra: Anna Maľová
