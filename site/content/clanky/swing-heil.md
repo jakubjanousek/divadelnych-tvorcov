@@ -1,6 +1,6 @@
 ---
 title: 22. 4. SWING HEIL!
-date: 2022-02-28T13:06:32.831Z
+date: 2022-02-28T13:07:38.576Z
 intro: Inscenácia Divadla Pôtoň, 22.4.2022 v Divadle LAB VŠMU
 featured_img: img/divadlo-poton-swing-heil-lubos-dobias-okruh-západ-1-.jpg
 ---
