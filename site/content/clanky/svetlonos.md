@@ -1,6 +1,6 @@
 ---
 title: 9. 4. SVETLONOS
-date: 2022-02-28T13:13:50.793Z
+date: 2022-02-28T13:25:49.932Z
 intro: Inscenácia Divadla Odivo, 9.4.2022 o 19:00 v Ticho a spol.
 featured_img: img/svetlonos-odivo-foto-katarina-baranyai-okruh-stred.jpg
 ---
