@@ -1,5 +1,5 @@
 ---
-title: "24. 4. 2022  Druhá smrť Jany z Arcu "
+title: "24. 4. Druhá smrť Jany z Arcu "
 date: 2022-02-26T23:05:23.727Z
 intro: >-
   24. 4. 2022  Druhá smrť Jany z Arcu, Nové divadlo z Nitry. - 
