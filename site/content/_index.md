@@ -28,10 +28,10 @@ perex: >-
   19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- v A4
 
 
-  20.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v LAB VŠMU
-
-
   21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - v SND
+
+
+  22.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v LAB VŠMU
 
 
   24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - v Ticho a spol.
