@@ -1,11 +1,11 @@
 ---
 title: 2. 4. BORODÁČ ALEBO TRI SESTRY
-date: 2022-02-28T12:59:57.708Z
+date: 2022-02-28T13:16:55.469Z
 intro: Inscenácia Činohry SDKE, 2.4.2022 o 19:00 v SND
 featured_img: img/borodac-sdkosice-foto-jan-štovka-okruh-východ.jpg
 ---
 „Ak necháme zaúradovať svoju zvedavosť a začneme pozerať, i keď s opatrnosťou, toto [dielo](https://www.sdke.sk/sk/cinohra/karol-horak-michal-ditte-michal-balaz-borodac-alebo-tri-sestry), hneď od začiatku nás pomaličky, ale jasne začne pohlcovať. Stáva sa pastvou pre oči i dušu. V dnešnom modernom svete, kde divadelnosť prestáva byť divadelnosťou, nám Borodáč ukazuje, prečo je tak „vynášaný do výšin“. Táto inscenácia je dokonalou poctou tejto osobnosti slovenského divadla.“\
-*z hodnotenia komisie*\
+*z hodnotenia komisie okruhu Východ*\
 *viac: https://www.adt-theatre.sk/clanky/cena-akademie-2020-21-okruh-vychod/*
 
 Réžia: Júlia Rázusová\
