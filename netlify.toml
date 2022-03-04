@@ -4,6 +4,7 @@
 [build.environment]
   YARN_VERSION = "1.9.4"
   HUGO_VERSION = "0.77.4"
+  NODE_VERSION = "16.13.0"
 
 [context.deploy-preview]
   command = "yarn build-preview"
