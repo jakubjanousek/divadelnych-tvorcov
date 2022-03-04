@@ -1,0 +1,12 @@
+<img
+  src="https://adt-theatre.sk/{{ .Destination | safeURL }}?nf_resize=fit&w=1065&h=750"
+  alt="{{ .Text }}"
+  style="margin: auto"
+  {{
+  with
+  .Title}}
+  title="{{ . }}"
+  {{
+  end
+  }}
+/>
