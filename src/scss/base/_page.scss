@@ -36,9 +36,28 @@ main {
 
 @mixin create-background($number, $color) {
   .randomize--#{$number} {
+    .logo {
+      border-color: mix(#000, $color, 90);
+      &:after,
+      &:before {
+        background: mix(#000, $color, 90);
+      }
+    }
+
+    a {
+      &:focus,
+      &:hover,
+      &:active {
+        &:after {
+          color: mix(#000, $color, 90);
+        }
+      }
+    }
+    color: mix(#000, $color, 90);
     &,
     .menu,
     header {
+      color: mix(#000, $color, 80);
       background: mix(#fff, $color, 90);
     }
     body {
