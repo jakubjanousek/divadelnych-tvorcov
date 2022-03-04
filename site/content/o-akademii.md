@@ -3,11 +3,11 @@ title: O akadémii
 ---
 **Motto: Častokrát sa vídame, no málo vieme o svojich názoroch. (V. J.)**
 
-_Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať._
+*Hodnotové i odborné kritériá v našom divadelnom spoločenstve vykazujú v súčasnej dobe značnú rozkolísanosť a neexistuje divadelná platforma, z ktorej by sa dali zosúlaďovať a nastavovať. Je niekoľko uzlových bodov, kde sa v komunite sporadicky prejaví názorový diskurz o súčasnej slovenskej divadelnej tvorbe: Ocenenia DOSKY, Ceny a Prémie Litfond-u a Festival Dotyky a spojenia v Martine, no možnosť vedenia kontinuálneho dialógu alebo dokonca okamžitého reagovania na aktuálne témy, či nezrovnalosti spoločenského a odborného vývoja, komunita divadelníkov postráda. A tak Akadémiu divadelných tvorcov zakladáme ako verejnoprospešnú záujmovú organizáciu, ktorá združuje významné osobnosti slovenskej divadelnej kultúry a ktorá by diskusie mohla iniciovať.*
 
-**Akadémia divadelných tvorcov** _má v úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať._
+**Akadémia divadelných tvorcov** *má v úmysle (vy)tvoriť skupinu akceptovaných divadelných osobností ochotných sa diskusie aktívne zúčastňovať.*
 
-_Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny Akadémie za divadelnú inscenáciu sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v danej sezóne a následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v Bratislave**._
+*Tento svoj úmysel chce začať odvíjať od založenia každoročnej celoštátnej **Ceny Akadémie za divadelnú inscenáciu sezóny**, ktorá by zohľadňovala tvorbu všetkých divadiel na Slovensku, zmapovala ju v danej sezóne a následne tieto inšpiratívne inscenácie predstavila **organizovaním viacmesačnej prehliadky v Bratislave**.*
 
 **Cieľom Akadémie teda je:**
 
@@ -27,7 +27,7 @@ ktorí budú ochotní aktívne sa zúčastňovať na diskusii o aktuálnych tém
 
 Vedúcim orgánom Akadémie bude Prezídium v prvých dvoch rokoch volené zo zakladajúcich členov a následne volené každé 2 roky Valným zhromaždením.
 
-## II./ Hlavnou náplňou Akadémie je konštituovať a každoročne organizovať Cenu Akadémie za divadelnú inscenáciu sezóny _(ďalej Cena)_.
+## II./ Hlavnou náplňou Akadémie je konštituovať a každoročne organizovať Cenu Akadémie za divadelnú inscenáciu sezóny *(ďalej Cena)*.
 
 V prvých dvoch rokoch pôjde o činoherné inscenácie /inscenácie blízke činohre a v nasledujúcich sezónach sa postupne pridajú i ďalšie kategórie, ktoré určí Akadémia v priebehu prvého súťažného roka.
 
@@ -46,15 +46,15 @@ Postupujúce inscenácie vzhliadne vrcholová komisia a určí konečného drž
 * Vyhlásenie víťaznej inscenácie bude v decembri 2019.
 * Zároveň od septembra 2019 sa začína nový výberový ročník sezóny 2019/20.
 
-_Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané dva Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania i kritérií divadelníctva, predovšetkým prostredníctvom reflexie tvorby v danej sezóne - Cena Akadémie._
+*Členovia Akadémie divadelných tvorcov veria, že táto iniciatíva prinesie i iné možné „bonusy“, no základne sa chce orientovať na dané dva Projekty, a to: Vznik etalónu divadelných osobností, ktoré sú ochotné podieľať sa na formovaní diania i kritérií divadelníctva, predovšetkým prostredníctvom reflexie tvorby v danej sezóne - Cena Akadémie.*
 
-_Členovia Akadémie divadelných tvorcov veria, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje._
+*Členovia Akadémie divadelných tvorcov veria, že takáto systematická práca a mapovanie výrazným spôsobom podporia snahu o kryštalizáciu hodnôt i odborných kritérií v divadelníctve, dopomôže k reálnemu zachyteniu obrazu a následne ovplyvní i prostredie, v ktorom sa divadlo pohybuje.*
 
 **Zakladajúci členovia Akadémie:**
 Mgr. art. Ľubomír Bukový, ArtD., Mgr. art. Iveta Ditte Jurčová, Mgr. art. Michal Ditte, Mgr. Dária Fojtíková Fehérová, PhD., MgA. Marek Godovič, prof. Ida Hledíková, PhD., MgA. Viki Janoušková, PhDr. Elena Knopová, PhD., Dana Košická, Mgr. art. Monika Kováčová, doc. Zuzana Kronerová, Mgr. Tatiana Masníková, Mgr. art. Lucia Mihálová, Mgr. Michaela Mojžišová, Ing. Matúš Petričko, PhD., prof. Roman Polák, PhDr. Miron Pukan, PhD. a prof. PhDr. Vladimír Štefko, CSc.
 \
 **Čestná členka:** Mgr. art. Viera Dubačová. 
 
-**Autorka projektu a autorský tím Akadémie divadelných tvorcov:** _MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák._
+**Autorka projektu a autorský tím Akadémie divadelných tvorcov:** *MgA. Viktória Janoušková & PhDr. Elena Knopová, PhD., Mgr. art. Viera Dubačová, prof. Ida Hledíková PhD., Mgr. art. Iva Jurčová, Mgr. art. Michal Ditte, prof. Mgr.art. Roman Polák.*
 
-_**Spolupráca:** Mgr. Katarína Mádelová_
+**Spolupráca:** *Mgr. Katarína Mádelová*
