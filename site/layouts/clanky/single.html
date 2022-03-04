@@ -1,20 +1,19 @@
 {{ define "main" }}
 <div class="row justify-content-center">
-    <div class="col-lg-10">
-        <div class="single article">
-            {{ with .Params.featured_img }}
-                <div class="img-holder article__featured-img">
-                    <img class="" src="{{ . }}?nf_resize=fit&w=920&h=500">
-                </div>
-            {{ end }}
-            <div class="article__content">
-                {{ .Date.Format "02.01.2006" }}
-                <h1 class="article__title">{{ .Title }}</h1>
-                <p class="single__intro">{{ .Params.intro }}</p>
-                {{ .Content }}
-            </div>
-        </div>
+  <div class="col-lg-10">
+    <div class="single article">
+      {{ with .Params.featured_img }}
+      <div class="img-holder article__featured-img">
+        <img class="" src="/{{ . }}?nf_resize=fit&w=920&h=500" />
+      </div>
+      {{ end }}
+      <div class="article__content">
+        {{ .Date.Format "02.01.2006" }}
+        <h1 class="article__title">{{ .Title }}</h1>
+        <p class="single__intro">{{ .Params.intro }}</p>
+        {{ .Content }}
+      </div>
     </div>
+  </div>
 </div>
 {{ end }}
-

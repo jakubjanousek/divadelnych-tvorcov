@@ -14,10 +14,13 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "babel-core": "^6.26.3",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/core": "^7.1.2",
     "babel-eslint": "^8.0.0",
-    "babel-loader": "^7.0.0",
-    "babel-plugin-syntax-object-rest-spread": "^6.13.0",
+    "babel-loader": "^8.0.4",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-syntax-object-rest-spread": "^7.0.0",
+    "@babel/register": "^7.0.0",
     "babel-plugin-transform-class-properties": "^6.10.2",
     "babel-plugin-transform-object-assign": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
@@ -38,7 +41,7 @@
     "gulp-babel": "^7.0.0",
     "gulp-clean-css": "^3.10.0",
     "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.1",
+    "gulp-sass": "^5.1.0",
     "gulp-util": "^3.0.7",
     "imports-loader": "^0.8.0",
     "netlify-cms": "^2.0.9",
@@ -47,15 +50,21 @@
     "postcss-loader": "^3.0.0",
     "postcss-uncss": "^0.16.0",
     "react": "16.4.2",
+    "sass": "^1.49.9",
     "uncss": "^0.16.0",
-    "url-loader": "^1.0.0",
-    "webpack": "^3.0.0",
+    "url-loader": "^1.1.2",
+    "webpack": "4.23.1",
     "whatwg-fetch": "^2.0.0"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.9",
+    "natives": "1.1.6"
   },
   "devDependencies": {
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "hugo-bin": "0.77.4",
     "natives": "^1.1.6",
     "svg-sprite-loader": "^3.0.0"
   }
