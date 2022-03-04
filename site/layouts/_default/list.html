@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="row">
-    {{ range (where .Data.Pages "Type" "oznamy") }}
+    {{ range .Pages }}
     <div class="col-md-6 col-lg-4 mb-2">
         {{ partial "news-teaser" . }}
     </div>

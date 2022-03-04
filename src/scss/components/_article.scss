@@ -47,3 +47,11 @@
     text-align: left;
   }
 }
+
+.article-list {
+  display: flex;
+  justify-content: center;
+  &__row {
+    max-width: 1200px;
+  }
+}

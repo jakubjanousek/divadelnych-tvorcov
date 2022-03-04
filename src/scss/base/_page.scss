@@ -36,6 +36,14 @@ main {
 
 @mixin create-background($number, $color) {
   .randomize--#{$number} {
+    &,
+    .menu,
+    header {
+      background: mix(#fff, $color, 90);
+    }
+    body {
+      color: mix(#fff, $color, 88);
+    }
     main {
       background: $color;
     }

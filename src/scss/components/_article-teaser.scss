@@ -14,6 +14,12 @@
 
   &__image {
     position: relative;
+    padding-bottom: 75%;
+    // background: rgba(0, 0, 0, 0.5);
+
+    > * {
+      position: absolute;
+    }
   }
 
   &__image--placeholder {

@@ -1,9 +1,6 @@
 <h3>Oznamy</h3>
 <div class="row mb-2 justify-content-center">
-    {{ range first 2 (where .Data.Pages "Type" "oznamy") }}
-    <div class="col-md-6 col-lg-4 mb-2">
-        {{ partial "news-teaser" . }}
-    </div>
-    {{ end }}
+  {{ range first 2 (where .Site.Pages "Type" "oznamy") }}
+  <div class="col-md-6 col-lg-4 mb-2">{{ partial "news-teaser" . }}</div>
+  {{ end }}
 </div>
-

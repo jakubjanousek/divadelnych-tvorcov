@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="article-list">
+    <div class="row article-list__row">
+        {{ range .Pages }}
+        <div class="col-md-6 col-lg-4 mb-2">
+            {{ partial "article-teaser" . }}
+        </div>
+        {{ end }}
+    </div>
+</div>
+</div>
+{{ end }}
+
