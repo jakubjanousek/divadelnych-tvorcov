@@ -19,7 +19,7 @@ perex: >-
   8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - v SND
 
 
-  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - Divadlo ODIVO, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* - v TICHO a spol.
+  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - Divadlo ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* - v TICHO a spol.
 
 
   12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*
