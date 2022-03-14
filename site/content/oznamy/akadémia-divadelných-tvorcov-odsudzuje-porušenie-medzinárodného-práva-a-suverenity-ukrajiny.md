@@ -1,7 +1,7 @@
 ---
 title: "Akadémia divadelných tvorcov odsudzuje porušenie medzinárodného práva a
   suverenity Ukrajiny "
-date: 2022-03-01T12:33:39.253Z
+date: 2022-03-14T12:35:30.141Z
 intro: Akadémia divadelných tvorcov odsudzuje porušenie medzinárodného práva a
   suverenity Ukrajiny a vyzýva k zastaveniu vojenských aktivít zo strany Ruska.
   Vyjadrujeme plnú podporu ukrajinským kolegom a kolegyniam a všetkým občanom
