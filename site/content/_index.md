@@ -68,7 +68,17 @@ perex: >-
   *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 
 
-  *Mediálny partner Prehliadky - Rádio Devín.*
+  *Prehliadka sa uskutoční v spolupráci s divadlami:**SND Ticho, A4, Lab VŠMU*\
+
+  *ŠDKE Košice, DJGT Zvolen, Odivo Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*
+
+
+  *Prehliadka sa koná pod záštitou primátor mesta Bratislavy.*
+
+
+  *Prehliadku podporili: BKiS a Magistrát hl. mesta SR Bratislavy.*\
+
+  *Mediálny partner Prehliadky: Rádio Devín.*
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
