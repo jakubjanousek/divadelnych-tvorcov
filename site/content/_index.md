@@ -5,9 +5,12 @@ perex: >-
 
   **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
 
-  v *Bratislave, 2. apríl – 2. máj 2022
+  v *Bratislave, 2. apríl – 2. máj 2022*\
 
-  v spolupráci s divadlami SND, Ticho a spol., A4, LAB VŠMU*
+
+  *v spolupráci s divadlami SND, Ticho a spol., A4, LAB VŠMU*\
+
+  a *pod záštitou primátora mesta Bratislavy Matúša Valla.*
 
 
   **PROGRAM:**
@@ -68,12 +71,12 @@ perex: >-
   *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 
 
-  *Prehliadka sa uskutoční v spolupráci s divadlami:**SND Ticho, A4, Lab VŠMU*\
+  *Prehliadka sa uskutoční v spolupráci s divadlami:\*\*SND Ticho, A4, Lab VŠMU*\
 
   *ŠDKE Košice, DJGT Zvolen, Odivo Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*
 
 
-  *Prehliadka sa koná pod záštitou primátor mesta Bratislavy.*
+  *Prehliadka sa koná pod záštitou primátora mesta Bratislavy Matúša Valla.*
 
 
   *Prehliadku podporili: BKiS a Magistrát hl. mesta SR Bratislavy.*\
