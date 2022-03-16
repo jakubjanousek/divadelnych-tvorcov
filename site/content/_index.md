@@ -13,6 +13,9 @@ perex: >-
   a *pod záštitou primátora mesta Bratislavy Matúša Valla.*
 
 
+  *Po predstaveniach sa uskutočnia diskusie s tvorcami a zástupcami komisií 1. kola Ceny.*
+
+
   **PROGRAM:**
 
 
