@@ -24,7 +24,7 @@ perex: >-
   8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - v SND
 
 
-  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - Divadlo ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* - v TICHO a spol.
+  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* - v TICHO a spol.
 
 
   12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*
@@ -73,9 +73,9 @@ perex: >-
   *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 
 
-  *Prehliadka sa uskutoční v spolupráci s divadlami: SND Ticho, A4, Lab VŠMU*\
+  *Prehliadka sa uskutoční v spolupráci s divadlami: SND, Ticho a spol., A4, Lab VŠMU*\
 
-  *ŠDKE Košice, DJGT Zvolen, Odivo Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*
+  *ŠDKE Košice, DJGT Zvolen, Odivo a I. Martinka Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*
 
 
   *Prehliadku podporili: BKiS a Magistrát hl. mesta SR Bratislavy.*\
