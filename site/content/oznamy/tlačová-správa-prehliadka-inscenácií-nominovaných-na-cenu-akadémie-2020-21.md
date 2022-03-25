@@ -46,4 +46,6 @@ Sme Vám k dispozícii na mailoch: [akademia@adt-theatre.sk](mailto:akademia@adt
 Ďalšie kontakty: Viki Janoušková 0903283442, resp. Janka Zednikovičová 0910404144.
 
 Dovoľte ešte na záver Tlačovej správy pripojiť nasledujúce vyhlásenie:\
-***Akadémia divadelných tvorcov a divadlá zúčastňujúce sa na Prehliadke** odsudzujú porušenie medzinárodného práva a suverenity Ukrajiny a vyzývajú k zastaveniu vojenských aktivít zo strany Ruska. Vyjadrujeme plnú podporu ukrajinským kolegom a kolegyniam a všetkým občanom Ukrajiny.*[](<>)
+**\*Akadémia divadelných tvorcov a divadlá zúčastňujúce sa na Prehliadke** odsudzujú porušenie medzinárodného práva a suverenity Ukrajiny a vyzývajú k zastaveniu vojenských aktivít zo strany Ruska. Vyjadrujeme plnú podporu ukrajinským kolegom a kolegyniam a všetkým občanom Ukrajiny.
+
+*V Bratislave dňa 21. 3. 2022*[](<>)
