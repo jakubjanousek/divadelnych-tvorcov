@@ -6,7 +6,7 @@ intro: >-
 
   v spolupráci so SND, Ticho a spol., A4, LAB VŠMU
 
-  a pod záštitou primátora hlavného mesta Bratislavy Matúša Valla
+  a pod záštitou primátora hlavného mesta Bratislavy Matúša Valla.
 
 
   Motto Prehliadky:
