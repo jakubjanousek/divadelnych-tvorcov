@@ -55,7 +55,7 @@ perex: >-
   19,00 SND
 
 
-  ***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21  18,00 Modrý salón SND***
+  ***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21   - 18,00 Modrý salón SND***
 
 
   Vážení kolegovia, priatelia divadla,
