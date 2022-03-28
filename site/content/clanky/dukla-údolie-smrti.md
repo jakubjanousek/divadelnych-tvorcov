@@ -1,6 +1,6 @@
 ---
 title: 19. 4. DUKLA, ÚDOLIE SMRTI
-date: 2022-02-28T13:24:06.325Z
+date: 2022-03-28T20:47:12.325Z
 intro: Inscenácia Dezorzovho lútkového divadla, 19.4.2022 o 19:00 v A4
 featured_img: img/dukla-udolie-smrti_ld-g.-dezorza-archiv_-okruh-ba-2.jpg
 ---
@@ -14,3 +14,5 @@ Scénografia Von Dubravay \
 Hudba M. Hasák \
 Svetelný Dizajn G. Dezorz\
 Kamera G. Dezorz, I. Krempaský.
+
+Viac TU: https://a4.sk/events/2022/03/27/dezorzovo-lutkove-divadlo-dukla-udolie-smrti-6/
