@@ -23,3 +23,5 @@ Réžia: Lukáš Brutovský
 Osoby a obsadenie:
 
 Obsadenie: Barbora Palčíková / Alena Pajtinková / Tomáš Mischura / Matej Babej / Daniel Žulčák / Nadežda Vladařová / Matej Urban / Marián Frkáň
+
+Viac TU: https://www.skdmartin.sk/repertoar?id=217
