@@ -1,6 +1,6 @@
 ---
 title: 2. 4. BORODÁČ ALEBO TRI SESTRY
-date: 2022-02-28T13:27:25.498Z
+date: 2022-03-28T20:53:59.497Z
 intro: Inscenácia Činohry SDKE, 2.4.2022 o 19:00 v SND
 featured_img: img/borodac-sdkosice-foto-jan-štovka-okruh-východ.jpg
 ---
@@ -26,3 +26,5 @@ Nataša, Marie Laudová, Matka, Herečka: Ľuba Blaškovičová\
 Veršinin, Herec, Albert Pražák, Antonín Drašar, Gašpar Arbet: Jakub Kuka\
 Tuzenbach, Jaroslav Kvapil, Herec, Lekár, Recepčný, Vrátnik, Stanislavskij: Juraj Zetyák\
 Andrej, Jaroslav Hurt, Otakar Novák, Herec, Ján Jamnický:	Tomáš Diro
+
+Viac TU: https://www.sdke.sk/sk/cinohra/karol-horak-michal-ditte-michal-balaz-borodac-alebo-tri-sestry
