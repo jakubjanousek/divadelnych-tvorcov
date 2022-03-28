@@ -18,34 +18,44 @@ perex: >-
   **PROGRAM:**
 
 
-  2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* - v SND
+  2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* -  19,00 SND
 
 
-  8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - v SND
+  8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - \
+
+  19,00 SND
 
 
-  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* - v TICHO a spol.
+  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* \
+
+  19,00 TICHO a spol.
 
 
-  12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*
+  12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*\
+
+  19,00 SND
 
 
-  19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- v A4
+  19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- 19,00 A4
 
 
-  21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - v SND
+  21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - 18,00 SND
 
 
-  22.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v LAB VŠMU
+  22.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v 19,00 LAB VŠMU
 
 
-  24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - v Ticho a spol.
+  24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - \
+
+  19,00 Ticho a spol.
 
 
-  30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - v SND
+  30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - \
+
+  19,00 SND
 
 
-  ***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21 - v Modrom salóne SND***
+  ***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21  18,00 Modrý salón SND***
 
 
   Vážení kolegovia, priatelia divadla,
