@@ -1,6 +1,6 @@
 ---
 title: 8. 4. ČEPIEC
-date: 2022-02-28T13:26:32.251Z
+date: 2022-03-28T20:52:35.026Z
 intro: Inscenácia DJGT, 8.4.2022 o 19:00 v SND
 featured_img: img/cepiec_djgt-zvolen_foto-vanda-mesiarikova-okruh-stred-1-.jpg
 ---
@@ -32,3 +32,5 @@ Projekcie: Veronika Šmírová\
 Hudba: Martin Geišberg\
 Hudobná spolupráca: Daniel Špiner\
 Pohybová spolupráca, choreografie: Libuša Bachratá
+
+Viac TU: https://djgt.sk/predstavenia/cepiec/
