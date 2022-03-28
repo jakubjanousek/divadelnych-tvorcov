@@ -1,6 +1,6 @@
 ---
 title: 12. 4. HRIECH/JEJÍ PASTORKYŇA
-date: 2022-02-28T13:25:01.676Z
+date: 2022-03-28T20:48:46.651Z
 intro: Inscenácia Činohry SND, 12.4.2022 o 19:00 v SND
 featured_img: img/hriech_její-pastorkyňa_-snd.jpg
 ---
@@ -30,3 +30,5 @@ Jenůfa: Anežka Petrová\
 Laca: Daniel Fischer\
 Karolka: Anna Dysko\
 Zbor: Viktória Šuplatová, Anna Dysko, Viktória Šuplatová, Kristián Baran, Štefánia Bencsíková, Tadeáš Bolo, Ján Cibula, Tereza Mandzáková, Adam Marenišťák, Paulína Vachová
+
+Viac TU: https://snd.sk/inscenacia/3460/hriech-jej-pastorkyna
