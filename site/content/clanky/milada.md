@@ -26,3 +26,5 @@ Otec: Vladimír Obšil\
 Sestra: Andrea Bučková\
 Švagor: Cyril Žolnír\
 Svokra: Anna Maľová
+
+Viac TU: https://snd.sk/inscenacia/3494/milada-horakova
