@@ -20,6 +20,18 @@ featured_img: img/druhá-smrť-jany-z-arcu-nové-divadlo.jpg
 *Z hodnotenia komisie* okruhu Západ,\
 *\- viac: https://www.adt-theatre.sk/clanky/cena-akademie-2020-21-okruh-zapad/*
 
+
+
+Réžia: Martin Geišberg
+
+\
+Osoby a obsadenie:\
+Jana: Lucia Korená\
+Boh: Agáta Spišáková\
+Kat: Martin Nahálka
+
+
+
 \
 ***Nové divadlo v Nitre*** vzniklo v máji 2016, založili ho dramaturgička, režisér, scénický výtvarník a päť herečiek, dlhoročné a signifikantné umelecké osobnosti Starého divadla Karola Spišáka v Nitre.
 
