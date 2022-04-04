@@ -1,6 +1,6 @@
 ---
 title: 22. 4. SWING HEIL!
-date: 2022-03-28T20:43:16.256Z
+date: 2022-04-04T19:51:36.225Z
 intro: Inscenácia Divadla Pôtoň a Horáckeho divadla Jihlava, 22.4.2022 o 19,00 v
   Divadle LAB VŠMU
 featured_img: img/divadlo-poton-swing-heil-lubos-dobias-okruh-západ-1-.jpg
