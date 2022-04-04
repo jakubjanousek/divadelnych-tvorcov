@@ -1,6 +1,6 @@
 ---
 title: 21. 4. D1 (PRACOVNÝ NÁZOV)
-date: 2022-04-04T19:49:38.802Z
+date: 2022-04-04T19:51:57.337Z
 intro: Inscenácia Slovenského komorného divadla Martin, 21.4.2022 o 18:00 v SND
 featured_img: img/d1-skd-martin-fot-braňo-konečný.jpg
 ---
