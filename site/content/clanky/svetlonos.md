@@ -1,6 +1,6 @@
 ---
 title: 9. 4. SVETLONOS
-date: 2022-03-28T20:51:04.546Z
+date: 2022-04-04T19:53:03.817Z
 intro: Inscenácia Odivo a Ivan Martinka, 9.4.2022 o 19:00 v Ticho a spol.
 featured_img: img/svetlonos-odivo-foto-katarina-baranyai-okruh-stred.jpg
 ---
