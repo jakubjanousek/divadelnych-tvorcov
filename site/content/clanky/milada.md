@@ -1,6 +1,6 @@
 ---
 title: 30. 4. MILADA
-date: 2022-02-28T13:19:22.734Z
+date: 2022-04-04T19:50:46.562Z
 intro: Inscenácia KADU, 30.4.2022 o 19:00 v Modrom salóne SND
 featured_img: img/milada-kadu.jpg
 ---
