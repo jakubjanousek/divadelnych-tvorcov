@@ -1,6 +1,6 @@
 ---
 title: 12. 4. HRIECH/JEJÍ PASTORKYŇA
-date: 2022-03-28T20:48:46.651Z
+date: 2022-04-04T19:52:42.328Z
 intro: Inscenácia Činohry SND, 12.4.2022 o 19:00 v SND
 featured_img: img/hriech_její-pastorkyňa_-snd.jpg
 ---
