@@ -36,7 +36,7 @@ perex: >-
   19,00 SND
 
 
-  19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- 19,00 A4
+  19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- 20,00 A4
 
 
   21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - 18,00 SND
