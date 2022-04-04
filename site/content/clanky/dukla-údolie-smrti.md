@@ -1,6 +1,6 @@
 ---
 title: 19. 4. DUKLA, ÚDOLIE SMRTI
-date: 2022-04-04T19:50:18.234Z
+date: 2022-04-04T19:52:16.664Z
 intro: Inscenácia Dezorzovho lútkového divadla, 19.4.2022 o 20:00 v A4
 featured_img: img/dukla-udolie-smrti_ld-g.-dezorza-archiv_-okruh-ba-2.jpg
 ---
