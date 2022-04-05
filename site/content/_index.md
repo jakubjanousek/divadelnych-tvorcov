@@ -21,6 +21,9 @@ perex: >-
   2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* -  19,00 SND
 
 
+  8.4. **[TVORIVÁ DISKUSIA](https://www.facebook.com/events/1919077894931732)**: Kto moderuje a nastavuje vývoj a smerovanie divadelného života na Slovensku? - 14:00 SND
+
+
   8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - \
 
   19,00 SND
