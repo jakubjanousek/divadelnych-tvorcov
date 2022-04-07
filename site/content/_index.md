@@ -29,11 +29,6 @@ perex: >-
   19,00 SND
 
 
-  9.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* \
-
-  19,00 TICHO a spol.
-
-
   12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*\
 
   19,00 SND
@@ -51,6 +46,11 @@ perex: >-
   24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - \
 
   19,00 Ticho a spol.
+
+
+  29.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* \
+
+  19,00 TICHO a spol.
 
 
   30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - \
