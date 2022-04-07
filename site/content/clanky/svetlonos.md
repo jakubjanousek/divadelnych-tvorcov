@@ -1,7 +1,7 @@
 ---
-title: 9. 4. SVETLONOS
+title: ZMENA TERMÍNU! 29. 4. SVETLONOS
 date: 2022-04-04T19:53:03.817Z
-intro: Inscenácia Odivo a Ivan Martinka, 9.4.2022 o 19:00 v Ticho a spol.
+intro: Inscenácia Odivo a Ivan Martinka, 29.4.2022 o 19:00 v Ticho a spol.
 featured_img: img/svetlonos-odivo-foto-katarina-baranyai-okruh-stred.jpg
 ---
 [Svetlonos](https://www.facebook.com/odivotheatre/) je „veľmi imaginatívny a asociatívny javiskový tvar“. Odivo ňou opäť prejavilo „dramaturgickú ambicióznosť (prinášanie nových, neopozeraných tém)“, ruka v ruke s posúvaním „technických hraníc divadla (mechatronická bábka). Je to o to cennejšie, že tieto ambície nachádzajú naplnenie v prirodzenom súzvuku so silnou umeleckou výpoveďou.“\
