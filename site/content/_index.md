@@ -29,7 +29,7 @@ perex: >-
   19,00 SND
 
 
-  9.4. predstavenie Svetlonosa zrušené
+  9.4. predstavenie Svetlonosa presunuté na 29. 4.
 
 
   12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*\
