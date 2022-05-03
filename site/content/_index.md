@@ -1,6 +1,12 @@
 ---
 perex: >-
-  *Pripravujeme:*
+  **Prehliadka prebehla - Cena Akadémie 2020/21 pozná víťaza!**\
+
+  \
+
+  Viac TU: \
+
+  https://www.adt-theatre.sk/clanky/pozname-historicky-druheho-drzitela-ceny-akademie/
 
 
   **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
