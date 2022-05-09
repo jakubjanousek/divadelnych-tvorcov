@@ -6,7 +6,7 @@ featured_img: img/_mg_0980.jpg
 ---
 Tretí ročník projektu Ceny Akadémie za divadelnú inscenáciu sezóny sa podarilo zrealizovať po vynútenej pauze. Jeho finále sa tentoraz uskutočnilo v podobe divadelnej prehliadky, počas ktorej v rámci jedného mesiaca boli odohrané všetky nominované tituly v Bratislave. Išlo tak o menší divadelný festival v priestoroch štyroch bratislavských divadiel, ktorý mohol pritiahnuť nielen odborných, profesionálnych záujemcov o divadla, ale bol aj atraktívnou divadelnou ponukou pre bežného diváka v hlavnom meste.
 
-Z desiatich nominovaných inscenácií sa napokon deväť podrobilo hodnoteniu vrcholovej poroty v zložení: teatrologička a pedagogička VŠMU Nadežda Lindovská, režisér a pedagóg VŠMU Juraj Nvota, scénograf a pedagóg VŠMU Peter Čanecký, teatrologička Zuzana A. Ferusová a vzácny hosť zo susednej Českej republiky, dramaturg a riaditeľ CED Brno Miroslav Oščatka.
+Z desiatich nominovaných inscenácií sa napokon deväť podrobilo hodnoteniu vrcholovej komisie v zložení: teatrologička a pedagogička VŠMU Nadežda Lindovská, režisér a pedagóg VŠMU Juraj Nvota, scénograf a pedagóg VŠMU Peter Čanecký, teatrologička Zuzana A. Ferusová a vzácny hosť zo susednej Českej republiky, dramaturg a riaditeľ CED Brno Miroslav Oščatka.
 
 Regionálne komisie ADT zo všetkých prihlásených a zhliadnutých titulov sezóny 2020/2021 vybrali inscenácie zo súborov divadiel ŠDKE Košice, SKD Martin, DJGT Zvolen, nezávislé zoskupenie Odivo, Divadlo Pôtoň, Nové divadlo, Dezorzovo lútkové divadlo a Činohra SND (2 tituly). Košický súbor Štátneho bábkového divadla bol takisto nominovaný, no inscenácia sa napokon súťažnej prehliadky nemohla zo zdravotných dôvodov zúčastniť.
 
@@ -18,8 +18,6 @@ Inscenácia má mimoriadne zložitú štruktúru: opiera sa o teatrologický v�
 
 Porota ohodnotila tento titul ako „výbornú, režijne a vizuálne príťažlivú inscenáciu s možným presahom do medzinárodného prostredia vnímania súčasného slovenského divadla.“ Vyzdvihla aj veľmi dobrú schopnosť režisérky spojiť verbálnu hodnotu slova s neverbálnym konaním na javisku, čím inscenácia dostáva niekoľko divadelných vrstiev. Režisérka Júlia Rázusová mala mimoriadne šťastnú ruku pri obsadení inscenácie – predstaviteľ Borodáča, Matej Erby, podal skvelý herecký výkon. Celú dobu sústredený, výrazne úsporný, impozantne príťažlivý. Naopak, ako mínusové body sa niektorým členom poroty zdali momenty jednak istej chaotickosti výsledného tvaru v prvej polovici inscenácie, ktorý volal po väčšom dramaturgickom vyčistení situácií a príbehu. Zároveň sa v otázke života a osudu Jána Borodáča natískali aj otázky jeho pôsobenia: počas niekoľkých politických režimov (mimoriadne zaujímavé mohlo byť najmä tematizovanie obdobia vojnového slovenského štátu), ktoré, ako sa zdá, tvorcovia zámerne potichu obišli. Napriek spomenutým výhradám sa porota zhodla, že spoločná práca košických tvorcov právom patrí k tomu najlepšiemu, čo za posledné dva roky v slovenskom divadle vzniklo.
 
- 
-
 ***Žena, čepiec, Šumiac***
 
 Zvolenská inscenácia *Čepiec* je inšpirovaná pôvodnou slovenskou tvorbou, opiera sa o oceňovanú prózu Kataríny Kucbelovej a pozýva publikum na iniciačnú cestu sebapoznania a objavovania vlastných koreňov. Pod vedením režiséra Petra Palika sa tak deje prostredníctvom moderných výrazových prostriedkov, súčasným divadelným jazykom, hoci jednou z dôležitých tém je folklór a tradície, ich miesto v histórii i súčasnosti.
@@ -27,8 +25,6 @@ Zvolenská inscenácia *Čepiec* je inšpirovaná pôvodnou slovenskou tvorbou, 
 Vďaka premyslenému inscenačnému konceptu a kolektívnemu nasadeniu hereckého súboru Divadla J. G. Tajovského vzniklo vizuálne, hudobne, choreograficky zaujímavé a efektné javiskové dielo, v ktorom sa energia slov, farieb, tvarov, hudby a spevu prepojili s energiou divadelnej výpovede o hojivej sile spojenia so skúsenosťou a múdrosťou našich predkov.
 
 Spoluautorom dramatizácie je režisér Palik, pre ktorého je Kucbelovej *Čepiec* podkladom, z ktorého si pre svoju divadelnú prácu vyberá „najinšpiratívnejšie momenty“. Inscenácia má všetky klady a zápory javiskového spracovania prozaickej látky – k zrejmým kladom patrí zrozumiteľné a svieže epické rozprávanie, nedostatkom sú potom pomerne slabé dramatické postavy. Ku kladom inscenácie porota zaradila aj „výraznú výtvarnú a pohybovú zložku, a možno istým spôsobom nenápadnú, no veľmi osobitú a funkčnú hudbu.“
-
-
 
 ***Divadlo experimentu***
 
@@ -48,8 +44,6 @@ Inscenácia Canevovej hry *Druhá smrť Jany z Arcu* v podaní nitrianskeho No
 
 Z tém hry najviac rezonuje čím ďalej tým žiadanejšia potreba spoľahnutia sa na vlastný úsudok a dôležitosť prevzatia zodpovednosti za vlastné rozhodnutia. 
 
- 
-
 ***Dvakrát SND***
 
 Až dve nominácie do finálového výberu získala v tomto ročníku Činohra SND, obe inscenácie navyše spája režisérsko-dramaturgický tandem (Matúš Bachynec – Daniel Majling).
@@ -61,8 +55,6 @@ Na čisto vymedzenej šikmej ploche sa herci poctivo stretávajú so silnými ľ
 Druhá inscenácia, uvádzaná v Modrom salóne SND, je dielom, ktoré vzniklo v spolupráci Činohry SND s nezávislou platformou KADU (Kabinet audiovizuálnych divadelných umení). Komornejšia výpravou, scénografiou i počtom postáv je takmer monodráma *Milada*, ktorá zaujme najmä presvedčivým hereckým výkonom Vladeny Škorvagovej. Tvorcovia sa prostredníctvom listov Milady Horákovej z väzenia usilujú vytvoriť intímny portrét statočnej ženy, ktorá sa dokázala postaviť dvom totalitám a zaplatila za to tú najvyššiu cenu. V príbehu, ktorý sa stal tragickou súčasťou československých povojnových dejín, sa tvorcovia zamerali viac na Miladu než na doktorku práv, pani Horákovú. Chceli priblížiť ženu, ktorá síce aktívne a odvážne pôsobila v politike, ale zároveň mala svoje rodinné hniezdo, v ktorom bola ukotvená ako matka, manželka, dcéra, sestra, nevesta. A pred odchodom na popravisko jej myšlienky a city patrili hlavne členom rodiny. Originálny nápad priblížiť Miladu Horákovú hlavne prostredníctvom série rozlúčkových listov má však aj svoju slabinu – určitú monotónnosť.
 
 Režisér a autor konceptu Matúš Bachynec, situoval hlavnú postavu do interiéru domáceho prostredia. Vďaka tomu v kruhu takmer mlčiaceho príbuzenstva inscenoval pomyselnú spoveď odsúdenej ženy. Výsledný javiskový tvar však viac vecne opisuje, ako dramaticky zvýrazňuje záver života Milady Horákovej. Súčasťou inscenácie boli odkazy na biblické podobenstvá.
-
- 
 
 ***Live puppet cinema – nová možnosť bábkovo-výtvarnej obraznosti***
 
@@ -76,8 +68,6 @@ Autor, režisér, kameraman, herec, inšpicient a jeden z autorov pomerne rozsi
 
 Laureátom Ceny Akadémie sa stala inscenácia *D1 (pracovný názov)* Slovenského komorného divadla Martin z dielne autora a režiséra Lukáša Brutovského. Tá porotu presvedčila sugestívnou divadelnou výpoveďou, ktorá vychádzala z pôvodného autorského textu výnimočných literárnych kvalít. Lukáš Brutovský, autor textovej predlohy a režisér v jednej osobe, vytvoril vnútorne kompaktnú inscenáciu: jej sila tkvie v dôslednej a invenčnej práci s hereckým súborom, ktorá našla výraznú oporu v živej scénografii Juraja Poliaka a jej účinok bol umocnený originálnou hudobno-tanečnou zložkou (choreografia: Silvia Beláková). *D1 (pracovný názov)* je vtipná, poetická mytologizácia najnovšej histórie Slovenska, traumatického „nekonečného“ príbehu výstavby diaľnice z Bratislavy do Košíc. Dá sa vnímať aj ako výtvarno-hudobno-tanečno-poetická performancia s použitím videa a autorských rytmizovaných monológov, ako svojbytná súčasná elégia o krajine a jej ľude. Ako sa však vyjadril jeden z porotcov, „dramaturg prišiel so zaujímavou súčasnou témou a autorovi sa podarilo napísať dielo, ktoré má dostatočnú kvalitu, čo je v súčasnej dobe nesmierne vzácne. Prial by som si, aby divadlo niekedy v budúcnosti prišlo s podobne novým dielom, ktorý však bude mať aj silný príbeh a skutočné dramatické postavy.“
 
- 
-
 ***Záverečné zhrnutie prehliadky***
 
 Ukazuje sa, že aj napriek obmedzeniam v oblasti kultúry, divadlo (aj kultúra) naďalej žije a tvorí. Ale covidové roky ho poznamenali a bude potrebovať nejaký čas, aby sa vrátilo do pôvodnej kondície. Napriek tomu vznikla séria pozoruhodných a veľmi rôznorodých divadelných inscenácií. Pestrosť a rôznorodosť divadelných poetík a použitých výrazových prostriedkov je nesporne pozitívna skutočnosť, ale pre porotu v rámci vzájomného porovnávania a hodnotenia to bola veľká výzva. Zaujímavé je, že medzi dielami, ktoré sa dostali do finále (čo už samo osebe je určitým ocenením) výrazne prevažujú autorské projekty nad interpretačným divadlom (divadelná hra ako východisko inscenácie sa objavila v tzv. klasickom zmysle slova iba v dvoch prípadoch: *Hriech/Její pastorkyňa* a *Druhá smrť Jany z Arcu*, čiastočne ešte v inscenácii *Borodáč alebo Tri sestry*). Polovicu z desiatich inscenácií, ktoré postúpili do záverečného kola súťaže, tvorili produkcie tzv. nezávislých, resp. nezriaďovaných divadiel. Ich tvorivý potenciál (napriek ekonomickej zložitosti ich existencie) jednoznačne rastie. Čo sa týka tematického zamerania javiskových výpovedí: takmer všetky inscenácie viedli dialóg s minulosťou.
@@ -89,8 +79,6 @@ Mnohé divadelné projekty boli zároveň aj projektmi výskumnými, stali sa pr
 Cena Akadémie je neoddeliteľnou súčasťou reflexie, ktorú vnímame čím ďalej tým viac ako potrebný, aj keď dnes do istej miery opomínaný proces. V záplave informácií a správ ako by začínalo byť tak trochu jedno, čo kto povie – a o divadle dvojnásobne – veď koho to zaujíma? Tomuto relativizmu však je potrebné čeliť.
 
 Ako divadelníci by sme nemali rezignovať na to, čo si o nás myslia teatrológovia, kritici a kolegovia. Snaha menovať odborné komisie a posudzovateľov, ktorí následne poctivo zhliadnu a vyhodnotia to najzaujímavejšie z celého Slovenska, je veľmi ambiciózna, no aj nevyhnutná. Ide o časovo, ľudsky a finančne náročnú vec, no zároveň o záslužný pokus – sme presvedčení, že tieto snahy okrem iného pomáhajú kultúrnej výmene a budovaniu kontextu.
-
- 
 
 *Zuzana A. Ferusová*
 
