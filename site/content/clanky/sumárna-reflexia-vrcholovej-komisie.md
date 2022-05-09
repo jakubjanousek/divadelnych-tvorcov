@@ -1,5 +1,5 @@
 ---
-title: Sumárna reflexia vrcholovej komisie
+title: Očami vrcholovej komisie
 date: 2022-05-09T21:37:41.729Z
 intro: Reflexia inscenácií nominovaných na Cenu Akadémie 2020/2021 a 2. kola Ceny.
 featured_img: img/_mg_0980.jpg
