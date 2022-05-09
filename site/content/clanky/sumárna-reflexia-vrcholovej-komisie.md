@@ -82,4 +82,4 @@ Ako divadelníci by sme nemali rezignovať na to, čo si o nás myslia teatroló
 
 *Zuzana A. Ferusová*
 
-*(Text vznikol s použitím a spracovaním textových hodnotení všetkých členov poroty, s ich súhlasom.)*
+*(Text vznikol s použitím a spracovaním textových hodnotení všetkých členov komisie, s ich súhlasom.)*
