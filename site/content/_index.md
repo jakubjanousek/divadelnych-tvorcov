@@ -1,101 +1,45 @@
 ---
 perex: >-
-  **Prehliadka prebehla - Cena Akadémie 2020/21 pozná víťaza!**\
+  **PREHLIADKA INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
 
-  \
-
-  Viac TU: \
-
-  https://www.adt-theatre.sk/clanky/pozname-historicky-druheho-drzitela-ceny-akademie/
+  v *Bratislave, 2. apríl – 2. máj 2022* 
 
 
-  **PREHLIADKU INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
+  **Prehliadka úspešne prebehla - Cena Akadémie 2020/21 pozná víťaza!**\
 
-  v *Bratislave, 2. apríl – 2. máj 2022,* \
-
-  *v spolupráci s divadlami SND, Ticho a spol., A4, LAB VŠMU*\
-
-  a *pod záštitou primátora mesta Bratislavy Matúša Valla.*
+  Viac TU: https://www.adt-theatre.sk/clanky/pozname-historicky-druheho-drzitela-ceny-akademie/
 
 
-  *Po predstaveniach sa uskutočnia diskusie s tvorcami a zástupcami komisií 1. kola Ceny.*
+  **Sumárne hodnotenie vrcholovej komisie Ceny Akadémie 2020/21**
 
 
-  **PROGRAM:**
+  ***ZÁVEREČNÉ ZHRNUTIE PREHLIADKY***
 
 
-  2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* -  19,00 SND
+  Ukazuje sa, že aj napriek obmedzeniam v oblasti kultúry, divadlo (aj kultúra) naďalej žije a tvorí. Ale covidové roky ho poznamenali a bude potrebovať nejaký čas, aby sa vrátilo do pôvodnej kondície. Napriek tomu vznikla séria pozoruhodných a veľmi rôznorodých divadelných inscenácií. Pestrosť a rôznorodosť divadelných poetík a použitých výrazových prostriedkov je nesporne pozitívna skutočnosť, ale pre komisiu v rámci vzájomného porovnávania a hodnotenia to bola veľká výzva. Zaujímavé je, že medzi dielami, ktoré sa dostali do finále (čo už samo osebe je určitým ocenením) výrazne prevažujú autorské projekty nad interpretačným divadlom (divadelná hra ako východisko inscenácie sa objavila v tzv. klasickom zmysle slova iba v dvoch prípadoch: *Hriech/Její pastorkyňa* a *Druhá smrť Jany z Arcu*, čiastočne ešte v inscenácii *Borodáč alebo Tri sestry*). Polovicu z desiatich inscenácií, ktoré postúpili do záverečného kola súťaže, tvorili produkcie tzv. nezávislých, resp. nezriaďovaných divadiel. Ich tvorivý potenciál (napriek ekonomickej zložitosti ich existencie) jednoznačne rastie. Čo sa týka tematického zamerania javiskových výpovedí: takmer všetky inscenácie viedli dialóg s minulosťou.
 
 
-  8.4. **[TVORIVÁ DISKUSIA](https://www.facebook.com/events/1919077894931732)**: Kto moderuje a nastavuje vývoj a smerovanie divadelného života na Slovensku? - 14:00 SND
+  Viaceré inscenácie z divadelnej sezóny 2020/2021 v rámci súčasnej perspektívy (žiaľ, žijeme v tieni vojny) vyznievali priam vizionársky. Zrejme naše kolektívne nevedomie vyhodnotilo vojnovú a totalitnú hrozbu skôr, než prepukla v svojej najagresívnejšej podobe a upozornilo na ňu prostredníctvom analógie. Dnes inscenácie ako *Swing Heil!*, *Dukla, údolie smrti*, *Milada* či *Svetlonos* a *Druhá smrť Jany z Arcu* vyznievajú veľmi súčasne a bolestne.
 
 
-  8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - \
-
-  19,00 SND
+  Mnohé divadelné projekty boli zároveň aj projektmi výskumnými, stali sa príkladom výskumu v umení: najviac *Borodáč alebo Tri sestry*, ale tiež *D1 (pracovný názov)*, *Swing Heil!*, *Milada*, *Dukla, údolie smrti*, *Čepiec* a v istom zmysle aj *Svetlonos*.
 
 
-  9.4. predstavenie Svetlonosa presunuté na 29. 4.
+  Cena Akadémie je neoddeliteľnou súčasťou reflexie, ktorú vnímame čím ďalej tým viac ako potrebný, aj keď dnes do istej miery opomínaný proces. V záplave informácií a správ ako by začínalo byť tak trochu jedno, čo kto povie – a o divadle dvojnásobne – veď koho to zaujíma? Tomuto relativizmu však je potrebné čeliť.
 
 
-  12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*\
-
-  19,00 SND
+  Ako divadelníci by sme nemali rezignovať na to, čo si o nás myslia teatrológovia, kritici a kolegovia. Snaha menovať odborné komisie a posudzovateľov, ktorí následne poctivo zhliadnu a vyhodnotia to najzaujímavejšie z celého Slovenska, je veľmi ambiciózna, no aj nevyhnutná. Ide o časovo, ľudsky a finančne náročnú vec, no zároveň o záslužný pokus – sme presvedčení, že tieto snahy okrem iného pomáhajú kultúrnej výmene a budovaniu kontextu.
 
 
-  19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- 20,00 A4
+  CELÁ REFLEXIA TU: \
+
+  https://www.adt-theatre.sk/clanky/sumarna-reflexia-vrcholovej-komisie/
 
 
-  21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - 18,00 SND
+  *Projekt Ceny Akadémie bol realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
 
 
-  22.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v 19,00 LAB VŠMU
-
-
-  24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - \
-
-  19,00 Ticho a spol.
-
-
-  29.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* \
-
-  19,00 TICHO a spol.
-
-
-  30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - \
-
-  19,00 SND
-
-
-  ***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21   - 18,00 Modrý salón SND***
-
-
-  Vážení kolegovia, priatelia divadla,
-
-
-  takúto prehliadku Slovensko ešte nezažilo...!\
-
-  Divadlá „zhŕňajú“ svoje peniaze a ako výraz spolupatričnosti oferujú ich na niečo, čo považujú za výraz spolupatričnosti a slávnosť spoločnej nádeje. A to jednak divadlá nominované a jednak tie, ktoré ich v Bratislave hostia...!
-
-  Prehliadka chce byť podanou rukou všetkým, ktorí napriek ťažkostiam zostávajú slávnosti divadelného predstavenia verní. - Ďakujem, kolegovia.
-
-
-  Priatelia, slávnosť divadla je tu však predovšetkým pre Vás, divákov. Pomôžte nám, prosím, dokonať naše úsilie a pozrite si paletu toho najinšpiratívnejšieho, čo 25 odborníkov vybralo a čo sa zrodilo v sezóne 2020/21. – Pozývame Vás na 10 predstavení divadiel z celého Slovenska...!
-
-
-  Nedá mi, musím dodať: chceme veriť na druhej strane, že takáto slávnosť už nabudúce nebude musieť byť z posledných zdrojov aj inak ťažko skúšaných divadiel, chceme veriť, že príslušné inštitúcie pochopia, že divadelníci takéto stretnutia v rámci Ceny Akadémie naozaj potrebujú a chcú. Väčší dôkaz, ako táto prehliadka už snáď ani nemôže byť...!
-
-
-  Teším sa na predstavenia, teším sa na verdikt vrcholovej komisie a víťaza Ceny... Užime si, prosím, všetci, napriek všetkému, týchto desať predstavení v rámci celého mesiaca, po predstaveniach možnosť počuť názory tvorcov i odborníkov, i odborné diskusie. – Prajem príjemné zážitky!
-
-
-  *Viki Janoušková, prezidentka Akadémie divadelných tvorcov* 
-
-
-  *Projekt Ceny Akadémie je realizovaný v spolupráci s Literárnym fondom a podporený fondom LITA.*
-
-
-  *Prehliadka sa uskutoční v spolupráci s divadlami: SND, Ticho a spol., A4, Lab VŠMU*\
+  *Prehliadka sa uskutočnila v spolupráci s divadlami: SND, Ticho a spol., A4, Lab VŠMU*\
 
   *ŠDKE Košice, DJGT Zvolen, Odivo a I. Martinka Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*
 
