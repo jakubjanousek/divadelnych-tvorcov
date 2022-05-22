@@ -35,9 +35,7 @@ Prehliadka chce byť podanou rukou všetkým, ktorí napriek ťažkostiam zostá
 
  Teším sa na predstavenia, teším sa na verdikt vrcholovej komisie a víťaza Ceny... Užime si, prosím, všetci, napriek všetkému, týchto desať predstavení v rámci celého mesiaca, po predstaveniach možnosť počuť názory tvorcov i odborníkov, i odborné diskusie. – Prajem príjemné zážitky!“
 
- *Celý program Prehliadky nájdete tu:* [www.adt-theatre.sk](http://www.adt-theatre.sk/)*.*
-
-Prehliadka sa uskutoční v spolupráci:*Hostiace divadlá: SND, Ticho a spol., A4, LAB VŠMU*
+ Prehliadka sa uskutoční v spolupráci:*Hostiace divadlá: SND, Ticho a spol., A4, LAB VŠMU*
 
 *Nominované divadlá: ŠDKE Košice, DJGT Zvolen, Odivo a Ivan Martinka Banská Bystrica, SKD Martin, Divadlo Pôtoň, Nové divadlo Nitra, Dezorzovo lútkové divadlo, KADU a Činohra SND*Projekt Ceny Akadémie sa koná v spolupráci Literárnym fondom, podporila LITA.\
 Prehliadku podporili: BKiS, Rádio Devín, Magistrát hl. mesta SR Bratislavy.\
@@ -48,4 +46,42 @@ Sme Vám k dispozícii na mailoch: [akademia@adt-theatre.sk](mailto:akademia@adt
 Dovoľte ešte na záver Tlačovej správy pripojiť nasledujúce vyhlásenie:\
 **\*Akadémia divadelných tvorcov a divadlá zúčastňujúce sa na Prehliadke** odsudzujú porušenie medzinárodného práva a suverenity Ukrajiny a vyzývajú k zastaveniu vojenských aktivít zo strany Ruska. Vyjadrujeme plnú podporu ukrajinským kolegom a kolegyniam a všetkým občanom Ukrajiny.
 
-*V Bratislave dňa 21. 3. 2022*[](<>)
+**PREHLIADKA INSCENÁCIÍ NOMINOVANÝCH NA CENU AKADÉMIE 2020/21**\
+v *Bratislave, 2. apríl – 2. máj 2022,* \
+*v spolupráci s divadlami SND, Ticho a spol., A4, LAB VŠMU*\
+a *pod záštitou primátora mesta Bratislavy Matúša Valla.*
+
+*Po predstaveniach sa uskutočnia diskusie s tvorcami a zástupcami komisií 1. kola Ceny.*
+
+**PROGRAM:**
+
+2.4. **[Borodáč alebo Tri sestry](https://www.adt-theatre.sk/clanky/borodac-alebo-tri-sestry/)** – Činohra Štátneho divadla Košice *(r. J. Rázusová)* -  19,00 SND
+
+8.4. **[TVORIVÁ DISKUSIA](https://www.facebook.com/events/1919077894931732)**: Kto moderuje a nastavuje vývoj a smerovanie divadelného života na Slovensku? - 14:00 SND
+
+8.4. **[Čepiec](https://www.adt-theatre.sk/clanky/cepiec/)** - Divadlo Jozefa Gregora Tajovského, Zvolen *(r. P. Palik)* - \
+19,00 SND
+
+9.4. predstavenie Svetlonosa presunuté na 29. 4.
+
+12.4. **[Hriech / Její pastorkyňa](https://www.adt-theatre.sk/clanky/hriech-jeji-pastorkyna/)** - Činohra SND, Bratislava *(r. M. Bachynec)*\
+19,00 SND
+
+19.4. **[Dukla, údolie smrti](https://www.adt-theatre.sk/clanky/dukla-udolie-smrti/)** - Dezorzovo lútkové divadlo, Bratislava *(r. G. Dezorz)*- 20,00 A4
+
+21.4. **[D1 (pracovný názov)](https://www.adt-theatre.sk/clanky/d1-pracovny-nazov/)** - Slovenské komorné divadlo, Martin *(r. L. Brutovský)* - 18,00 SND
+
+22.4. **[Swing Heil!](https://www.adt-theatre.sk/clanky/swing-heil/)** - Divadlo Pôtoň a Horácke divadlo, Jihlava *(r. I. Ditte Jurčová)* - v 19,00 LAB VŠMU
+
+24.4. **[Druhá smrť Jany z Arcu](https://www.adt-theatre.sk/clanky/druha-smrt-jany-z-arcu-1/)** - Nové divadlo, Nitra *(r. M. Geišberg)* - \
+19,00 Ticho a spol.
+
+29.4. **[Svetlonos](https://www.adt-theatre.sk/clanky/svetlonos/)** - ODIVO a Ivan Martinka, B. Bystrica *(r. M. Danadová, M. Kováčová, I.Martinka)* \
+19,00 TICHO a spol.
+
+30.4. **[Milada](https://www.adt-theatre.sk/clanky/milada/)** - KADU a Činohra SND, Bratislava *(r. M. Bachynec)* - \
+19,00 SND
+
+***2.5. Záverečná diskusia a slávnostné vyhlásenie víťaza Ceny Akadémie 2020/21   - 18,00 Modrý salón SND***
+
+*V Bratislave dňa 21. 3. 2022*
