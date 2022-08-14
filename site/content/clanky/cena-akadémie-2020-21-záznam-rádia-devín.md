@@ -6,3 +6,7 @@ intro: Akadémia odovzdala 2.5. 2022 počas slávnostného galavečera v Modrom
 featured_img: img/_mg_0322-2.jpg
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6t8wrpWYwMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+https://www.youtube.com/embed/6t8wrpWYwMk
