@@ -5,4 +5,4 @@ intro: Akadémia odovzdala 2.5. 2022 počas slávnostného galavečera v Modrom
   salóne Slovenského národného divadla dve Ceny. Prinášame záznam Rádia Devín.
 featured_img: img/_mg_0322-2.jpg
 ---
-<iframe src="<https://youtu.be/6t8wrpWYwMk>" width="560" height="315" title="Nyan Cat \[original]" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6t8wrpWYwMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
