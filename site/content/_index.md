@@ -5,7 +5,9 @@ perex: >-
   *17. 9. 2022*      
 
 
-  "Na záver svojho pôsobenia, ako autorka myšlienky Akadémie a jej prezidentka v dvoch prvých obdobiach, skúsim redefinovať zámer Akadémie a zhrnúť skúsenosti s týmto projektom, cítim to ako zmysluplné. A začnem osobne: 
+  "Na záver svojho pôsobenia, ako autorka myšlienky Akadémie a jej prezidentka v prvých\
+
+  dvoch obdobiach, skúsim redefinovať zámer Akadémie a zhrnúť skúsenosti s týmto projektom, cítim to ako zmysluplné. A začnem osobne: 
 
 
   I.\
@@ -33,13 +35,13 @@ perex: >-
   *ide totiž o zásadné ohnivko, ktoré mi pri viacerých situáciách v našej komunite vlastne chýba, neprišlo k nemu nikdy (!):*  
 
 
-  *NIKTO SA NIKDY VEREJNE NEZASTANE NIKOHO, AJ KEĎ S TÝM ČLOVEKOM SÚHLASÍ !A ČO JE MOŽNO EŠTE HORŠIE, ZABUDLI SME, AKO SA TO ROBÍ...!*
+  *NIKTO SA NIKDY VEREJNE NEZASTANE NIKOHO, AJ KEĎ S TÝM ČLOVEKOM SÚHLASÍ! A ČO JE MOŽNO EŠTE HORŠIE, ZABUDLI SME, AKO SA TO ROBÍ...!*
 
 
   *\- ... T. z. nemáme potrebu zastať sa svojej vlastnej hodnoty, a to akejkoľvek, nevieme sa zastať kolegu, projektu, atď., vnímame to ako jeho problém, spolu s Douglasom Adamsom by som tento jav nazvala PNJ (problém někoho jiného). A toto je jav, ktorý potom vytvára pocit bezhodnotovosti našej komunity... - Zamyslite sa, prosím... koľkokrát ste zdvihli hlas, keď bol kolega osočený a buď tam nebol a nemohol sa brániť alebo zostal v tom sám...*
 
 
-  *Ja som toto zažila v Akadémii niekoľkokrát na vlastnej koži a poviem Vám, toto je prapôvodná príčina, prečo som už trochu unavená. Je to totiž každodenná konfrontácia s mojimi hodnotami a viem, že ako prezidentka reagovať musím vždy, a nemôžem mávnuť rukou, a byť ticho... - Takže teraz si vyberám oddych, kolegovia. Neodchádzam z Akadémie, ale chcem na chvíľu z boku a z odstupu sledovať, čo sme sa za tie 4 až 5 rokov naučili.*
+  *Ja som toto zažila v Akadémii niekoľkokrát na vlastnej koži a poviem Vám, toto je prapôvodná príčina, prečo som už trochu unavená. Je to totiž každodenná konfrontácia s mojimi hodnotami a viem, že ako prezidentka reagovať musím vždy, a nemôžem mávnuť rukou, a byť ticho... - Takže teraz si vyberám oddych, kolegovia. Neodchádzam z Akadémie, ale chcem na chvíľu z boku a z odstupu sledovať, čo sme sa za tých 4 až 5 rokov naučili.*
 
 
   *a mojím SÚKROMNÝM odkazom do ďalších dní Akadémie i celej našej komunity je: každý deň si urobme cvičenie a zastaňme sa nejakej hodnoty, ktorá nám robí radosť, resp. ju považujeme za potrebnú... nemlčme.*
@@ -71,15 +73,15 @@ perex: >-
   Druhý zásadný uhol pohľadu, akým sa na náš divadelný život potrebujeme pozrieť je, že tieto témy potrebujeme otvárať nekonfrontačne. - Jednak aby vôbec malo zmysel ich otvárať a následne, aby sa dali vôbec riešiť... v širšom slova zmysle, aby sme sa naučili viesť dialóg vecne a nekonfrontačne. To je niečo, čo málokto z nás ovláda dostatočne...
 
 
-  Čiže suma sumarum\
+  Čiže suma sumarum
 
 
-  * po prvé: nenahrádzame žiadnu inštitúciu, púšťame sa do tém, ktoré cítime, že nie sú nastavené korektne alebo nie sú riešené vôbec,\
+  * po prvé: nenahrádzame žiadnu inštitúciu, púšťame sa do tém, ktoré cítime, že nie sú nastavené korektne alebo nie sú riešené vôbec,
 
   * po druhé: učíme sa viesť dialóg nekonfrontačne
 
 
-  \- a tretí bod, vyplýva z predchádzajúcich dvoch a už som ho spomenula v súkromnejšej časti, a je naozaj zásadný: zbavme sa, prosím, syndrómu vnímania *PNJ (problém někoho jiného...!) **a staňme sa my tvorcami našej divadelnej reality a jej toku***.
+  \- a tretí bod, vyplýva z predchádzajúcich dvoch a už som ho spomenula v súkromnejšej časti, a je naozaj zásadný: zbavme sa, prosím, syndrómu vnímania PNJ (problém někoho jiného...!) **a staňme sa my tvorcami našej divadelnej reality a jej toku**.
 
 
   II. c)\
