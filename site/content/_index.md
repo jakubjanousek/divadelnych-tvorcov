@@ -5,7 +5,7 @@ perex: >-
   *17. 9. 2022*      
 
 
-  "Na záver svojho pôsobenia, ako autorka myšlienky Akadémie a jej prezidentka v dvoch prvých obdobiach, skúsiť redefinovať zámer Akadémie a zhrnúť skúsenosti s týmto projektom, cítim to ako zmysluplné. A začnem osobne: 
+  "Na záver svojho pôsobenia, ako autorka myšlienky Akadémie a jej prezidentka v dvoch prvých obdobiach, skúsim redefinovať zámer Akadémie a zhrnúť skúsenosti s týmto projektom, cítim to ako zmysluplné. A začnem osobne: 
 
 
   I.\
@@ -73,9 +73,10 @@ perex: >-
 
   Čiže suma sumarum\
 
-  - po prvé: nenahrádzame žiadnu inštitúciu, púšťame sa do tém, ktoré cítime, že nie sú nastavené korektne alebo nie sú riešené vôbec,\
 
-  - po druhé: učíme sa viesť dialóg nekonfrontačne
+  * po prvé: nenahrádzame žiadnu inštitúciu, púšťame sa do tém, ktoré cítime, že nie sú nastavené korektne alebo nie sú riešené vôbec,\
+
+  * po druhé: učíme sa viesť dialóg nekonfrontačne
 
 
   \- a tretí bod, vyplýva z predchádzajúcich dvoch a už som ho spomenula v súkromnejšej časti, a je naozaj zásadný: zbavme sa, prosím, syndrómu vnímania *PNJ (problém někoho jiného...!) **a staňme sa my tvorcami našej divadelnej reality a jej toku***.
