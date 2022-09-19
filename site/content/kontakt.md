@@ -8,7 +8,8 @@ IČO: 51718197\
 č. ú.: SK48 0900 0000 0051 4673 0578
 
 **Kontaktná osoba:**\
-MgA. Viki Janoušková / Prezidentka Akadémie\
+Mgr. art. Veronika Gabčíková - Prezidentka Akadémie
+
 akademia@adt-theatre.sk
 
 *Prihláška do Akadémie divadelných tvorcov na stiahnutie:*\
@@ -26,7 +27,7 @@ riadne členstvo:
 *diskusná platforma* \
 kontakt na zriaďovaných (ASDO)  Zuzana Hekel\
 kontakt na nezriaďovaných Jakub Nvota (predseda KND)\
-za Akadémiu Viki Janoušková (prezidentka ADT)
+za Akadémiu Veronika Gabčíková (prezidentka ADT)
 
 **Klub teatrologicko - dramaturgický**\
 *diskusná platforma praktikov a teoretikov divadla*
