@@ -1,5 +1,5 @@
 ---
-title: Okruh Stred
+title: CENA AKADÉMIE 2021/22 A 2022/23 - Okruh Stred
 date: 2023-09-06T20:58:18.628Z
 intro: Vyhodnotenie 1. kola Ceny Akadémie za divadelnú inscenáciu sezóny 2021/22
   a 2022/23
