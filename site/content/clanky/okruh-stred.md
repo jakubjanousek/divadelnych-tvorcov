@@ -9,16 +9,9 @@ featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
 
 *Komisia pracovala v zložení: Mgr.art. Veronika Gabčíková, Mgr*. *art*. *Anton Korenči*, ArtD, *Mgr*. *Zuzana Mišáková* Dis.*art, Mgr.art. Aniko Vargová, Mgr.art. Matej Truban*
 
-
-
 Za okruh stred sa do Ceny Akadémie divadelných tvorcov prihlásilo dovedna 6 divadiel s 9 inscenáciami. Súčasťou hodnotených inscenácii boli 4 inscenácie zriaďovaných divadiel, jedného komunitného divadla, 4 inscenácie nezriaďovaných divadiel či umeleckých zoskupení a 2 inscenácie boli venované deťom. Základnou črtou takmer všetkých inscenácií boli: hľadanie novej javiskovej  formy a spôsobu divadelnej komunikácie a zároveň mimoriadne aktuálne osobné i spoločenské témy. Z režisérov dominovala mladšia stredná generácia tvorcov, 6 inscenácií režírovali muži, 3 inscenácie vytvorili ženy. 
 
- 
-
-**Slovenské Komorné divadlo Martin – *HEKUBA***
-
- 
-
+**Slovenské Komorné divadlo Martin – *HEKUBA***\
 Na webovej stránke divadla si možno k tejto inscenácii prečítať: *„Fascinujúce rozprávanie o odvahe a nezlomnosti (nielen jednej) ženy na troskách bájnej Tróje. Írska dramatička Marina Carr rozpráva príbeh kráľovnej Hekuby inovatívnym spôsobom a priamym, súčasným jazykom. Koľko zla je človek schopný uniesť? Lucia Jašková a Marek Geišberg ako nepriatelia v napínavej hre plnej vášní a utrpenia, ale aj poézie a krásy.“* A aj keď zväčša „propagačné“ noticky divadla o vlastných inscenáciách nebývajú vždy úplne presné, v tomto prípade noticka vyjadruje inscenáciu presne, no až príliš  pokorne.
 
 Dramaturgia (Miro Dacho) - členovia komisie ocenili dramaturgický výber hry: *„...s mimoriadne aktuálnou témou rozprávanou prostredníctvom archetypálneho príbehu trójskej vojny... prvé uvedenie na Slovensku...dramaturgický objav...“*
@@ -39,12 +32,7 @@ Herecké výkony (Lucia Jašková, Marek Geišberg, Zuzana Rohoňová, Barbora P
 
   Inscenácia Hekuba je tematicky mimoriadne závažná. V dobe, keď sa Európa (a my s ňou) nachádzame na hraniciach naozajstného vojnového konfliktu odhaľuje subjektívne pohnútky a myšlienky ľudí, ktorí vojnu vyprovokovali, ktorí ju vedú a neskončia, kým nevyhrajú. Vyjadruje tragédiu civilizácie v konflikte s primitívnou túžbou po moci. Tragédiu rozumu a empatie v boji so silou a megalomanstvom. A hoci je inscenácia vytvorená na pôdoryse regulárnej vojny, zvnútornenými monológmi obnažuje aj intímne motivácie aktérov príbehu (vojny), teda aj nás samých. Akoby táto inscenácia potvrdzovala pravidlo, že ak sa ľudstvo a človek nepoučí z vlastnej histórie, bude jej tragédiu prežívať vždy znova a znova. Mimoriadne silným aspektom inscenácie je aj obraz hrdej, silnej ženy – matky, ktorá svojím principiálnym bytím obviňuje malosť prízemnej spoločnosti založenej na permanentnom boji o moc a prevahu.
 
- 
-
-**Divadlo Jozefa Gregora Tajovského Zvolen – *PERPLEX***
-
- 
-
+**Divadlo Jozefa Gregora Tajovského Zvolen – *PERPLEX***\
 Na webovej stránke divadla sa o inscenácii dozvieme: Dynamická spleť humorných situácií, z ktorých sa vám zamotá hlava. Provokatívna komédia Mariusa von Mayenburga, ktorý svoju prvú cenu získal ešte ako začínajúci autor v roku 1997. Nemecký dramatik je majstrom groteskných situácií a znepokojivých otázok, ktoré sa týkajú súčasného sveta a rodiny. V hre Perplex z roku 2010 sa jednoduchý návrat Evy a Roberta z dovolenky postupne zmení na kolektívnu nočnú moru. Po následnom stretnutí s Judith a Sebastiánom, ktorí sa počas ich neprítomnosti starali o ich byt, sa roztočí absurdná zápletka, v ktorej sa hrá o ich dovtedajšie istoty a vzťahy. Všetky postavy sú nútené často vystúpiť zo svojej komfortnej zóny, aby riešili ďalšie a ďalšie nečakané komplikácie. Navonok však musia zachovávať pokoj, čo vytvára originálne komediálne napätie a výborné herecké príležitosti. Nečakané situácie sa dynamicky striedajú až do prekvapivého konca.
 
 Na Slovensku často riaditelia, principáli ale i diváci povedia: V divadle si divák musí predsa oddýchnuť, zabaviť sa, zasmiať sa, uniknúť z ťažkej reality všedného života. A v mene marketingu tvoríme komédie, kde témou je smiech a zábava pre smiech a zábavu. Nenastavujeme si „krivé zrkadlá“, v ktorých by sme videli svoje vnútorné slabosti, bolesti či životnú situáciu z odstupu. Tým akoby sme rezignovali na možnosť, že divadlo (aj komédia) nám môže pomôcť pri riešení životných udalosti či zorientovať sa v „spoločenskom mravenisku“. Komédia Perplex v réžii Jána Luterána však ako výnimka  potvrdzuje pravidlo. Táto výborná komédia Mariusa von Mayenburga totiž vstupuje divákovi až do podvedomia a zhmotňuje naše sny, túžby či myšlienky.
@@ -67,12 +55,7 @@ K celkovému hodnoteniu inscenácie zaznievali od členov komisie reflexie typu:
 
 *„Divadelné spracovanie odmieta stereotyp, toto smerovanie foriem však s najväčšou pravdepodobnosťou ovplyvňuje pôvodná hra. Perplex vzbudzuje otázky, na ktoré sa odpovedá len ťažko, ťažko uchopiť motivácie, princípy, myšlienkové procesy účinkujúcich, no opäť sa dostanem len k prvej dedukcii – všetko je obsiahnuté už v pôvodnej hre....“*
 
- 
-
-**ODIVO – *Vnorená***
-
- 
-
+**ODIVO – *Vnorená***\
 Nezriaďované zoskupenie ODIVO, ktorého hybnou silou sú režisérka Monika Kováčová a performerka a režisérka Mária Danadová, je v kontexte slovenského profesionálneho divadla už dobre známou entitou. Ich tvorba je dlhodobo pozitívne hodnotená divadelnými odborníkmi nielen na Slovensku, ale aj v zahraničí. Projekt Vnorená však posúva (aj na ich pomery) hranice divadla. Čistý, krehký no hlboký a závažný príbeh o chorobe, starobe, smrti a potrebe starostlivosti znie v autentickom rozprávaní aktérky (Zuzana Galková)  z reproduktorov. Scénografia Juraja Poliaka je vlastne výtvarnou inštaláciou 4 bodovo nasvietených vaní plných vody a jedného plavčíkovho stanovišťa. Hudobná zložka projektu je realizovaná naživo kapelou Myši na poli (David Javorský, Lukáš Kubičina a Jakub Mudrák). Základ choreografie vytvorila Lívia Mendéz Marín Balážová. Nový a veľmi zaujímavý je aj koncept projektu, ktorý predpokladá, že sériu predstavení odohrá vždy iný performer (nehľadiac na to, či je to muž alebo žena). A hoci projekt výrazne pracuje s pohybom a nonverbalitou, nie je to typické pohybové divadlo. Projekt osciluje na hranici druhu, žánru, spomienok, ich zhmotnení a rekonštrukcii pocitov s výraznou prítomnosťou momentálnej improvizácie. Predstavenie plynie, rovnako ako voda, spomienky či hudba. Neatakuje, len pôsobí na emocionálno-racionálne podvedomie diváka, ktorý intuitívne spája svoje zážitky a pocity s performerkou.
 
 Dramaturgia, koncept, réžia, hudba, herectvo: (Monika Kováčová, Maja Danadová) -  *„pozoruhodná audiovizuálna (re)perfomancia – ďalší z kandidátov na postup, problém staroby, starnutia, starostlivosti a umierania – veľmi dôležitý a opomínaný, poézia v pohybe, pomohol by výraznejší dramaturgicko-režijný zástoj, ktorý by jednotlivé paralelné zložky syntetizoval“*
@@ -83,12 +66,7 @@ Dramaturgia, koncept, réžia, hudba, herectvo: (Monika Kováčová, Maja Danado
 
 *„Performatívne predstavenie autentického príbehu s bravúrnym výkonom hlavnej predstaviteľky za pomoci akustickej zvukovej zložky vytvára silnú emočnú dráhu do vlastnej duše.“*
 
-
-
-**DIVADLO JOZEFA GREGORA TAJOVSKÉHO - *Sme krajina: príbeh ľudí, priehrady a času***
-
-
-
+**DIVADLO JOZEFA GREGORA TAJOVSKÉHO - *Sme krajina: príbeh ľudí, priehrady a času***\
 Skutočný príbeh priehrady, ktorá nakoniec nevznikla a dediny, ktorá nakoniec nezanikla. Príbeh nezmyselného projektu produktu nezmyselnej doby? Alebo ide o človeka, ktorý sa vníma ako pán zemegule a je presvedčený, že „poručí větru i dešti“ a v mene seba a svojich potrieb paradoxne neváha systematicky ničiť to, čo je podmienkou jeho prežitia? Dôležité témy v konkrétnom čase i priestore.  Petra Tejnorová v súlade so svojou typickou tvorivou metódou aj v inscenácii Sme krajina programovo experimentuje, narúša ustálené princípy a skúma hranice možného. V jednej inscenácii súčasne využíva princípy dokumentárneho divadla, žánru live cinema, výraznú javiskovú metaforu aj diváka ako kolektívneho herca. Realizovaná metóda javiskového synkretizmu má všetky predpoklady dynamizovať tematicky analytický zámer inscenácie a vytvoriť výraznú dramatickú situáciu. Veľmi dôležitým faktorom účinnosti tejto metódy je však presná dramaturgia a temtporytmus inscenácie, ktoré v tomto prípade neboli do dôsledkov využité.
 
 Vyjadrujú to aj kritickejšie a rozporuplnejšie hodnotenia členov komisie.
@@ -109,13 +87,8 @@ Dramaturgia (Marta Ljubková) a réžia (Petra Tejnorová): *„...inovatívna 
 
        A ešte k hereckým výkonom: *“Herci Mária Knoppová, Jana Pilzová, Richard Sanitra, Juraj Smutný stvárnili množstvo postáv a presvedčili o svojej osobnej zaangažovanosti na problematike, aj svojím hereckým majstrovstvom. Spomedzi všetkých veľmi presných hereckých výkonov napokon azda najviac vynikne Jana Pilzová, ktorá dokáže bravúrne oddeliť jednotlivé veľmi rozdielne zosobňované charaktery, ale zároveň si zachovať absolútnu autenticitu konania postáv až do záveru.“*
 
- 
-
-**DIVADLO Z PASÁŽE – *ČAJKA***
-
- 
-
-       Divadlo z Pasáže je profesionálne komunitné divadlo, ktoré ako jediné svojho druhu na Slovensku pracuje s hercami s mentálnym postihnutím. Vo svojej činnosti prepája kultúrnu, umeleckú a sociálnu oblasť. V Banskej Bystrici pôsobí od roku 1995. Režisérka inscenácie Monika Kováčová so súborom vytvorila v posledných rokoch s veľkým úspechom 3 inscenácie: Pinocchio, Norma a Čajka. Môžeme teda konštatovať, že je jednou z „kmeňových“ režisérok divadla. K Čajke sa na webovej stránke divadla vyjadrila:
+**DIVADLO Z PASÁŽE – *ČAJKA***\
+Divadlo z Pasáže je profesionálne komunitné divadlo, ktoré ako jediné svojho druhu na Slovensku pracuje s hercami s mentálnym postihnutím. Vo svojej činnosti prepája kultúrnu, umeleckú a sociálnu oblasť. V Banskej Bystrici pôsobí od roku 1995. Režisérka inscenácie Monika Kováčová so súborom vytvorila v posledných rokoch s veľkým úspechom 3 inscenácie: Pinocchio, Norma a Čajka. Môžeme teda konštatovať, že je jednou z „kmeňových“ režisérok divadla. K Čajke sa na webovej stránke divadla vyjadrila:
 
 *Čajka ako óda na hľadačstvo, prekonávanie hraníc a odvahu byť iný/á. To boli prvé slová, ktoré som si zapísala do poznámok. Slová, ktoré sme počas skúšobného procesu napĺňali významom, individuálnymi asociáciami a skúmali ich z rôznych uhlov, Čajka ako laboratórium, Čajka ako devised theatre, Čajka ako odkrytý proces, Čajka ako túžba po tom, aby sa sloboda nestala len exponátom v múzeu.*
 
@@ -131,12 +104,7 @@ Scenár a réžia: *„Predstavenie komunikuje poetickým jazykom, vytvára obr
 
 Herecké výkony (Michal Daniš, Michaela Ďuricová, Miroslava Kujanová, Lucia Krajčiová, Dorota Králiková, Veronika Lačná): *„Výkony týchto performerov zaujali pre fyzický výkon, dokonalú koncentráciu a ich vlastný nadhľad. Ten podľa mojej mienky opäť nie je neželaným efektom zdravotne postihnutých, ale naopak, výsledkom zodpovedného prístupu tvorkýň a kolektívnej práce všetkých zložiek.“*
 
- 
-
-**SLOVENSKÉ KOMORNÉ DIVADLO MARTIN – *TRI SESTRY***
-
- 
-
+**SLOVENSKÉ KOMORNÉ DIVADLO MARTIN – *TRI SESTRY***\
 200-ročná výborná klasika, jeden z najzaujímavejších slovenských režisérov strednej generácie, čistá až minimalistická scénografia, výnimočná pohybová zložka inscenácie, mimoriadne disponovaný a kvalitný herecký súbor. A predsa... Inscenácia zostáva v rovine síce kvalitného profesionálneho divadla, no diváka necháva emocionálne chladným. Rozum dešifruje témy - prílišné lipnutie na domove, rodine, obavu z neznámeho, odcudzenie, samotu i neschopnosť plnohodnotne prežiť život či lásku. Emócia či nebodaj katarzia sa však nedostavujú. Forma inscenácie vytvára štvrtú stenu, ktorá svojou profesionálnou dokonalosťou divákovi doslova znemožňuje „napojiť“ sa na postavy a prežiť ich strachy, bolesti, ale i momenty šťastia. A tak sa vzájomný dialóg javisko-hľadisko mení na odcudzené sledovanie javiskového diania, ktoré môže zaujať, ale nezasiahne...
 
        Ale názory členov komisie môžu byť rôzne:
@@ -153,17 +121,10 @@ K hereckým výkonom (Lucia Jašková, Alena Pajtinková, Barbora Palčíková,
 
 *„Napriek virtuozite v hereckom stvárnení, vznikajúcom pohybovom stvárnení a premyslenej koncepcii priznávam, že ma inscenácia emocionálne nezasiahla tak ako by som očakávala.“*
 
- 
-
-**TEATRO TATRO – *KABARET***
-
- 
-
+**TEATRO TATRO – *KABARET***\
 Divadlo svoju inscenáciu predstavuje stručne: *„KABARET –u m. humoristický, niekedy satirický program s hudobnými, speváckymi, tanečnými a scénickými výstupmi spojenými so sprievodným slovom; zábavný podnik s týmto programom. KABARET TEATRO TATRO – pokus o návrat do čias, keď kabaret bol miestom bujarej zábavy, ale aj miestom, kde vznikali nové smery v umení. KABARET V ŠAPITÓ – miesto, kde sme chránení pred nebezpečenstvom, ktoré na nás číha vonku. Slobodné územie, kam neprenikne zvonka ani choroba, ani chudoba ducha, ani iná pliaga…“*
 
        Divadlo Teatro Tatro je na slovenskej divadelnej mape už 31 rokov relevantným, svojbytným a originálnym subjektom. Poetika jeho režiséra a principála Ondreja Spišáka nemá striktné hranice a nič divadelné, hravé a metaforické jej nie je cudzie. „Rôznorodé“ prvky vždy spája silný príbeh. Preto aj zámer vytvoriť kabaret s použitím textov rôznych autorov na tému „malosti“ obyčajného človeka sa zdá ako prirodzený krok na ceste za tvorivou slobodou a ďalšou vyššou vývojovou fázou divadla. Bohužiaľ, inscenácia plná naozaj výbornej hudby (Martin Geišberg, Kamil Mikulčík, Patrik Pačes a Lucia Korená),  kvalitných hereckých výkonov či zaujímavých textov (ktoré nesú rôzne aktuálne témy), budí rozpačitý dojem. Akoby jednotlivé časti (hoci kvalitné a profesionálne) nevytvorili celok. Spojením programovo lineárnych a zámerne samostatných inscenačných častí nedošlo k vytvoreniu vyššej tematickej i formálnej kvality. Jednotlivé epizódy prepájané hudbou sa nevrstvia a nedopĺňajú. Je veľká škoda, že potenciál inscenácie sa nenaplnil a neprinútil ma smiať sa dovtedy, kým si uvedomím, že Teatro Tatro hrá o mojej vlastnej malosti.
-
- 
 
 Koncept a réžia: (Ondrej Spišák) – z reflexií členov komisie: *„...pokus o nadviazanie na poetiku slávnych inscenácií Teatra Tatra, ktorý sa však ukázal ako slepá ulička – už takmer vyprázdnená forma – niekoľký krát vylúhovaný čaj, vizuálna a hudobná stránka v tomto smere nesklamala, skôr dramaturgicko-režijný koncept zlyháva, resp. absentuje, rozbité scénky rôznej úrovne bez jednotiaceho ducha, bez jednotiacej myšlienky...“*
 
@@ -173,19 +134,12 @@ Koncept a réžia: (Ondrej Spišák) – z reflexií členov komisie: *„...p
 
 *„Možno práve očakávania zmarili môj konečný dojem z tejto inscenácie. Scéna, inscenačný tím, účinkujúci, hudba: To všetko bol „trademark“ Teatra Tatra. Myslím, že forma kabaretu mala v sebe väčší potenciál, ten však podľa môjho názoru nedokázali tvorcovia dostatočne vyčerpať. Väčšina scén pôsobila dojmom interných vtipov, ktoré síce fungujú (nakoľko ich vytvárajú účinkujúce a účinkujúci s obrovským zmyslom pre vtip a povestnú nadsázku), avšak ako som napísal už prv, ich pomer bol príliš vysoký. Celkový dojem pôsobí rušivo, strácal som sa vo víre impulzov. Napriek nie príliš prajnému hodnoteniu je pre mňa nezanedbateľná jedna charakterová črta inscenácie Kabaret. Potreba a motivácia tvorcov prísť v čase mnohých spoločensko-sociálnych kríz s konceptom pobaviť diváka poctivým humorom, so štipkou filozofie a absurdity.“*
 
-
-
 Herecké výkony a kapela:  (Vito Bednárik, Martin Geišberg, Róbert Jakab, Zuzana Konečná, Lucia Korená, Rudo Kratochvíl, Lukáš Latinák, Kamil Mikulčík, Martin Nahálka, Peter Oszlík, Patrik Pačes, Agáta Spišáková, Peter Šimun, Milan Vojtela): *„vynikajúce herecké výkony plné humoru a nadsádzky....“*
 
 *„Napriek všetkým superlatívom, ktoré vyplynuli z umeleckej virtuozity jednotlivcov, či už ide o hercov alebo muzikantov, slabšou sa javí dramaturgia inscenácie....“*
 
- 
-
-**DIVADLO POD BALKÓNOM – *VČIELKA EJKA***
-
- 
-
-       Aj v dnešnej dobe, čiže v treťom tisícročí, začujeme z času na čas od divadelných odborníkov a praktikov: to je iba divadlo pre deti alebo to je iba bábkové divadlo. Časť profesionálnej divadelnej obce totiž zastáva názor, že tvorba pre deti je jednoduchšia ako tvorba pre dospelých. Veď deťom stačia farby, detinskosť, pesničky a zábava. Dieťa je nenáročný divák, pre ktorého je dôležitejšia forma ako obsah... Skutočnosť je však iná. Tvorba pre detského diváka je rovnako náročná, ak nie náročnejšia ako pre dospelých. Dieťa je múdry a spontánny divák. Jeho okamžité reakcie odhalia nielen komunikačnú kvalitu a temporytmus inscenácie, či invenčnú tvorivosť autorov, ale predovšetkým úprimnosť a zaujatosť tvorcov. Nie, deťom nestačia iba pekné obrázky. Dieťa od divadla podvedome očakáva zábavu, ale aj poznanie a možnosť osobnostného rozvoja. Preto je v kvalitnom divadle pre deti nesmierne dôležité analytické spracovanie témy, príťažlivá forma komunikácie s divákom, výrazná javisková metafora a silný príbeh. Všetky tieto súčasti kvalitného divadla pre deti sú prirodzenou súčasťou činoherného a bábkového divadla, ale aj divadla predmetu. Podceňovanie tvorby pre detského diváka je krátkozraké a dokazuje povrchnosť a nesprávnosť tohto presvedčenia. Skúsenosť totiž potvrdzuje, že kvalitné divadlo pre deti je aj divadlom pre dospelých.
+**DIVADLO POD BALKÓNOM – *VČIELKA EJKA***\
+Aj v dnešnej dobe, čiže v treťom tisícročí, začujeme z času na čas od divadelných odborníkov a praktikov: to je iba divadlo pre deti alebo to je iba bábkové divadlo. Časť profesionálnej divadelnej obce totiž zastáva názor, že tvorba pre deti je jednoduchšia ako tvorba pre dospelých. Veď deťom stačia farby, detinskosť, pesničky a zábava. Dieťa je nenáročný divák, pre ktorého je dôležitejšia forma ako obsah... Skutočnosť je však iná. Tvorba pre detského diváka je rovnako náročná, ak nie náročnejšia ako pre dospelých. Dieťa je múdry a spontánny divák. Jeho okamžité reakcie odhalia nielen komunikačnú kvalitu a temporytmus inscenácie, či invenčnú tvorivosť autorov, ale predovšetkým úprimnosť a zaujatosť tvorcov. Nie, deťom nestačia iba pekné obrázky. Dieťa od divadla podvedome očakáva zábavu, ale aj poznanie a možnosť osobnostného rozvoja. Preto je v kvalitnom divadle pre deti nesmierne dôležité analytické spracovanie témy, príťažlivá forma komunikácie s divákom, výrazná javisková metafora a silný príbeh. Všetky tieto súčasti kvalitného divadla pre deti sú prirodzenou súčasťou činoherného a bábkového divadla, ale aj divadla predmetu. Podceňovanie tvorby pre detského diváka je krátkozraké a dokazuje povrchnosť a nesprávnosť tohto presvedčenia. Skúsenosť totiž potvrdzuje, že kvalitné divadlo pre deti je aj divadlom pre dospelých.
 
 Ak vyššie uvedené nároky aplikujeme na inscenáciu Divadla pod balkónom – Včielka Ejka, môžeme konštatovať, že inscenácia rieši dôležitú a aktuálnu tému (ochrana prírody), má prirodzenú a fungujúcu formu komunikácie i zaujímavý príbeh. Jej  spracovaniu však chýba analytickejšia práca s témou a zásadnejšia javisková metafora. Inscenácii by pomohol výraznejšia dramaturgicko-režijná koncepcia.  
 
@@ -199,13 +153,8 @@ Koncept a réžia (Ján Haruštiak ) *„Prinášať deťom poznanie z prostred
 
 Herecké výkony (Ján Haruštiak, Barbora Bušovská): *„Obaja hereckí predstavitelia sú presvedčiví vo svojich postavách aj hereckých výkonoch ako takých. S prehľadom plnia svoju úlohu na javisku.“*
 
- 
-
-**DIVADLO POD BALKÓNOM  - *KOZLIATKA***
-
- 
-
-       Klasický rozprávkový príbeh bez výraznejšej témy a interpretácie, jedna herečka v interakcii s bábkami, praktická no bezobsažná scénografia. Herecký prejav bez vnútornej zaujatosti. Inscenácia asi zabaví deti predškolského veku, neprináša však ani analyticky budovanú závažnejšiu tému, využíva tradičné až neinvenčnú formu komunikácie, absentuje aj javisková metafora. V porovnaní s Včielkou Ejkou (Divadlo pod Balkónom) nemá inscenácia Kozliatka ani výraznejší edukačný rozmer.
+**DIVADLO POD BALKÓNOM  - *KOZLIATKA***\
+Klasický rozprávkový príbeh bez výraznejšej témy a interpretácie, jedna herečka v interakcii s bábkami, praktická no bezobsažná scénografia. Herecký prejav bez vnútornej zaujatosti. Inscenácia asi zabaví deti predškolského veku, neprináša však ani analyticky budovanú závažnejšiu tému, využíva tradičné až neinvenčnú formu komunikácie, absentuje aj javisková metafora. V porovnaní s Včielkou Ejkou (Divadlo pod Balkónom) nemá inscenácia Kozliatka ani výraznejší edukačný rozmer.
 
 Koncept a réžia (Martin Vaněk): *„Pri hodnotení Kozliatok však tápeme. Celé predstavenie je postavené na charizme herečky, ktorá má ťažkú úlohu, pretože ju nepodrží ani bravúrny text, ani invenčný režijný koncept (Martin Vanek).“*
 
@@ -215,22 +164,9 @@ Herecké výkony: *„Herecký výkon bábkoherečky bol automatizovaný, scéno
 
 *„Herecká predstaviteľka (nepodarilo sa mi zistiť meno, ospravedlňujem sa – pozn. autorky) dokazuje, že je skúsená profesionálka, ktorá ovláda prácu s detským divákom a napriek všetkému si dokáže udržať pozornosť, hoci by sme očakávali viac priamej interaktivity s detským divákom, ktorá zostáva skôr len v jednosmernej verbálnej rovine zo strany herečky.“*
 
- 
-
-**Záverom**
-
-
-
+**Záverom**\
 Celkovo je dôležité skonštatovať, že takmer všetkým prihláseným produkciám dominovala vysoká miera profesionality a spoločenskej aktuálnosti. Tvorcovia inscenácií (prevažne) veľmi jasne a odvážne formulovali svoje myšlienky, témy i postoje (doba „zahmlievacích“ metafor či inotajov akoby zostala v minulosti). Výsledkom tejto skutočnosti sa stala veľmi čistá komunikatívnosť a divácka zainteresovanosť jednotlivých produkcií. Väčšina režisérov pracovala s uzavretým javiskovým dianím bez využívania diváckej interaktivity či „odstránením“ štvrtej steny, predstavenia vťahovali divákov dejom, výpravou či hereckými výkonmi, ale aj závažnými osobnými a spoločensky aktuálnymi témami.
 
- 
-
-      
-
 Komisia odporučila na postup do 2. kola inscenácie : SKD Martin Hekuba (réžia: Lukáš Brutovský), DJGT Zvolen Perplex (réžia : Ján Luterán)
-
- 
-
- 
 
 *Text na základe čiastkových písomných reflexií členov komisie a následnej diskusie vypracovala Veronika Gabčíková.*
