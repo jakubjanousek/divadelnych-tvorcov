@@ -10,33 +10,21 @@ featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
 ---
 *Hodnotiaca komisia sa zišla online začiatkom augusta, dôsledne analyzovala jednotlivé inscenácie, ale práce v nej sa zúčastnili namiesto piatich iba štyria hodnotitelia. Okrem toho sa opakuje problém, že najmä nezávislé divadlá hrajú prihlásené inscenácie občas mimoriadne riedko a členovia komisie preto vidia niektoré inscenácie iba zo záznamov, ktoré sú rôznej kvality a nenahrádzajú živú percepciu diela. Týka sa to však aj inscenácie zriaďovaného Divadla Thália Otec, Matka, Chľast, ktorá sa v hodnotiacom období nehrala ani raz. Uvedené fakty (menší počet hodnotiteľov, inscenácie zo záznamu, resp. vôbec „nevidené“ z akýchkoľvek príčin) v konečnom dôsledku negatívne ovplyvňujú snahu Akadémie i členov komisie o maximálnu objektívnosť pri hodnotení jednotlivých javiskových diel.*
 
-*Prihlásené inscenácie: Oidipus; Titus Andronicus*
-
-*(obe Národné divadlo Košice), Sen noci svätojánskej; Otec, Matka, Chľast (obe Divadlo Thália Košice), Statočný cínový vojačik (Bábkové divadlo Košice), Dievča z morského dna; Niekoľko skíc k vlastnej samovražde (obe Divadlo Na Peróne), ODAMŠENEODAM; Udri pastiera (obe Divadlo VIOLA) a Ivanov (Divadlo Alexandra Duchnoviča).*
+*Prihlásené inscenácie: Oidipus; Titus Andronicus (obe Národné divadlo Košice), Sen noci svätojánskej; Otec, Matka, Chľast (obe Divadlo Thália Košice), Statočný cínový vojačik (Bábkové divadlo Košice), Dievča z morského dna; Niekoľko skíc k vlastnej samovražde (obe Divadlo Na Peróne), ODAMŠENEODAM; Udri pastiera (obe Divadlo VIOLA) a Ivanov (Divadlo Alexandra Duchnoviča).*
 
 *Hodnotiaca komisia pracovala v zložení: MUDr. Géza Hizsnyan, Mgr. Tatiana Masníková, Hana Rodová a PhDr. Peter Kováč. PhDr. Miron Pukan, PhD. sa vyhodnotenia nezúčastnil.*
 
-
-
-**DIVADLO ALEXANDRA DUCHNOVIČA**
-
-A. P. Čechov: IVANOV
-
+**DIVADLO ALEXANDRA DUCHNOVIČA**\
+A. P. Čechov: IVANOV\
 Réžia a výprava: Svetozár Sprušanský
 
-           
-
             V Divadle Alexandra Duchnoviča v Prešove  po 18-tich rokoch od uvedenia *Uja Váňu*, a takmer na deň presne po piatich rokoch od uvedenia *Izby č. 6* odpremiérovali ďalšiu zo série Čechovových hier – Ivanova. Všetky tri hry v tomto divadle spája meno režiséra Svetozára Sprušanského rovnako ako aj hlavného predstaviteľa Jevgenija (Žeňu)Libezňuka.
-
- 
 
             Prázdnota, formálnosť a pokrytectvo opantáva duše Čechovových postáv v jeho hre *Ivanov* a – samozrejme – prázdny a bezobsažný život trápi aj hlavného „hrdinu“. Čechov zobrazuje ani nie vnútorný zápas Ivanova, veď slovo zápas predpokladá aspoň trochu vznešenosti, ale akési vnútorné „mocovanie sa“ s elementárnymi otázkami bytia uprostred každodennej všednosti (Ivanov nie náhodou spomína Hamleta), ale malichernosť a banalita jeho „prostredia“ neumožňuje tieto otázky ani len poriadne sformulovať. Ivanov nemá dobrý vzťah ani len k samému sebe a aj preto považuje mučivosť otázok, ktoré si kladie, i svoj zlý životný pocit za nemohúcne vajatanie, ktoré ho vedie až k pohŕdaniu sebou samým a začína pociťovať neznesiteľnú „ťažkosť“ bytia. Protiklad „poriadnej“ spoločnosti a deviantného jedinca sa zrejme ani v jednej z Čechovových hier neobjavuje s takou ostrosťou ako práve v Ivanovovi.
 
             Bieda Libezňukovho Ivanova nespočívala v tom, že stratil zmysel života, ale v tom, že zmysel nenašiel. Libezňukov Ivanov sa po chlapsky vzdáva ilúzií, kompromisov, dokonca aj lákadiel a zvodov mladučkej dievčiny Saši, ktorá ho miluje. Ivanov v réžii Sprušanského nečaká na ľútosť či súcit iných. Je sám sebe terčom až natoľko, že nie je schopný akéhokoľvek činu. Prázdnotu svojho života prežíva na jednej strane ako bolestnú skľúčenosť, tieseň, na strane druhej ako nudu, ktorá charakterizuje aj celú jeho spoločnosť.
 
             Režiséra Sprušanského Čechov láka, ako dramaturg dobre vie, ako hlboko videl do vnútra ľudí a spoločnosti, ktorá sa dobrovoľne vzdala akejkoľvek sakrálnosti a možno ju nikdy ani naozaj nevnímala. Sprušanský je aj dostatočne poučený, nie náhodou číta aj Ivanova ako predlohu, ktorá sa formálne z hľadiska štýlu a žánru dá azda najlepšie interpretovať ako ostrá, pichľavá, bolestná i smutná groteska, ktorá je zároveň nemilosrdnou kritikou vyprázdneného bytia dnešnej doby. No medzi groteskou a fraškou či karikatúrou je niekedy veľmi tenká, ale o to významnejšia čiara, ktorú inscenácia nie raz prekračuje a nejde jej to k duhu. Ide v princípe o to, že pokiaľ groteskné zobrazenie zveličuje isté prvky preto, aby umožnila divákovi lepšie pochopiť obludnosť vecí tak, že odkrýva hĺbkové príčiny javov, dejov a situácií, fraška či karikatúra si vystačí a uspokojí sa aj so zobrazením obludnosti ako takej. Úmysel je čitateľný a v istom zmysle chválihodný. Všetky postavy okolo Ivanova sa ukazujú ako groteskné karikatúry, ktoré svoj nudný život nedokážu naplniť inak, než arogantným správaním. Netúžia po ničom inom, než urobiť nejaký dojem a za každú cenu sa snažia vehementne zapôsobiť. Každý si žije vo vlastnej bubline a v predstavení symbolom tejto uzavretosti a egoizmu je zaváraninová fľaša nechutného ovocného džemu do čaju. V závere predstavenia účinkujúce postavy vychádzajú na javisko s prilepenou fotografiou vlastnej tváre na zaváraninovej fľaši a takto deklarujú svoj egoizmus a zahľadenosť do seba, čím tragédia Ivanova ide aj na ich vrub: pre nepochopenie, nevšímavosť a pokrytecký spoločenský nátlak z ich strany. Mnohé ďalšie postavy a postavičky tohto čechovovského panoptika sa zjavujú nielen v Ivanovovom živote, ale i na takmer prázdnej scéne, ktorej  hĺbku znásobuje svietenie i večná hmla, ktorá sa vinie ako prízrak príbehom. Postavy vchádzajú a vychádzajú na scénu po imaginárnych pravouhlých cestičkách, čo im umožňuje zjavovať sa ale i miznúť v tme. Túto zdanlivo jednoduchú scénografiu pozostávajúcu len z náznaku jednotnosti postsocialistického zariadenia príbytkov jednotlivých postáv, alúzie na svet ako divadlo, ale aj typické doplnky pseudo elít národa (knihy  ako symbol intelektuálov, Leninova busta hodená pod stolom ako jasný znak odporu), dopĺňajú kostýmy, ktoré charakterizujú jednotlivé postavy nielen v materiáloch, ale aj vo farbách a strihoch niekde na pomedzi „disca“ 70-tych a 80-tych rokov a univerzálnej všednosti druhej polovice 20. storočia. Aj kostýmová výprava nám odhaľuje meštiacku spoločnosť odetú do módnych pestrofarebných odevov pripomínajúcu dnešný „trend“ pozlátka bez hlbšieho ponoru do existencie a pochopenia vlastného bytia.
-
- 
 
             Ivanovovej spoločnosti dominujú herci staršej generácie: Ivanovovho priateľa, pijana Lebedeva, hrá Vasiľ Rusiňák, Ivanovovho strýka Jozefa Tkáč. Mladú generáciu zastupuje Saša, v podaní Viktora Fedykovycha, ktorý ale týmto skúseným hercom ešte nedokáže byť na scéne úplne rovnocenným partnerom. Jozef Pantlikáš ako lekár Ľvov je vtipnou krehkou postavičkou ~~v~~ medzi spoločenskými predátormi. Libezňuk a Pantlikáš vedú svoj dialóg opatrne, cítiť z neho súcit lekára s Annou Petrovnou a protest Ivanova, ktorý vyznieva ako protest proti celému systému jednotvárnych pohľadov na dušu človeka objavujúci sa v podtextoch pod replikami Ivanova- Libezňuka. Ľubomír  Mindoš v úlohe daniara Kosycha, Vladimír Roháč ako Borkin a Martin Oravec ako Paša už len zručne dopĺňajú toto panoptikum. Spomedzi herečiek treba vyzdvihnúť tragickú postavu Jaroslavy Sisákovej ako Ivanovovej manželky Sáry, ale i hravú neohrabanosť malomeštiačky v podaní Ľudmily Lukačíkovej. Daniela Libezňuk zas expresívne rozohráva neriadenú strelu - bohatú vdovú Babakinovú. Spomenúť treba aj roztopašnú mladícku starenu v podaní hosťujúcej Svetlany Škovranovej. Iveta Fedorková v úlohe slúžky je skôr vizuálnym doplnkom hry a Zdenka Kvásková ako mladá Saša Lebedevová vyčnieva z davu štylizovaných postáv civilným prejavom. Ženské postavy sú v súlade s režisérovou koncepciou zámerne zjednodušovaných, až povrchne kreslených charakterov.  Téma „zbytočných ľudí“, sa prezentuje skôr cez oklieštený výber hereckých prostriedkov.
 
@@ -46,19 +34,9 @@ Réžia a výprava: Svetozár Sprušanský
 
             Ambiciózna, no rozpačitá inscenácia, s niekoľkými zapamätateľnými divadelnými momentami, z ktorých iste najviac utkvie Libezňukov výkon.
 
- 
-
- 
-
- 
-
-**DIVADLO NA PERÓNE, KOŠICE**
-
-Jana Bodnárová: Dievča z morského dna
-
+**DIVADLO NA PERÓNE, KOŠICE**\
+Jana Bodnárová: Dievča z morského dna\
 Réžia: Jana Wernerová, Peter Kočiš
-
- 
 
 Spisovateľka Jana Bodnárová  napísala hru *Dievča z morského dna* v r. 2008. Jana Bodnárová je autorkou, ktorej hrdinkami sú často ženy,  ktoré sú aj v tých najbizarnejších situáciách uveriteľné a autentické, s hlbokým ponorom do svojho vnútra.
 
@@ -72,21 +50,10 @@ Spisovateľka Jana Bodnárová  napísala hru *Dievča z morského dna* v r. 
 
 V závere inscenácie sa pacientka ukrýva medzi morskými rastlinami a  ponára sa do sveta ticha, kde nie je nič, len prázdny priestor, ktorý je hádam pre Leu tým najdôležitejším liekom. Cieľom režijnej koncepcie nebolo ponúknuť divákom smršť emócií. Inscenácia si ani „nevynucuje“ súcit s pacientkou a jej prežitým krutým  príbehom, a preto ani nesmeruje  k silnej emocionálnej katarzii. Inscenátorom zrejme išlo viacej o námet na rozmýšľanie, o viac racionálne než emotívne naliehanie na publikum. Vidí sa nám, že to bol šťastný prístup, lebo podobne ako inscenácia *Otec, Matka, Chľast* aj *Dievča z morského dna* sa vedome vyhýba pasciam gýčovitého citového vydierania. Dôležitejšie je poznanie cez príbeh Lei, že psychické týranie dieťaťa, ponižovanie, šikanovanie, citové a duševné zanedbávanie, dokonca sexuálne zneužívanie detí sú témami, o ktorých je mimoriadne dôležité rozprávať aj na divadelných javiskách. Musíme však pripustiť aj názor, že v priebehu fragmentárneho deja „ostáva divák na okraji príbehu, odtrhnutý od atmosféry a prežitku, nakoľko krutý životný osud hrdinky je posunutý k horizontu za priehľadnú bielu tzv. štvrtú stenu“. Z psychologickej monodrámy „sa vytratila psychológia, traumatický zážitok pacientky na publikum nedoliehal“. Každopádne je možné stotožniť sa s názorom, že *Dievča z morského dna* je „veľmi aktuálnym príbehom o jemnom človeku v krutom svete“. Inscenáciu dopĺňajú hudobné pasáže Dead Janitora a sugestívne tóny takmer šamanského spevu Jany Wernerovej.
 
- 
-
- 
-
- 
-
-**Otec, Matka, Chľast**
-
-Divadlo Thália Košice
-
-Scenár: Róbert Lucskay, József Czajlik, Miki Forgách
-
+**Otec, Matka, Chľast**\
+Divadlo Thália Košice\
+Scenár: Róbert Lucskay, József Czajlik, Miki Forgách\
 Réžia: Józef Czajlik
-
-
 
 „Vezmi silný text a dobrého herca a...“ – takto by sa mohol začať recept na akúkoľvek silnú, pôsobivú a hodnotnú divadelnú inscenáciu, špeciálne však v prípade, ak ide o divadlo jedného herca. Monodrámu. Konečný výsledok však aj v takomto prípade môže ovplyvniť ešte veľa vonkajších faktorov.
 
@@ -106,19 +73,9 @@ Kľúčovým je Lucskayov herecký výkon, ktorý sa pohybuje od fyzicky energic
 
 miest po intímnu mimiku, cez mnohofarebnú hlasovú moduláciu až po prvky pohybového divadla a túto fascinujúcu škálu rôznorodých hereckých prostriedkov predvádza na vysokej úrovni tak, že je v každom okamihu svojho hereckého koncertu absolútne pravdivý a uveriteľný, bez jedinej falošnej intonácie či gesta. Jeden z najautentickejších a najpresvedčivejších hereckých výkonov v posledných sezónach azda nielen v dvoch maďarských oblastných divadlách. No a herec je napokon vždy základnou „surovinou“ akéhokoľvek skvelého divadelného jedla. Lucskay ho so svojimi spolupracovníkmi uvarili naozaj výborne.
 
- 
-
- 
-
- 
-
-**Divadlo Thália Košice**
-
-William Shakespeare: Sen noci svätojánskej
-
+**Divadlo Thália Košice**\
+William Shakespeare: Sen noci svätojánskej\
 Réžia: Attila Matušek
-
-
 
             Ak mladý režisér dostane šancu, aby inscenoval svoju obľúbenú hru v riadnom „kamennom“ divadle, tak by sa to divadlo malo zákonite otriasť trochu v základoch. Nuž a Divadlo Thália v Košiciach sa veru aj zatriaslo, lebo konzervatívnejšia časť publika sa vraj zachraňovala z trasúceho sa divadla útekom cez prestávku, ako sme sa dozvedeli z tlače.
 
@@ -140,19 +97,9 @@ Vynikajúca scéna je dielom Michala Lošonského. V priebehu inscenácie získ
 
 nebyť Nádasdiho je takmer spackaná, nešikovne aranžovaná, mladý režisér bežal šprint či strednú trať, pri Shakespearových hrách však treba mať natrénované aj na maratón. Napriek tomu sa mi vidí, že ide o jednu z najpodnetnejších inscenácií uplynulej sezóny minimálne na východnom Slovensku a že v Matušekovi sa rodí výrazný režisérsky talent.
 
- 
-
- 
-
-
-
-**DIVADLO NA PERÓNE**
-
-Divadelná adaptácia knihy *Ruzká klazika* od Daniela Majlinga: J. Wernerová, P. Kočiš
-
+**DIVADLO NA PERÓNE**\
+Divadelná adaptácia knihy *Ruzká klazika* od Daniela Majlinga: J. Wernerová, P. Kočiš\
 Réžia: Jana Wernerová
-
- 
 
 *Ruzká klasika* je Majlingova skvelá mystifikácia, hra na tému, že autor v skutočnosti nie je autor a poviedková zbierka je iba falošná napodobenina ruskej klasiky. Cieľom „fejkových“ kníh podpísaných menami Dostojevszki, Tolsztoi, Toorgenef je uspokojiť čo najširšie vrstvy čitateľov, ktorí nerozumejú ruskej literatúre. Jednoducho povedané majú byť lacnými náhradami pre nenáročného čitateľa. Inscenácia *Niekoľko skíc k vlastnej samovražde* v Divadle na peróne prepája podobne ako predloha nonsens s paródiou. Téma literárnych falzifikátorov ruskej literatúry sa na javisku dostala do polohy absurdnej divadelnej frašky, ktorá ovplyvnila všetky inscenačné zložky od dialógov, hereckých prejavov, cez rekvizity (masky, nové médiá), po koncepčné riešenie hracieho priestoru pozostávajúceho zo zadného a predného plánu.
 
@@ -170,19 +117,9 @@ Remeselná rutina presúvania sa hercov z postavy do postavy je v Divadle na p
 
 Divadelne vyrozprávať literárne príbehy, dalo by sa povedať, klasické epické poviedky však nie je jednoduché bez dôslednej dramaturgie, škrtov a vlastne prepisu literárneho textu do dramatického tvaru. To je najväčší nedostatok tejto inscenácie. Hra je literatúrou na javisku, nie je to však inscenované čítanie, ku ktorému majú „Peronisti“ blízko.Paradoxne „temporytmus hry pokrivkáva, uzatvorenie poviedky a opätovné nastolenie tej nasledujúcej je postupne únavné, hoci samotné poviedky vždy niečím (najmä v hereckej tvorbe a vo vizuálnom koncepte) prekvapia, alebo aspoň vyrušia neočakávaným zvratom“. Napriek celkovo pozitívnemu dojmu z inscenácie je otázne, či sa tvorcom podarilo literárnej mystifikácii nájsť adekvátny divadelný jazyk.
 
- 
-
-
-
-
-
-**NÁRODNÉ DIVADLO KOŠICE**
-
-Sofokles: Oidipus
-
+**NÁRODNÉ DIVADLO KOŠICE**\
+Sofokles: Oidipus\
 Réžia a úprava Anton Korenči
-
-
 
 Národné divadlo Košice prihlásilo dve inscenácie. Obe spája osoba režiséra, dramaturga, takmer kompletne aj ostatných členov inscenačného tímu a obe aj pomyselná dramaturgická kolónka „veľká svetová klasika“, i keď v prípade Tita Andronica nejde o vrcholné Shakespearovo dielo. No a v oboch stvárňuje titulnú rolu Matej Marušin, ktorý svoju košickú hereckú kariéru rozbehol skutočnými hereckými „kladami“, ak k týmto dvom prirátame aj jeho účinkovanie v Dostojevského Besoch.
 
@@ -204,19 +141,9 @@ Istý nesúlad medzi hodnotiteľmi vznikol aj pri celkovom pohľade na inscenác
 
             Fakt, že Oidipus tak trochu rozdeľuje komisiu, považujeme za pozitívum košickej inscenácie, ktorá minimálne podnecuje diskusiu o súčasných prístupoch k inscenovaniu svetovej klasiky.
 
- 
-
- 
-
-
-
-**NÁRODNÉ DIVADLO KOŠICE**
-
-William Shakespeare: Titus Andronicus
-
+**NÁRODNÉ DIVADLO KOŠICE**\
+William Shakespeare: Titus Andronicus\
 Réžia a úprava: Anton Korenči
-
- 
 
             Inscenácia príbehu rímskeho generála, ktorý obetuje Rímu svoje ambície a slepou poslušnosťou rozpúta kolobeh násilia, na ktoré nakoniec sám doplatí, je na rozdiel od iných Shakespearových diel uvádzaná v slovenskom profesionálnom divadle iba po druhýkrát. Prvý raz po tejto predlohe siahol v pamätnej inscenácii Jozef Bednárik v Divadle Andreja Bagara v Nitre v roku 1981. Aktuálna košická inscenácia podobne ako *Oidipus* opäť do istej miery rozdelila názory komisie. Na jej adresu zaznela výčitka, ktorá sa týkala skôr dramaturgického kontextu, do ktorého je zasadená. Podľa nej „problém dramaturgicko-režijnej koncepcie Petra Himiča a Antona Korenčiho spočíva nielen v samotnom načasovaní, keď sa v dobe, nazvime ju tesne popandemickej, politicky nestabilnej a vojnovej, po Dostojevského Besoch – ruskej politicko-psychologickej dráme, už spomenutom Sofoklovom Oidipovi- antickej pandemickej a vojnovej dráme , Weissovom Marat/Sadovi – francúzskej revolúcii a jej krvavej dohre (ktorého ale režíroval Vladimír Strnisko) opäť aj v divadle dostávame do znepokojujúceho príbehu rozvráteného štátu upadajúcej Rímskej ríše, kde vládnu pravidlá neľútostnej schémy politickej existencie, krvnej pomsty a takmer apokalyptickej vízie konca jednej civilizácie.“ Ak však nehodnotíme novú dramaturgickú líniu činohry ND Košice ako celok, inscenácia môže pôsobiť ako „fascinujúca“, so silnou výpoveďou o našej existencii, hodnotách, morálke, krutosti, nenávisti, pomstychtivosti, strate rozumu a citu, o civilizácii a predzvesti jej rozpadu. Na otvorenej scéne sa odohráva krutá ilúzia útočiaca na myseľ diváka, keď sa oprávnene pýtame ako bude vyzerať naša civilizácia zajtra.
 
@@ -234,19 +161,9 @@ Najvýraznejšou kruto-symbolickou situáciou je kanibalská hostina, ktorú Tit
 
             Výčitka, ktorá zaznela na adresu režijno-hereckej práce spočívala v tom, že  herecký súbor nie celkom zvládol, pochopil a interpretoval Shakespearove verše a skutočným hereckým partnerom suverénnej Dany Košickej a predobrazom zosobneného zla bol len Peter Kočiš v postave Árona. Každopádne dva silné herecké výkony Mateja Marušina stoja za pozornosť. Viacerým hodnotiteľom sa videlo, že aj úprava predlohy miestami šla na úkor zrozumiteľnosti príbehu a jednotlivých situácií. Napriek nejednoznačnému prijatiu inscenácie sa nazdávame, že ide o pozoruhodný pokus o esteticky náročný výklad klasickej predlohy a dlhodobá orientácie košickej činohry na veľkú svetovú klasiku môže v pomerne krátkej budúcnosti priniesť ešte výraznejšie divadelné činy.
 
- 
-
- 
-
- 
-
-**BÁBKOVÉ DIVADLO V KOŠICIACH**
-
-Hans Christian Andersen: Statočný cínový vojačik
-
+**BÁBKOVÉ DIVADLO V KOŠICIACH**\
+Hans Christian Andersen: Statočný cínový vojačik\
 Scenár a réžia: Peter Palik
-
- 
 
             Statočný cínový vojačik bezpochyby patrí medzi najobľúbenejšie rozprávky Hansa Christiana Andersena. Jeho divadelné, filmové, či literárne  verzie sa pravidelne objavujú, aby deťom (ale nielen im) pripomenuli silu lásky, dôležitosť viery v samého seba aj napriek možnému (akémukoľvek) hendikepu. Režisér Peter Palik zvolil v Bábkovom divadle Košice cestu inscenovania klasickej rozprávky výrazne divadelným a vizuálnym spôsobom, pričom skúsene využil  potenciál  bábkového divadla. Vsadil na pôsobivosť a silu obrazu, na prácu s predmetmi a hračkami v poetickom prevedení založenom na umne spojenej  výtvarnej imaginácii a práci s hudbou. Neostal však pri notoricky známej línii príbehu, lásky vojačika a baletky, ale naznačil aj tematickú nadstavbu - silu vojenského alebo aj akéhokoľvek iného uniformného kolektívu. Potrebu integrovania ľudí s postihnutím, ktorí často preukazujú oveľa väčšiu mieru statočnosti, odvahy, či rešpektu k iným. Krehkosť snov a nerovnosť šancí.  Ten kto pozná tvorbu Petra Palika vopred tuší, že inscenácia bude zdôrazňovať silu dobra a lásky, odvahu, schopnosť prekonávať prekážky, nepoddávanie sa nepriazni osudu. Palikovo vizuálne divadlo s „rozprávkovo“ romantickou výpravou Nadi Salbotovej opäť potvrdili ich divadelnú nápaditosť.
 
@@ -258,19 +175,9 @@ Starodávna zaprášená rozprávka sa prebúdza pod bielou plachtou, ktorou je 
 
             Hravosť má v tejto inscenácii viacero rozmerov: herci sa hrajú s priestorom a rekvizitami, medzi sebou, vodia bábky, spievajú, vytvárajú výtvarné magické situácie a výjavy. Ide o homogénnu zmes súčasného bábkového herectva. Herci na seba preberajú vlastnosti hrdinov, ktorých práve animujú a z týchto postáv prestupujú do role hercov a naopak. Pred očami diváka vzniká výsledný inscenačný tvar a rozprávkový príbeh zároveň. Táto „zdvojenosť“ nesie dôležitú funkciu. Sprítomnenie herca hrou nevyvoláva u detí hrôzu z tragických udalostí a zároveň sa tragikou neodsúva andersenovská poetika: prehltnutie vojačika rybou, zhodenie vojačka do vodovodného potrubia, smrť vojačika a Baletky uhorením v kozube priamo pred očami publika, ktorí sa v samotnom závere inscenácie našťastie opäť stretnú v nebi. Po statočnom cínovom vojačikovi v popole ostane roztopený cín v tvare srdiečka. Symbol lásky ku krásnej Baletke. „Záver hry však nastolil aj otázku, či je vhodný najmä z etického a edukačného hľadiska.  Krehká baletka sa totiž vedome hodí do ohňa, pričom tento jej krok, cielené spáchanie samovraždy pre lásku (na rozdiel od osudového princípu u Andersena, keď ju do ohňa odveje prievan, aby spojil v smrti lásku dvoch bytostí), nie je nijako komentovaný“, čo niektorí členovia komisie považovali za sporné. Názor na výnimočnú kvalitu inscenácie, aj keď nebola v podstate v ničom „novátorská“, bol však jednomyseľný.
 
- 
-
-
-
-
-
-**DIVADLO VIOLA**
-
-Na motívy románu Vincenta Šikulu: Udri pastiera
-
+**DIVADLO VIOLA**\
+Na motívy románu Vincenta Šikulu: Udri pastiera\
 Scenár a réžia: Kamil Žiška
-
- 
 
 Inscenáciu Udri pastiera možno vnímať aj ako súčasť Žiškovej trilógie o hrdinoch viery zo Slovenska (*Nepolepšený svätec*, SND 2017 o Silvestrovi Krčmérym, *Sára Salkházi*, ŠD Košice 2018 a *Udri pastiera*, 2021, Divadlo Viola Prešov o biskupovi Gojdičovi). Nemôžeme napísať, že ide o slovenských hrdinov, pretože Slovákom bol len Krčméry, Sára Salkházi bola pôvodom Nemka hovoriaca po maďarsky a Gojdič bol Rusín. Všetci traja však mali spoločné jedno – vieru, ktorá ich spravila schopných potlačiť v sebe strach so smrti a z bolesti mučenia. Všetci neobyčajne silne ovplyvnili svoje prostredie a boli aj ostali nasledovaniahodnými hrdinami odporu voči totalitným režimom, či už proti fašistickému (Salkházi) alebo komunistickému. Je veľmi dobré a užitočné, že Žiška divadelne sprítomňuje ich osudy navyše v umelecky silných inscenáciách, z ktorých však najviac vyniká *Nepolepšený svätec* určite aj z dôvodu, že je to predloha najdramatickejšia, ktorá vznikla v spolupráci s Ľubomírom Feldekom.
 
@@ -288,17 +195,8 @@ byzantského sveta. Šikula nedokázal pochopiť tento rozdiel, pretože pochopi
 
 Preto inscenácia viac pripomína akési dokumentárne pásmo~~,~~ je síce hlboko premyslenou intelektuálne-duchovnou štruktúrou, nepostráda pozoruhodné nápady, riešenia a uveriteľné herecké výkony, zároveň však je limitovaná prílišnou fragmentárnosťou, tézovitosťou a „rešpektom pred samotnou témou“.
 
- 
-
-
-
-
-
-**DIVADLO VIOLA, PREŠOV**
-
- Tereza Lexová: Odamšeneodam
-
- 
+**DIVADLO VIOLA, PREŠOV**\
+Tereza Lexová: Odamšeneodam
 
 *Odamšeneodam* (vydám sa či nevydám) je názov hry, ktorú Divadlo Viola prináša na javisko ako žáner kabaretu. Trinásť príbehov ponúka trinásť chodov na tanieri, ktoré pozostávajú z krátkych úryvkov zo  života výnimočných žien. V jednotlivých príbehoch sa otvára otázka emancipácie a postavenia žien od samého počiatku  (vyhnanie Adama a Evy z raja) cez historický prierez ich osudov, hľadanie cesty presadiť svoje túžby a výnimočné schopnosti a to výsostne v dominujúcom mužskom svete. Kabaretná inscenácia je zasadená do prostredia malej kaviarne divadla. Trinásť príbehov v režijnej koncepcii Zuzany Cejnarovej oživil malý kaviarenský priestor „minimalistickou“ formou divadla na divadle, režisérka posúva dej cez nápadité skratky do podoby konkrétneho znakového divadelného jazyka. Hravé využívanie rekvizít metaforicky, vtipne a humorne podčiarkujú tému údelu ženy v rôznych spoločenských situáciách. Hrá sa o ženách, ktoré dokazovali drobnými skutkami v „kuchyni“ i veľkými objavmi, že sú rovnocenné v patriarchálnej spoločnosti, že sa dokážu postarať samy o seba, že vzdelanie, dobrý nápad, talent, alebo aj (ne)šťastná zhoda náhod môže viesť k objavom, poznaniu, k zmenám v myslení, k narúšaniu stereotypov. Nielen umenie, ale aj veda, či šport je priestorom, kde sa ženy vedeli a dokázali presadiť, hoci ich mnohí radšej posielali „do kuchyne“.
 
@@ -312,12 +210,8 @@ Inscenácia je príjemným pobavením a oslavou na tému emancipácie žien, kto
 
 Textu, jeho dramaturgickej koncepcii, hereckým výkon však chýbal hlbší a bohatší rozmer uchopenia témy a čosi, čo pre kabaret veľmi dôležité, osobitejší, originálnejší a brilantnejší humor. Inscenácia je citlivá, ale skôr úsmevná ako skutočne vtipná.
 
- 
-
             Úroveň prihlásených inscenácií bola veľmi slušná, v podstate žiadna z nich nebola vyslovene slabá. Estetická vyrovnanosť, silné témy, zaujímavé herecké výkony si vyslúžili viac uznania ako kritiky, čo však spôsobilo problém pri určení postupujúcich inscenácií, keďže viacerí členovia komisie mali pocit, že nech rozhodnú akokoľvek, vždy niektorej z nich „ublížia“. Nakoniec prešiel kompromisný návrh, aby komisia odporučila na postup do druhého kola tri:
 
 Dievča z morského dna (Divadlo Na Peróne), Otec, Matka, Chľast (Divadlo Thália) a  Titus Andronicus (ND Košice).
-
-  
 
 *Text na základe čiastkových písomných reflexií členov komisie a následnej diskusie vypracoval Peter Kováč.*
