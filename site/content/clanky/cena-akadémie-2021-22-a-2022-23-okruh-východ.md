@@ -12,7 +12,7 @@ featured_img: img/objekt-ceny-za-sezónu-2018-2019.jpg
 
 *Prihlásené inscenácie: Oidipus; Titus Andronicus (obe Národné divadlo Košice), Sen noci svätojánskej; Otec, Matka, Chľast (obe Divadlo Thália Košice), Statočný cínový vojačik (Bábkové divadlo Košice), Dievča z morského dna; Niekoľko skíc k vlastnej samovražde (obe Divadlo Na Peróne), ODAMŠENEODAM; Udri pastiera (obe Divadlo VIOLA) a Ivanov (Divadlo Alexandra Duchnoviča).*
 
-*Hodnotiaca komisia pracovala v zložení: MUDr. Géza Hizsnyan, Mgr. Tatiana Masníková, Hana Rodová a PhDr. Peter Kováč. PhDr. Miron Pukan, PhD. sa vyhodnotenia nezúčastnil.*
+*Hodnotiaca komisia pracovala v zložení: MUDr. Géza Hizsnyan, Mgr. Tatiana Masníková, PhDr. Hana Rodová a PhDr. Peter Kováč. PhDr. Miron Pukan, PhD. sa vyhodnotenia nezúčastnil.*
 
 **DIVADLO ALEXANDRA DUCHNOVIČA**\
 A. P. Čechov: IVANOV\
