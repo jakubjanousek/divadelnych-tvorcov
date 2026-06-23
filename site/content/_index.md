@@ -16,7 +16,7 @@ perex: >-
   *Krstom publikácie Akadémia jednak ohlasuje oficiálne ukončenie Ceny, no zároveň chce dať priestor aj Vám, divadelníkom, či divadelným fanúšikom v krátkej diskusii zazdieľať skúsenosti s ňou. Srdečne pozývame...!*
 
 
-  Publikáciu si môžete stiahnuť zdarma TU.
+  Publikáciu si môžete stiahnuť zdarma [TU](site/static/img/grafika.pdf).
 
 
   ![]()
