@@ -1,51 +1,25 @@
 ---
 perex: >-
-  Jednotlivé komisie zavŕšili svoju činnosť a rozhodli o inscenáciách, ktoré
-  postupujú do druhého kola Ceny Akadémie za sezóny 2021/22 a 2022/23.
+  Akadémia divadelných tvorcov pozýva dňa 25. 6. 2026 o 15:00 do kaviarne Brept
+  na krst e-publikácie pod názvom:
 
 
-  V okruhu VÝCHOD postúpili:
+  **Autenticita? Konzekventnosť? Systematickosť?** 
 
 
-  Dievča z morského dna (Divadlo Na peróne),
-
-  Otec, matka, chľast (Divadlo Thália),
-
-  Titus Andronicus (Národné divadlo Košice).
+  Podtitul publikácie znie: *Príbeh Ceny Akadémie divadelných tvorcov v rokoch 2018 – 2023 cez hodnotenia, zamyslenia a dáta.*
 
 
-  V okruhu STRED:
+  *Publikáciu zostavila Viki Janoušková, redakčne pripravila Veronika Gabčíková, publikácia prináša aj príspevky Idy Hledíkovej, Mareka Godoviča a Eleny Knopovej.*
 
 
-  Hekuba (Slovenské komorné divadlo, Martin),
-
-  Perplex (Divadlo Jozefa Gregora Tajovského, Zvolen).
+  *Krstom publikácie Akadémia jednak ohlasuje oficiálne ukončenie Ceny, no zároveň chce dať priestor aj Vám, divadelníkom, či divadelným fanúšikom v krátkej diskusii zazdieľať skúsenosti s ňou. Srdečne pozývame...!*
 
 
-  V okruhu ZÁPAD:
+  Publikáciu si môžete stiahnuť zdarma [TU](https://drive.google.com/file/d/1XOvRiXbOY0lnZazrItA3AVq3XQKy0Tgb/view?usp=sharing).
 
 
-  Pribina (making of) (Divadlo Andreja Bagara, Nitra)
-
-  Woyzeck (Jókaihio divadlo v Komárne).
-
-
-  V okruhu BRATISLAVA 1:
-
-
-  Hamlet (Letné Shakespearovské slávnosti)
-
-  Lazarus (Divadlo Aréna).
-
-
-  V okruhu BRATISLAVA 2:
-
-
-  Koncert na želanie (Činohra Slovenského národného divadla),
-
-  Márnosť (Divadlo Jedným dychom),
-
-  Špina (Činohra Slovenského národného divadla).
+  ![]()
 footer: |-
   © 2019 Akadémia divadelných tvorcov
 
