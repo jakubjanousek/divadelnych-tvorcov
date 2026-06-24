@@ -36,7 +36,7 @@
     "exports-loader": "^0.7.0",
     "file-loader": "^2.0.0",
     "gotrue-js": "^0.9.1",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^6.0.0",
     "gulp-babel": "^7.0.0",
     "gulp-clean-css": "^3.10.0",
